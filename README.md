@@ -29,15 +29,16 @@
 | Multi Variable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022 / A
 | Epidemic | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 / B
+| Multi Variable | Sanyo <br> Hanergy <br> Solar <br> Electricity  <br> Exchange  |         SSDNet     | [SSDNet: State Space Decomposition Neural
+Network for Time Series Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679135) | [Pytorch](https://github.com/YangLIN1997/SSDNet-ICDM2021) | ICDM 2021 / B
+| Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021 / B
+
+
+Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting        
 
 
 
-
-
-
-
-
-
+https://github.com/songyangco/STNN
 
 
 
