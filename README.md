@@ -19,7 +19,7 @@
 # [Traffic Speed Prediction](#content)
 |             Data             |         Model         |                            Paper                             | Code           | Publication                               |
 | :--------------------------: | :-------------------: | :----------------------------------------------------------: | ----------------------- | ------------------------------------------------------------ |
-| 待定  |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/none                                                |
+| METR-LA,PEMS-BAY  |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/none                                                |
 |                              |         STGCN         | [Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting](https://www.ijcai.org/Proceedings/2018/0505) | [Pytorch](https://github.com/Aguin/STGCN-PyTorch)，[Pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)，[tf](https://github.com/VeritasYin/STGCN_IJCAI-18)，[MXNet](https://github.com/Davidham3/STGCN)，[Keras](https://github.com/Knowledge-Precipitation-Tribe/STGCN-Keras) | IJCAI2018/A                                                  |
 |                              |     BaiduTraffic      | [Deep sequence learning with auxiliary information for traffic prediction](https://dl.acm.org/doi/abs/10.1145/3219819.3219895) | [tf](https://github.com/JingqingZ/BaiduTraffic) | KDD2018/A                                                 |
 |                              |     Graph WaveNet     | [Graph wavenet for deep spatial-temporal graph modeling](https://arxiv.org/abs/1906.00121) | [Pytorch](https://github.com/nnzhan/Graph-WaveNet) | IJCAI2019/A                                                  |
@@ -80,7 +80,6 @@
 | | PVCGN | [Physical-Virtual Collaboration Modeling for Intra-and Inter-Station Metro Ridership Prediction](https://arxiv.org/abs/2001.04889) | [Pytorch](https://github.com/ivechan/PVCGN) | TITS2020/B |
 | | DCRNN | [Evaluation and prediction of transportation resilience under extreme weather events: A diffusion graph convolutional approach](https://www.sciencedirect.com/science/article/pii/S0968090X19305868) | [tf](https://github.com/Charles117/resilience_shenzhen) | Transportation Research Part C: Emerging Technologies2020/none |
 | | LibCity | [LibCity: An Open Library for Traffic Prediction](https://dl.acm.org/doi/10.1145/3474717.3483923) | [Pytorch](https://github.com/LibCity/Bigscity-LibCity) | SIGSPATIAL2021/None |
-
 
 
 
