@@ -14,8 +14,8 @@
 
 
 # [Multi-variable Time Series Forecasting](#content)
-|         Task  |                    Data                         |         Model      |          Paper        |     Code     |       Publication             |
-| :-----------: | :----------------------------------------------: | :----------------: | :-------------------: | ------------ | ----------------------------- |
+|         Task  |                    Data                         |         Model      |          Paper        |     Code     |       Publication       |
+| :-----------: | :---------------------------------------------: | :---------------: | :------------------: | ----------- | ---------------------- |
 | Traffic Speed |  <div style="width: 25pt">NAVER-Seoul  <br>  METR-LA  <div> |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
 | Traffic Speed | NAVER-Seoul<br>METR-LA  |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR2022/None But Top    
 | Traffic Speed | METR-LA<br>PEMS-BAY  |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/None But Top                                                |
