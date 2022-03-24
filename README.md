@@ -25,7 +25,7 @@ Time-Series Paper List
 | Multi Variable | Temperature <br> Cloud cover  <br> Humidity <br> Wind |         CLCRN     | [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://aaai-2022.virtualchair.net/poster_aaai1716) | [Pytorch](https://github.com/BIRD-TAO/CLCRN) | AAAI 2022 / A
 | Traffic Flow | PeMSD3 <br> PeMSD4 <br> PeMSD7 <br> PeMSD8 <br> PeMSD7(M) <br> PeMSD7(L) |         STG-NCDE     | [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://aaai-2022.virtualchair.net/poster_aaai1716) | [Pytorch](https://github.com/Echo-Ji) | AAAI 2022 / A
 | Multi Variable | Electricity <br> traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022 / A
-
+| Multi Variable | ETT <br> Climate <br> Gefcom <br> M4-Daily  |         RLMC     | [Reinforcement Learning based Dynamic Model Combination for Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai8424) | None | AAAI 2022 / A
 
 
 https://aaai-2022.virtualchair.net/poster_aaai7403
