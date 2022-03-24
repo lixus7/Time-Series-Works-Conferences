@@ -12,7 +12,7 @@
 - <a href = "#Others">Others</a>
 
 
-<div style="width: 150pt">
+
 # [Multi-variable Time Series Forecasting](#content)
 |         Task  |            Data              |         Model      |          Paper        |     Code     |       Publication             |
 | :-----------: | :--------------------------: | :----------------: | :-------------------: | ------------ | ----------------------------- |
