@@ -19,16 +19,16 @@ Time-Series Paper List
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022 / <br>None But Top 
 | Multi Variable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets         | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022 / NoneButTop 
 | Multi Variable | ETT <br> Electricity <br> Weather |         CoST         | [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2) | [Pytorch](https://github.com/salesforce/CoST) | ICLR 2022 /<br> None But Top 
-| Multi Variable | Electricity <br> TRAFFIC <br> M4 <br> CASIO <br> NP |         DEPTS         | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://openreview.net/forum?id=AJAR-JgNw__) | [Pytorch](https://github.com/weifantt/DEPTS) | ICLR 2022 /<br> None But Top 
+| Multi Variable | Electricity <br> traffic <br> M4 <br> CASIO <br> NP |         DEPTS         | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://openreview.net/forum?id=AJAR-JgNw__) | [Pytorch](https://github.com/weifantt/DEPTS) | ICLR 2022 /<br> None But Top 
 | Multi Variable | ETT <br> Electricity <br> Wind <br> App Flow |         Pyraformer     | [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I) | [Pytorch](https://github.com/alipay/Pyraformer) | ICLR 2022 /<br> None But Top 
 | Multi Variable | ETT <br> ECL  <br> M4 <br> Air Quality <br> Nasdaq |         RevIN     | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p) | [Pytorch](https://github.com/ts-kim/RevIN) | ICLR 2022 /<br> None But Top 
 | Multi Variable | Temperature <br> Cloud cover  <br> Humidity <br> Wind |         CLCRN     | [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://aaai-2022.virtualchair.net/poster_aaai1716) | [Pytorch](https://github.com/BIRD-TAO/CLCRN) | AAAI 2022 / A
 | Traffic Flow | PeMSD3 <br> PeMSD4 <br> PeMSD7 <br> PeMSD8 <br> PeMSD7(M) <br> PeMSD7(L) |         STG-NCDE     | [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://aaai-2022.virtualchair.net/poster_aaai1716) | [Pytorch](https://github.com/Echo-Ji) | AAAI 2022 / A
+| Multi Variable | Electricity <br> traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022 / A
 
 
 
-
-
+https://aaai-2022.virtualchair.net/poster_aaai7403
 
 
 
