@@ -1,6 +1,6 @@
-Time-Series Paper List
+Time-Series Work and Conference
 
-# - <a href = "#Conferences">Conferences</a>
+# - <a href = "#Conferences">Jump to Conferences page</a>
 # Deep Learning Models for Time-series Task
 
 - <a href = "#Multi-Variable-Time-Series-Forecasting">Multi Variable Time Series Forecasting</a>
