@@ -36,7 +36,7 @@ table th:nth-of-type(6) {
 # [Multi-variable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Traffic Speed | <div style="width:150"> NAVER-Seoul <br> METR-LA </div>|         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
+| Traffic Speed | <div style="width:400"> NAVER-Seoul <br> METR-LA </div> |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
 
 
 
