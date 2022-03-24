@@ -129,12 +129,12 @@ FInding it on openreview:
 
 ## Deep Learning Models for Time-series Task
 
-* [Traffic Flow Prediction](#Traffic Flow Prediction) (to 2022)
-* [Traffic Speed Prediction](#Traffic Speed Prediction) (to 2022)
+* [TrafficFlowPrediction](#TrafficFlowPrediction) (to 2022)
+* [TrafficSpeedPrediction](#TrafficSpeedPrediction) (to 2022)
 
 
 
-## Traffic Flow Prediction
+## TrafficFlowPrediction
 |             Data             |         Model         |                            Paper                             | Code           | Publication                               |
 | :--------------------------: | :-------------------: | :----------------------------------------------------------: | ----------------------- | ------------------------------------------------------------ |
 | 待定 |       ST-ResNet       | [Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction](https://arxiv.org/abs/1610.00081) | [tf](https://github.com/snehasinghania/STResNet)，[Pytorch](https://github.com/BruceBinBoxing/ST-ResNet-Pytorch)，[Keras](https://github.com/Snow-Dancing/DeepST-ResNet) | AAAI2017/A                                                   |
@@ -172,7 +172,7 @@ FInding it on openreview:
 
 
 
-## Traffic Speed Prediction
+## TrafficSpeedPrediction
 |             Data             |         Model         |                            Paper                             | Code           | Publication                               |
 | :--------------------------: | :-------------------: | :----------------------------------------------------------: | ----------------------- | ------------------------------------------------------------ |
 | 待定  |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/none                                                |
