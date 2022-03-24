@@ -59,7 +59,7 @@ Time-Series Paper List
 * [ICML](#ICML) (to 2021)
 * [NeurIPS](#NeurIPS) (to 2021)
 * [CIKM](#CIKM) (to 2021)
-
+* [WSDM](#WSDM) (to 2022)
 
 
 ## AAAI
@@ -155,3 +155,7 @@ FInding it on openreview:
 ## NeurIPS
 
 [All Links](https://papers.nips.cc/)
+
+## WSDM
+
+[All Links](https://dl.acm.org/conference/wsdm)
