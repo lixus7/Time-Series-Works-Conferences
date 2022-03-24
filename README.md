@@ -13,14 +13,13 @@
 
 
 
-
 # [Multi--variable-Time-Series-Forecasting](#content)
 |         Task  |     Data        |         Model      |          Paper        |     Code     |       Publication             |
 | :-----------: | :----------------------------------------: | :-------------------: | :----------------------------------------------------: | ----------------------- | ---------------------- |
 | Traffic Speed | NAVER-Seoul<br>METR-LA  |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
 | Traffic Speed | NAVER-Seoul<br>METR-LA  |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR2022/None But Top    
 | Traffic Speed | METR-LA<br>PEMS-BAY  |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/None But Top                                                |
-| Traffic Speed |        PeMSD7(M)<br>PeMSD7(L)<br>BJER4|         STGCN         | [Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting](https://www.ijcai.org/Proceedings/2018/0505) | [Pytorch](https://github.com/Aguin/STGCN-PyTorch)，[Pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)，[tf](https://github.com/VeritasYin/STGCN_IJCAI-18)，[MXNet](https://github.com/Davidham3/STGCN)，[Keras](https://github.com/Knowledge-Precipitation-Tribe/STGCN-Keras) | IJCAI2018/A                                                  |
+| Traffic Speed |    PeMSD7(M)<br>PeMSD7(L)<br>BJER4 |         STGCN         | [Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting](https://www.ijcai.org/Proceedings/2018/0505) | [Pytorch](https://github.com/Aguin/STGCN-PyTorch)，[Pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)，[tf](https://github.com/VeritasYin/STGCN_IJCAI-18)，[MXNet](https://github.com/Davidham3/STGCN)，[Keras](https://github.com/Knowledge-Precipitation-Tribe/STGCN-Keras) | IJCAI2018/A  |
 
 
 
@@ -59,6 +58,7 @@
 | | GNN-flow | [Learning Mobility Flows from Urban Features with Spatial Interaction Models and Neural Networks](https://arxiv.org/abs/2004.11924) | [Pytorch](https://github.com/FelixOpolka/Mobility-Flows-Neural-Networks) | IEEE SMARTCOMP2020/none |
 |                              | Deep_Sedanion_Network | [Traffic flow prediction using Deep Sedenion Networks](https://arxiv.org/abs/2012.03874) | [Pytorch](https://github.com/bojesomo/Traffic4Cast2020-DeepSedanionNetwork) | arXiv2020                                                        |
 |                              |        MATGCN         | Multi-Attention Temporal Graph Convolution Network for Traffic Flow Forecasting | [Pytorch](https://github.com/lk485/matgcn) | 本科毕设                                                     |
+
 
 
 # [Multi-variable Time Series Forecasting](#content)
