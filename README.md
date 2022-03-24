@@ -127,7 +127,7 @@ FInding it on openreview:
 |CIKM 2020|[Link](https://www.cikm2020.org/index.html@p=1073.html)|  |  |
 
 
-# Deep Learning Models for Time-series Task
+## Deep Learning Models for Time-series Task
 
 This is a summary for deep learning models with open code for time-series task.
 
@@ -138,19 +138,7 @@ These models are classified based on the following tasks.
 
 * [Traffic Speed Prediction](#Traffic Speed Prediction) (to 2022)
 
-- On-Demand/Original-Destination Prediction
 
-- Travel Time Estimation
-
-- Traffic Accident Prediction
-
-- Traffic Location Prediction
-
-- Multi-Variable Time Series Forecasting
-
-- Probabilistic Multi-Variable Time Series Forecasting
-
-- Others
 
 # Traffic Flow Prediction
 |             Data             |         Model         |                            Paper                             | Code           | Publication                               |
