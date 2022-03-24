@@ -135,8 +135,6 @@ These models are classified based on the following tasks.
 
 
 
-* [Traffic Flow Prediction](#Traffic Flow Prediction) (to 2022)
-* [Traffic Speed Prediction](#Traffic Speed Prediction) (to 2022)
 - <a href = "#Traffic Flow Prediction">Traffic Flow Prediction</a>
 
 - <a href = "#Traffic Speed Prediction">Traffic Speed Prediction</a>
@@ -158,7 +156,7 @@ These models are classified based on the following tasks.
 
 |             Task             |         Model         |                            Paper                             | Code           | Publication                               |
 | :--------------------------: | :-------------------: | :----------------------------------------------------------: | ----------------------- | ------------------------------------------------------------ |
-| ## Traffic Flow Prediction |       ST-ResNet       | [Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction](https://arxiv.org/abs/1610.00081) | [tf](https://github.com/snehasinghania/STResNet)，[Pytorch](https://github.com/BruceBinBoxing/ST-ResNet-Pytorch)，[Keras](https://github.com/Snow-Dancing/DeepST-ResNet) | AAAI2017/A                                                   |
+| # [Traffic Flow Prediction](#Deep Learning Models for Time-series Task)  |       ST-ResNet       | [Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction](https://arxiv.org/abs/1610.00081) | [tf](https://github.com/snehasinghania/STResNet)，[Pytorch](https://github.com/BruceBinBoxing/ST-ResNet-Pytorch)，[Keras](https://github.com/Snow-Dancing/DeepST-ResNet) | AAAI2017/A                                                   |
 |                              |         ACFM         | [ACFM: A Dynamic Spatial-Temporal Network for Traffic Prediction](https://dl.acm.org/doi/10.1145/3240508.3240681) | [Pytorch](https://github.com/liulingbo918/ATFM) | ACM MM2018/A                                                 |
 |                              |         STDN          | [Revisiting spatial-temporal similarity: A deep learning framework for traffic prediction](https://www.aaai.org/ojs/index.php/AAAI/article/view/4511) | [Keras](https://github.com/tangxianfeng/STDN) | AAAI2019/A                                                   |
 |                              |        ASTGCN         | [Attention based spatial-temporal graph convolutional networks for traffic flow forecasting](https://www.aaai.org/ojs/index.php/AAAI/article/view/3881) | [Pytorch](https://github.com/guoshnBJTU/ASTGCN-r-Pytorch) | AAAI2019/A                                                  |
@@ -190,7 +188,7 @@ These models are classified based on the following tasks.
 | | GNN-flow | [Learning Mobility Flows from Urban Features with Spatial Interaction Models and Neural Networks](https://arxiv.org/abs/2004.11924) | [Pytorch](https://github.com/FelixOpolka/Mobility-Flows-Neural-Networks) | IEEE SMARTCOMP2020/none |
 |                              | Deep_Sedanion_Network | [Traffic flow prediction using Deep Sedenion Networks](https://arxiv.org/abs/2012.03874) | [Pytorch](https://github.com/bojesomo/Traffic4Cast2020-DeepSedanionNetwork) | arXiv2020                                                        |
 |                              |        MATGCN         | Multi-Attention Temporal Graph Convolution Network for Traffic Flow Forecasting | [Pytorch](https://github.com/lk485/matgcn) | 本科毕设                                                     |
-|   # [Traffic Speed Prediction](#content)   |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/none                                                |
+| # [Traffic Speed Prediction](#Deep Learning Models for Time-series Task)  |         DCRNN         | [Diffusion convolutional recurrent neural network: Data-driven traffic forecasting](https://arxiv.org/abs/1707.01926) | [tf](https://github.com/liyaguang/DCRNN)，[Pytorch](https://github.com/chnsh/DCRNN_PyTorch) | ICLR2018/none                                                |
 |                              |         STGCN         | [Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting](https://www.ijcai.org/Proceedings/2018/0505) | [tf](https://github.com/VeritasYin/STGCN_IJCAI-18)，[MXNet](https://github.com/Davidham3/STGCN)，[Pytorch](https://github.com/FelixOpolka/STGCN-PyTorch)，[Keras](https://github.com/Knowledge-Precipitation-Tribe/STGCN-Keras) | IJCAI2018/A                                                  |
 |                              |     BaiduTraffic      | [Deep sequence learning with auxiliary information for traffic prediction](https://dl.acm.org/doi/abs/10.1145/3219819.3219895) | [tf](https://github.com/JingqingZ/BaiduTraffic) | KDD2018/A                                                 |
 |                              |     Graph WaveNet     | [Graph wavenet for deep spatial-temporal graph modeling](https://arxiv.org/abs/1906.00121) | [Pytorch](https://github.com/nnzhan/Graph-WaveNet) | IJCAI2019/A                                                  |
