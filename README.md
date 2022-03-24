@@ -16,7 +16,7 @@ Time-Series Paper List
 # [Multi-variable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Traffic Speed | METR-LA<br NAVER-Seoul>|         PMPPPMemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
+| Traffic Speed | METR-LA<br> NAVER-Seoul|         PMPPPMemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
 
 
 
