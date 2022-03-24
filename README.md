@@ -6,7 +6,12 @@
 - <a href = "#Traffic-Flow-Prediction">Traffic Flow Prediction</a>
 - <a href = "#Traffic-Speed-Prediction">Traffic Speed Prediction</a>
 - <a href = "#On--Demand/Original--Destination-Prediction">On-Demand/Original-Destination Prediction</a>
-
+- <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
+- <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
+- <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
+- <a href = "#Multi--variable-Time-Series-Forecasting">Multi-variable Time Series Forecasting</a>
+- <a href = "#Probabilistic-Multi--variable-Time-Series-Forecasting">Probabilistic Multi-variable Time Series Forecasting</a>
+- <a href = "#Others">Others</a>
 
 # [Traffic Flow Prediction](#content)
 |             Data             |         Model         |                            Paper                             | Code           | Publication                               |
