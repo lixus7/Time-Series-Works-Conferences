@@ -16,7 +16,7 @@
 # [Multi-variable Time Series Forecasting](#content)
 |         Task  |                    Data                         |         Model     |          Paper       |     Code     |       Publication       |
 | :-----------: | :---------------------------------------------: | :---------------: | :------------------: | ----------- | ---------------------- |
-| Traffic Speed |  <div style="width: 40pt">NAVERSeoul  <br>  METR-LA  <div> |         PMMemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
+| Traffic Speed |  <div style="width: 40pt">NAVERSSSSeoul  <br>  METR-LA  <div> |         PMPPPMemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | AAAI2022/A 
 
 
 
