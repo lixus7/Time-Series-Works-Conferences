@@ -12,27 +12,6 @@ Time-Series Paper List
 - <a href = "#Others">Others</a>
 
 
-<style>
-table th:first-of-type {
-    width: 100;
-}
-table th:nth-of-type(2) {
-    width: 200;
-}
-table th:nth-of-type(3) {
-    width: 100;
-}
-table th:nth-of-type(4) {
-    width: 500;
-}
-table th:nth-of-type(5) {
-    width: 200;
-}
-table th:nth-of-type(6) {
-    width: 150;
-}  
-</style>
-
 # [Multi-variable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
