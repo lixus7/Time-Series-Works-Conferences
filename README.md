@@ -133,17 +133,21 @@ This is a summary for deep learning models with open code for traffic prediction
 
 These models are classified based on the following tasks.
 
-- Traffic flow prediction
+- Multi-Variable Time Series Forecasting
 
-- Traffic speed prediction
+- Probabilistic Multi-Variable Time Series Forecasting
 
-- On-Demand service prediction
+- Traffic Flow Prediction
 
-- Travel time prediction
+- Traffic Speed Prediction
 
-- Traffic accident prediction
+- On-Demand/Original-Destination Prediction
 
-- Traffic location prediction
+- Travel Time Estimation
+
+- Traffic Accident Prediction
+
+- Traffic Location Prediction
 
 - Others
 
