@@ -4,7 +4,7 @@
 # Deep Learning Models for Time-series Task
 
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
-- <a href = "#Probabilistic-Multi--variable-Time-Series-Forecasting">Probabilistic Multi-variable Time Series Forecasting</a>
+- <a href = "#Probabilistic-Multivariable-Time-Series-Forecasting">Probabilistic Multivariable Time Series Forecasting</a>
 - <a href = "#On--Demand/Original--Destination-Prediction">On-Demand/Original-Destination Prediction</a>
 - <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
 - <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
