@@ -46,7 +46,7 @@
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Density Estimation & Anomaly Detection | Sichuan <br> Panama |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
+| Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
 
 
 
