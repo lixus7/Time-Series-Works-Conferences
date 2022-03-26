@@ -141,7 +141,7 @@ TheWebConf
 FInding it on openreview:
 
 
-> https://openreview.net/group?id=ICLR.cc/20xx/Conferenceeg:
+> Homepage https://openreview.net/group?id=ICLR.cc
 >
 
 | Conference | Source                                                     | Deadline | Notification |
@@ -154,7 +154,7 @@ FInding it on openreview:
 
 ## ICML
 
->  Format https://icml.cc/Conferences/20xx/Schedule
+>  Homepage https://icml.cc
 
 | Conference | Source                                                     | Deadline | Notification |
 | ---------- | ---------------------------------------------------------- | ---------- | ---------- |
