@@ -1,6 +1,10 @@
 # Time-Series Work and Conference
 
 # - <a href = "#Conferences">Jump to Conferences page</a>
+# Conferences Submission Appropriate Time
+> ICLR: 10
+
+> AAAI: 9
 # Deep Learning Models for Time-series Task
 
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
