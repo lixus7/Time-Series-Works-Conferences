@@ -4,7 +4,7 @@
 # Conferences Submission Appropriate Time
 > ICLR: 10
 
-> AAAI: 9
+> AAAI: 9.5~9.15
 # Deep Learning Models for Time-series Task
 
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
