@@ -1,7 +1,7 @@
 # Time-Series Work and Conference
 
 # - <a href = "#Conferences">Jump to Conferences page</a>
-# Conferences Submission Appropriate Time (Recent 5 Years)
+# Conferences Submission Appropriate Time (Recent 7 Years)
 > ICLR: 9.25~10.27
 
 > AAAI : 9.5~9.15
@@ -12,7 +12,14 @@
 
 > IJCAI: 1.14~2.15
 
-> ICML : 2.3~2.17
+> ICML : 1.23~2.24
+
+> WWW  : 10.14~11.5
+
+> CIKM : 5.15~5.26
+
+> WSDM : 7.17~8.16
+
 # Deep Learning Models for Time-series Task
 
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
