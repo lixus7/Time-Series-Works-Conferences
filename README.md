@@ -84,6 +84,7 @@
 | Imputation | METR-LA <br> NREL <br> USHCN <br> SeData |         IGNNK        | [Inductive Graph Neural Networks for Spatiotemporal Kriging](https://ojs.aaai.org/index.php/AAAI/article/view/16575) | [Pytorch](https://github.com/Kaimaoge/IGNNK) | AAAI 2021 / A
 | Imputation | Activity  <br> PhysioNet <br> Air Quality |         SSGAN       | [Generative Semi-supervised Learning for Multivariate Time Series Imputation](https://ojs.aaai.org/index.php/AAAI/article/view/17086) | [Pytorch](https://github.com/zjuwuyy-DL/Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation) | AAAI 2021 / A
 | Imputation | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021 / A
+| Imputation | PhysioNet  <br> Air Quality <br> Gas Sensor |         STING       | [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/abstract/document/9679183) | None | ICDM 2021 / B
 
 
 
