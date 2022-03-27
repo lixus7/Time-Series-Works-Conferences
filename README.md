@@ -112,7 +112,7 @@
 
 
 
-# [Travel Accident Prediction](#content)
+# [Traffic Accident Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
