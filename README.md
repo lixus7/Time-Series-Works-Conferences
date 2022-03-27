@@ -115,7 +115,7 @@
 # [Traffic Accident Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:7 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:3 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Accident | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022 / A
 | Accident | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021 / A
 | Accident | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [Tensorflow](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020 / A
