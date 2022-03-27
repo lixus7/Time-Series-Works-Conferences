@@ -70,16 +70,18 @@
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022 / A
 
 
+
 # [Time Series Imputation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Imputation | Chlorine level <br> SML2010 <br> Air Quality |         D-NLMC        | [Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation](https://aaai-2022.virtualchair.net/poster_aaai12088) | [Matlab](https://github.com/jicongfan)future | AAAI 2022 / A
+| Imputation | COMPAS <br> Adult <br> HSLS |         ME        | [Online Missing Value Imputation and Change Point Detection with the Gaussian Copula](https://aaai-2022.virtualchair.net/poster_aaai6237) | [gcimpute](https://github.com/yuxuanzhao2295/Online-Missing-Value-Imputation-and-Change-Point-Detection-with-the-Gaussian-Copula) | AAAI 2022 / A
+| Imputation |  |         Fair MIP Forest        | [Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values](https://aaai-2022.virtualchair.net/poster_aaai6921) | None | AAAI 2022 / A
 | Imputation | Physionet <br> MIMIC-III <br> Human Activity  |         mTAND        | [Multi-Time Attention Networks for Irregularly Sampled Time Series](https://openreview.net/forum?id=4c0J6lwQ4_) | [Pytorch](https://github.com/reml-lab/mTAN)  | ICLR 2021 /<br> None But Top 
 | Imputation | METR-LA <br> NREL <br> USHCN <br> SeData |         IGNNK        | [Inductive Graph Neural Networks for Spatiotemporal Kriging](https://ojs.aaai.org/index.php/AAAI/article/view/16575) | [Pytorch](https://github.com/Kaimaoge/IGNNK) | AAAI 2021 / A
 | Imputation | Activity  <br> PhysioNet <br> Air Quality |         SSGAN       | [Generative Semi-supervised Learning for Multivariate Time Series Imputation](https://ojs.aaai.org/index.php/AAAI/article/view/17086) | [Pytorch](https://github.com/zjuwuyy-DL/Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation) | AAAI 2021 / A
 | Imputation | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021 / A
-
-
 
 
 
