@@ -39,7 +39,7 @@
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:? | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022 / <br>None But Top 
 | Multivariable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets         | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022 /<br> None But Top 
 | Multivariable | ETT <br> Electricity <br> Weather |         CoST         | [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2) | [Pytorch](https://github.com/salesforce/CoST) | ICLR 2022 /<br> None But Top 
@@ -62,7 +62,7 @@
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:4 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | probability & <br> Point & <br> Others |  UCI <br> VOC <br> electricity  |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022 /<br> None But Top 
 | probability  |   |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 /<br> None But Top 
 | probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022 /<br> None But Top 
@@ -73,7 +73,7 @@
 # [Time Series Imputation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums: 10| <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Imputation |  Air Quality <br> METR-LA <br> PeMS-Bay <br> CER-E  |         GRIN        | [Filling the G_ap_s-Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7) |  [Pytorch](https://github.com/Graph-Machine-Learning-Group/grin) | ICLR 2022 /<br> None But Top 
 | Imputation |  PhysioNet <br> MIMIC-III <br> Climate  |         HeTVAE        | [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3) |  [Pytorch](https://github.com/reml-lab/hetvae) | ICLR 2022 /<br> None But Top 
 | Imputation |  MIMIC-III <br> OPHTHALMIC <br> MNIST Physionet <br> |         GIL        | [Gradient Importance Learning for Incomplete Observations](https://openreview.net/forum?id=fXHl76nO2AZ) |  [Tensorflow](https://github.com/gaoqitong/gradient-importance-learning) | ICLR 2022 /<br> None But Top 
@@ -91,7 +91,7 @@
 # [On-Demand-Original-Destination Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums: 3| <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022 / A
 | Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2022 / A
 | Traffic Demand | Beijing  <br> Shanghai  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2022 / A
@@ -101,7 +101,7 @@
 # [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:6 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | TTE | Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021 / A
 | TTE | Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [Tensorflow](https://github.com/didi/heteta)  | KDD 2020 / A
 | TTE | Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020 / A
@@ -115,7 +115,7 @@
 # [Traffic Accident Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:7 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Accident | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022 / A
 | Accident | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021 / A
 | Accident | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [Tensorflow](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020 / A
@@ -124,7 +124,7 @@
 # [Traffic Location Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:3 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | AAAI 2022 / A
 | Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022 / B
 | Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 / B
@@ -134,7 +134,7 @@
 # [Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| 还没数 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:3 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
 |  Anomaly Detection |   |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
