@@ -28,11 +28,11 @@
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
 - <a href = "#Multivariable-Probabilistic-Time-Series-Forecasting">Multivariable Probabilistic Time Series Forecasting</a>
 - <a href = "#Time-Series-Imputation">Time Series Imputation</a>
+- <a href = "#Anomaly-Detection">Anomaly Detection</a>
 - <a href = "#On-Demand-Original-Destination-Prediction">On-Demand/Original-Destination Prediction</a>
 - <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
-- <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
 - <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
-- <a href = "#Anomaly-Detection">Anomaly Detection</a>
+- <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
 
@@ -114,6 +114,23 @@
 
 
 
+# [Anomaly Detection](#content)
+|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
+| :-: | :-: | :-: | :-: | - | - |
+| Paper Nums:4 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
+|  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
+|  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
+|  Anomaly Detection |     |       AnomalyKiTS   | [AnomalyKiTS-Anomaly Detection Toolkit for Time Series](https://aaai-2022.virtualchair.net/poster_dm318) | None | AAAI 2022 /<br>A
+|  Anomaly Detection |  SWaT <br> WADI <br> MSL <br> SMAP <br> SMD  |       PA   | [Towards a Rigorous Evaluation of Time-Series Anomaly Detection](https://aaai-2022.virtualchair.net/poster_aaai2239) |  None  | AAAI 2022 /<br>A
+|  Anomaly Detection |  SWaT <br> WADI <br> SMD <br> ASD  |       InterFusion   | [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://dl.acm.org/doi/10.1145/3447548.3467075) |  [Tensorflow](https://github.com/zhhlee/InterFusion)  | KDD 2021 /<br>A
+|  Anomaly Detection |  SMD <br> SWaT <br> PSM <br> BKPI  |       RANSynCoders   | [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://doi.org/10.1145/3447548.3467174) |  [Tensorflow](https://github.com/eBay/RANSynCoders)  | KDD 2021 /<br>A
+|  Anomaly Detection |  PUMP <br> WADI <br> SWaT  |       NSIBF   | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137) |  [Tensorflow](https://github.com/NSIBF/NSIBF)  | KDD 2021 /<br>A
+|  Anomaly Detection |  SWaT <br> WADI   |       GDN   | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) |  [Pytorch](https://github.com/d-ailin/GDN)  | AAAI 2021 /<br>A
+|  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  [Pytorch](https://github.com/d-ailin/GDN)  | IJCAI 2020 /<br>A
+|  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  /<br>A
+|  Anomaly Detection |  MORE  |       MORE   | [https://github.com/drzhang3/DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  /<br>A
+
 
 
 
@@ -130,6 +147,25 @@
 
 
 
+
+
+# [Traffic Location Prediction](#content)
+|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
+| :-: | :-: | :-: | :-: | - | - |
+| Paper Nums:3 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | AAAI 2022 / A
+| Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022 / B
+| Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 / B
+| Location | ETH <br> HODEL  <br> UNIV <br> ZARA1 <br> ZARA2   |     CARPe       | [CARPe Posterum: A Convolutional Approach for Real-Time Pedestrian Path Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16335) | [Pytorch](https://github.com/TeCSAR-UNCC/CARPe_Posterum) | AAAI 2021 / A
+| Location | ETH <br> HODEL  <br> UNIV <br> ZARA1 <br> ZARA2   |     DMRGCN       | [Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16174) | [Pytorch](https://github.com/TeCSAR-UNCC/CARPe_Posterum) | AAAI 2021 / A
+| Location |  MORE  |     MORE       | [https://github.com/Pursueee/Trajectory-Paper-Collation](https://ojs.aaai.org/index.php/AAAI/article/view/16174) | [Pytorch](https://github.com/Pursueee/Trajectory-Paper-Collation) | MORE / A
+
+
+
+
+
+
+
 # [Traffic Accident Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
@@ -142,32 +178,6 @@
 
 
 
-# [Traffic Location Prediction](#content)
-|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:3 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | AAAI 2022 / A
-| Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022 / B
-| Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 / B
-
-
-
-# [Anomaly Detection](#content)
-|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:4 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
-|  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
-|  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
-|  Anomaly Detection |     |       AnomalyKiTS   | [AnomalyKiTS-Anomaly Detection Toolkit for Time Series](https://aaai-2022.virtualchair.net/poster_dm318) | None | AAAI 2022 /<br>A
-|  Anomaly Detection |  SWaT <br> WADI <br> MSL <br> SMAP <br> SMD  |       PA   | [Towards a Rigorous Evaluation of Time-Series Anomaly Detection](https://aaai-2022.virtualchair.net/poster_aaai2239) |  None  | AAAI 2022 /<br>A
-|  Anomaly Detection |  SWaT <br> WADI <br> SMD <br> ASD  |       InterFusion   | [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://dl.acm.org/doi/10.1145/3447548.3467075) |  [Tensorflow](https://github.com/zhhlee/InterFusion)  | KDD 2021 /<br>A
-|  Anomaly Detection |  SMD <br> SWaT <br> PSM <br> BKPI  |       RANSynCoders   | [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://doi.org/10.1145/3447548.3467174) |  [Tensorflow](https://github.com/eBay/RANSynCoders)  | KDD 2021 /<br>A
-|  Anomaly Detection |  PUMP <br> WADI <br> SWaT  |       NSIBF   | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137) |  [Tensorflow](https://github.com/NSIBF/NSIBF)  | KDD 2021 /<br>A
-
-
-
-
 
 
 
@@ -177,6 +187,7 @@
 | Paper Nums:1 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Crop Yield  | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022 /<br> A
 | Epidemic | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
+| Career Trajectory   | Company  <br> Position   |      TACTP          | [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/10.1145/3442381.3449959) | None | WWW 2021 / A
 | Health | NASH <br> AD  |         ST-SHN     | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) |     [Pytorch](https://github.com/Chacha-Chen/UNITE)   | KDD 2021 / A
 | Crime | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [Pytorch](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021 / A
 | Parking  | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
