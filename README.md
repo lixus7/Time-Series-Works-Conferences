@@ -33,7 +33,7 @@
 - <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
 - <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
 - <a href = "#Anomaly-Detection">Anomaly Detection</a>
-- <a href = "#Others">Others</a>
+- <a href = "#Other-Forecasting">Other Forecasting</a>
 
 
 # [Multivariable Time Series Forecasting](#content)
@@ -51,7 +51,6 @@
 | Multivariable | GT-221 <br> WRS-393 <br> ZGC-564 |         STDEN     | [STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction](https://aaai-2022.virtualchair.net/poster_aaai211) | [Pytorch](https://github.com/Echo-Ji/STDEN)   | AAAI 2022 / A
 | Multivariable | Electricity <br> traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022 / A
 | Multivariable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022 / A
-| Epidemic | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 / B
 | Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021 / B
 | Traffic Speed | DiDiChengdu <br> DiDiXiAn  |         T-wave     | [Trajectory WaveNet: A Trajectory-Based Model for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679147) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021 / B
@@ -71,6 +70,9 @@
 | probability  |     |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 /<br> None But Top 
 | probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022 /<br> None But Top 
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022 / A
+| probability & Point | Energy <br> Wine <br> Power <br> MSD, etc |         PGBM        | [Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression](https://dl.acm.org/doi/10.1145/3447548.3467278) |  [Pytorch](https://github.com/elephaint/pgbm) | KDD 2021 / A
+
+
 
 
 
@@ -98,6 +100,7 @@
 
 
 
+
 # [On-Demand-Original-Destination Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
@@ -108,8 +111,7 @@
 | Traffic Demand | Beijing  <br> Shanghai  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2021 / A
 | Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021 / A
 | Ambulance Demand | Tokyo |         EMS-Pred       | [Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9458623) |  [Pytorch](https://github.com/underdoc-wang/EMS-Pred-ICDE-21)  | ICDE 2021 / A
-| Parking  | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020 / A
-| Parking  | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
+
 
 
 
@@ -153,11 +155,40 @@
 # [Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:3 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:4 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
-|  Anomaly Detection |   |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
+|  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
+|  Anomaly Detection |     |       AnomalyKiTS   | [AnomalyKiTS-Anomaly Detection Toolkit for Time Series](https://aaai-2022.virtualchair.net/poster_dm318) | None | AAAI 2022 /<br>A
+|  Anomaly Detection |  SWaT <br> WADI <br> MSL <br> SMAP <br> SMD  |       PA   | [Towards a Rigorous Evaluation of Time-Series Anomaly Detection](https://aaai-2022.virtualchair.net/poster_aaai2239) |  None  | AAAI 2022 /<br>A
+|  Anomaly Detection |  SWaT <br> WADI <br> SMD <br> ASD  |       InterFusion   | [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://dl.acm.org/doi/10.1145/3447548.3467075) |  [Tensorflow](https://github.com/zhhlee/InterFusion)  | KDD 2021 /<br>A
+|  Anomaly Detection |  SMD <br> SWaT <br> PSM <br> BKPI  |       RANSynCoders   | [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://doi.org/10.1145/3447548.3467174) |  [Tensorflow](https://github.com/eBay/RANSynCoders)  | KDD 2021 /<br>A
+|  Anomaly Detection |  PUMP <br> WADI <br> SWaT  |       NSIBF   | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137) |  [Tensorflow](https://github.com/NSIBF/NSIBF)  | KDD 2021 /<br>A
 
+
+
+
+
+
+
+# [Other Forecasting](#content)
+|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
+| :-: | :-: | :-: | :-: | - | - |
+| Paper Nums:1 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Crop Yield  | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022 /<br> A
+| Epidemic | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
+| Health | NASH <br> AD  |         ST-SHN     | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) |     [Pytorch](https://github.com/Chacha-Chen/UNITE)   | KDD 2021 / A
+| Crime | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [Pytorch](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021 / A
+| Parking  | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
+| Parking  | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020 / A
+
+
+
+
+
+
+
+[Pytorch](https://github.com/akaxlh/ST-SHN)
 
 # [Conferences](#content)
 
