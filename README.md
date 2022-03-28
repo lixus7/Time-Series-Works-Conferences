@@ -3,6 +3,7 @@
 # - <a href = "#Conferences">Jump to Conferences page</a>
 # Conf Submission Appropriate Time (Recent 7 Years)
 
+### Current Year 
 > IJCAI : 1.14~2.15
 
 > ICML  : 1.23~2.24
@@ -15,6 +16,7 @@
 
 > ICDM  : 6.5~6.17
 
+### Next Year 
 > WSDM  : 7.17~8.16
 
 > AAAI  : 9.5~9.15
