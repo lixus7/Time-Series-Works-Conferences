@@ -96,11 +96,16 @@
 # [On-Demand-Original-Destination Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums: 3| <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums: 4| <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022 / A
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022 / A
-| Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2022 / A
-| Traffic Demand | Beijing  <br> Shanghai  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2022 / A
+| Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2021 / A
+| Traffic Demand | Beijing  <br> Shanghai  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2021 / A
+| Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021 / A
+| Ambulance Demand | Tokyo |         EMS-Pred       | [Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9458623) |  [Pytorch](https://github.com/underdoc-wang/EMS-Pred-ICDE-21)  | ICDE 2021 / A
+| Parking Availability | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
+
+
 
 
 
@@ -114,7 +119,6 @@
 | TTE | Beijing <br> Shanghai    |     TTPNet        | [TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding](https://ieeexplore.ieee.org/abstract/document/9261122) |   [Pytorch](https://github.com/YibinShen/TTPNet)  | TKDE 2020 / A
 | TTE | Porto <br> Chengdu    |     DeepIST        | [DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation](https://dl.acm.org/doi/abs/10.1145/3357384.3357870) |   [Tensorflow](https://github.com/csiesheep/deepist)  | CIKM 2019 / B
 | TTE | Chengdu <br> Beijing    |     DeepTTE        | [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/11877) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018 / A
-
 
 
 
