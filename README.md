@@ -59,6 +59,10 @@
 | Traffic Volumn | Hangzhou City <br> Jinan City |         CTVI     | [Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679045) | [Pytorch](https://github.com/dsj96/CTVI-master) | ICDM 2021 / B
 | Traffic Volumn | Uber Movements <br>  Grab-Posisi |         TEST-GCN     | [TEST-GCN: Topologically Enhanced Spatial-Temporal Graph Convolutional Networks for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679077) | None | ICDM 2021 / B
 
+
+
+
+
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
@@ -93,6 +97,7 @@
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums: 3| <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022 / A
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022 / A
 | Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2022 / A
 | Traffic Demand | Beijing  <br> Shanghai  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2022 / A
