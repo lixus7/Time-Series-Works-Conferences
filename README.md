@@ -1,7 +1,7 @@
 # Time-Series Work and Conference
 
 # - <a href = "#Conferences">Jump to Conferences page</a>
-# Conferences Submission Appropriate Time (Recent 7 Years)
+# Conf Submission Appropriate Time (Recent 7 Years)
 
 > IJCAI : 1.14~2.15
 
