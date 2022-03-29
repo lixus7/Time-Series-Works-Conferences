@@ -70,9 +70,15 @@
 | probability  |     |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 /<br> None But Top 
 | probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022 /<br> None But Top 
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022 / A
+| probability & Point | PeMSD3 <br> PeMSD4 <br> PeMSD7 <br> PeMSD8 <br>  Electricity  <br>   Traffic , etc |         AGCGRU        | [RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting](https://proceedings.mlr.press/v139/pal21b.html) |  [Tensorflow](https://github.com/networkslab/rnn_flow) | ICML 2021 / A
+| probability | Tourism <br> Labour <br> Traffic <br> Wiki <br>  Electricity  <br>   Traffic , etc |         Hier-E2E        | [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a.html) |  [MXNet](https://github.com/rshyamsundar/gluonts-hierarchical-ICML-2021) | ICML 2021 / A
+| probability | Exchange <br> Solar <br> Electricity <br> Traffic <br>  Taxi  <br>   Wiki  |        TimeGrad      | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](http://proceedings.mlr.press/v139/rasul21a.html) |  [Pytorch](https://github.com/zalandoresearch/pytorch-ts) | ICML 2021 / A
+| probability | Sine <br> MNIST <br> Billiards <br> S&P <br>  Stock   |        Whittle      | [Whittle Networks: A Deep Likelihood Model for Time Series](http://proceedings.mlr.press/v139/yu21c.html) | [Tensorflow](https://github.com/ml-research/WhittleNetworks) | ICML 2021 / A
 | probability & Point | Energy <br> Wine <br> Power <br> MSD, etc |         PGBM        | [Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression](https://dl.acm.org/doi/10.1145/3447548.3467278) |  [Pytorch](https://github.com/elephaint/pgbm) | KDD 2021 / A
-
-
+| probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  A
+ 
+ 
+ 
 
 
 
