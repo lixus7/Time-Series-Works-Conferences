@@ -111,6 +111,20 @@
 | Traffic Demand | Beijing  <br> Shanghai  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2021 / A
 | Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021 / A
 | Ambulance Demand | Tokyo |         EMS-Pred       | [Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9458623) |  [Pytorch](https://github.com/underdoc-wang/EMS-Pred-ICDE-21)  | ICDE 2021 / A
+| Traffic  Demand | Chengdu <br> NYC |         DAGNN       | [Dynamic Auto-structuring Graph Neural Network-A Joint Learning Framework for Origin-Destination Demand Prediction](https://ieeexplore.ieee.org/abstract/document/9657493) | None   | TKDE 2021 / A
+| Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         CAS       | [Short-term origin-destination demand prediction in urban rail transit systems: A channel-wise attentive split-convolutional neural network method](https://doi.org/10.1016/j.trc.2020.102928) |  None   |  Transportation Research Part C / SCI 1 Top
+| Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         ST-ED       | [Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network](https://doi.org/10.1016/j.trc.2020.102858) |  None   |  Transportation Research Part C / SCI 1 Top
+| Traffic Demand |  Seattle bikeshare  |       FairST      | [Fairness-Aware Demand Prediction for New Mobility](https://ojs.aaai.org/index.php/AAAI/article/view/5458) | None | AAAI 2021 / A
+
+ [Pytorch](https://github.com/underdoc-wang/EMS-Pred-ICDE-21) 
+
+
+
+
+
+
+
+
 
 
 
@@ -127,9 +141,11 @@
 |  Anomaly Detection |  SMD <br> SWaT <br> PSM <br> BKPI  |       RANSynCoders   | [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://doi.org/10.1145/3447548.3467174) |  [Tensorflow](https://github.com/eBay/RANSynCoders)  | KDD 2021 /<br>A
 |  Anomaly Detection |  PUMP <br> WADI <br> SWaT  |       NSIBF   | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137) |  [Tensorflow](https://github.com/NSIBF/NSIBF)  | KDD 2021 /<br>A
 |  Anomaly Detection |  SWaT <br> WADI   |       GDN   | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) |  [Pytorch](https://github.com/d-ailin/GDN)  | AAAI 2021 /<br>A
+|  Anomaly Detection |  KPI <br> Yahoo   |      FluxEV   | [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://doi.org/10.1145/3437963.3441823) |  None   | WSDM 2021 /<br> B
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  [Pytorch](https://github.com/d-ailin/GDN)  | IJCAI 2020 /<br>A
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  /<br>A
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/drzhang3/DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  /<br>A
+
 
 
 
@@ -185,13 +201,20 @@
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums:7 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Crop Yield  | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022 /<br> A
-| Epidemic | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
-| Career Trajectory   | Company  <br> Position   |      TACTP          | [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/10.1145/3442381.3449959) | None | WWW 2021 / A
-| Health | NASH <br> AD  |         ST-SHN     | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) |     [Pytorch](https://github.com/Chacha-Chen/UNITE)   | KDD 2021 / A
-| Crime | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [Pytorch](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021 / A
-| Parking  | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
-| Parking  | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020 / A
+| Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022 /<br> A
+| Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
+| Career Trajectory Prediction  | Company  <br> Position   |      TACTP          | [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/10.1145/3442381.3449959) | None | WWW 2021 / A
+| Health Prediction | NASH <br> AD  |        UNITE    | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) |     [Pytorch](https://github.com/Chacha-Chen/UNITE)   | WWW 2021 / A
+| Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [Pytorch](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021 / A
+| Market Demand  |  Juhuasuan  <br> Tiantiantemai     |        RMLDP    | [Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records](https://doi.org/10.1145/3437963.3441750) |    None  | WSDM 2021 / B
+| Event  Prediction  |  DJIA30   <br> WebTraffic   <br> NetFlow  <br> ClockErr  <br>   AbServe  |        EvoNet    | [Time-Series Event Prediction with Evolutionary State Graph](https://doi.org/10.1145/3437963.3441827) |   None   | WSDM 2021 / B
+| Parking Prediction | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
+| Parking  Prediction | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020 / A
+| Drug Demand  |  Wikipedia  |        None          | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://www.ijcai.org/proceedings/2020/610) | None  | WWW 2020 / A
+
+
+
+
 
 
 
