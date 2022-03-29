@@ -65,7 +65,7 @@
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:4 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | probability & <br> Point & <br> Others |  UCI <br> VOC <br> electricity  |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022 /<br> None But Top 
 | probability  |     |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 /<br> None But Top 
 | probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022 /<br> None But Top 
@@ -98,7 +98,7 @@
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:12 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:13 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
 |  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
@@ -118,10 +118,10 @@
 
 
 
-# [On-Demand-Original-Destination Prediction](#content)
+# [Demand Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums: 6| <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums: 12 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022 / A
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022 / A
 | Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2021 / A
@@ -129,10 +129,11 @@
 | Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021 / A
 | Ambulance Demand | Tokyo |         EMS-Pred       | [Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9458623) |  [Pytorch](https://github.com/underdoc-wang/EMS-Pred-ICDE-21)  | ICDE 2021 / A
 | Traffic  Demand | Chengdu <br> NYC |         DAGNN       | [Dynamic Auto-structuring Graph Neural Network-A Joint Learning Framework for Origin-Destination Demand Prediction](https://ieeexplore.ieee.org/abstract/document/9657493) | None   | TKDE 2021 / A
+| Market Demand  |  Juhuasuan  <br> Tiantiantemai     |        RMLDP    | [Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records](https://doi.org/10.1145/3437963.3441750) |    None  | WSDM 2021 / B
 | Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         CAS       | [Short-term origin-destination demand prediction in urban rail transit systems: A channel-wise attentive split-convolutional neural network method](https://doi.org/10.1016/j.trc.2020.102928) |  None   |  Transportation Research Part C / SCI 1 Top
 | Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         ST-ED       | [Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network](https://doi.org/10.1016/j.trc.2020.102858) |  None   |  Transportation Research Part C / SCI 1 Top
 | Traffic Demand |  Seattle bikeshare  |       FairST      | [Fairness-Aware Demand Prediction for New Mobility](https://ojs.aaai.org/index.php/AAAI/article/view/5458) | None | AAAI 2021 / A
-
+| Drug Demand  |  Wikipedia  |        None          | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://www.ijcai.org/proceedings/2020/610) | None  | WWW 2020 / A
 
 
 
@@ -187,17 +188,16 @@
 # [Other Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:7 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:8 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022 /<br> A
 | Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022 / A
 | Career Trajectory Prediction  | Company  <br> Position   |      TACTP          | [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/10.1145/3442381.3449959) | None | WWW 2021 / A
 | Health Prediction | NASH <br> AD  |        UNITE    | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) |     [Pytorch](https://github.com/Chacha-Chen/UNITE)   | WWW 2021 / A
 | Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [Pytorch](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021 / A
-| Market Demand  |  Juhuasuan  <br> Tiantiantemai     |        RMLDP    | [Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records](https://doi.org/10.1145/3437963.3441750) |    None  | WSDM 2021 / B
 | Event  Prediction  |  DJIA30   <br> WebTraffic   <br> NetFlow  <br> ClockErr  <br>   AbServe  |        EvoNet    | [Time-Series Event Prediction with Evolutionary State Graph](https://doi.org/10.1145/3437963.3441827) |   None   | WSDM 2021 / B
 | Parking Prediction | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020 / A
-| Parking  Prediction | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020 / A
-| Drug Demand  |  Wikipedia  |        None          | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://www.ijcai.org/proceedings/2020/610) | None  | WWW 2020 / A
+| Parking Prediction | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020 / A
+
 
 
 
