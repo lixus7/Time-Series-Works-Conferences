@@ -214,16 +214,6 @@
 
 
 
-
-
-
-
-
-
-
-
-[Pytorch](https://github.com/akaxlh/ST-SHN)
-
 # [Conferences](#content)
 
 
