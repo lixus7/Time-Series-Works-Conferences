@@ -102,11 +102,6 @@
 | Imputation | PhysioNet  <br> Air Quality <br> Gas Sensor |         STING       | [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/abstract/document/9679183) | None | ICDM 2021 / B
 
 
-|  <img width=813/> |
-# [Multivariable Time Series Forecasting](#content)
-|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | :-:  | - |
-|<img width=90/>|<img width=90/>|<img width=120/>|     |<img width=100/>|<img width=150/>| 
 
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
