@@ -23,7 +23,7 @@
 
 > WWW   : 10.14~11.5
 
-# Deep Learning Models for Time Series Task
+# Recent Time Series Work Group by Task
 
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
 - <a href = "#Multivariable-Probabilistic-Time-Series-Forecasting">Multivariable Probabilistic Time Series Forecasting</a>
