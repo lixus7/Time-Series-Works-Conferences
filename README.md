@@ -105,7 +105,7 @@
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-:  | - |
-|  <img width=120/> | <img width=130/> |   <img width=120/>   |   <img width=250/>  |   <img width=100/> | <img width=150/> | 
+|  <img width=120/> | <img width=130/> |   <img width=120/>   |   <img width=270/>  |   <img width=100/> | <img width=150/> | 
 
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
