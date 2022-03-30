@@ -39,7 +39,7 @@
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:? | <img width=100/> | <img width=100/>  |  <img width=100/>  |   <img width=100/>  |   <img width=100/>| 
+| Paper Nums:? | <img width=50/> | <img width=50/>  |  <img width=50/>  |   <img width=50/>  |   <img width=50/>| 
 
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
