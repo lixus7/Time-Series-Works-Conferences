@@ -29,7 +29,7 @@
 - <a href = "#Multivariable-Probabilistic-Time-Series-Forecasting">Multivariable Probabilistic Time Series Forecasting</a>
 - <a href = "#Time-Series-Imputation">Time Series Imputation</a>
 - <a href = "#Time-Series-Anomaly-Detection">Time Series Anomaly Detection</a>
-- <a href = "#On-Demand-Original-Destination-Prediction">On-Demand/Original-Destination Prediction</a>
+- <a href = "#Demand-Prediction">Demand Prediction</a>
 - <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
 - <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
 - <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
