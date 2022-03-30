@@ -110,7 +110,7 @@
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| <img width=120/> | <img width=120/> |   <img width=120/>   |   <img width=270/>  |   <img width=100/> |  <img width=130/> | 
+| <img width=120/> | <img width=120/> |   <img width=120/>   |   <img width=270/>  |   <img width=100/> |  <img width=150/> | 
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
 
 
