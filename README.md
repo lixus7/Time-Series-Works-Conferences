@@ -111,7 +111,7 @@
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums: 11  | <img width=90/> |      |     |     |  <img width=270/> | 
+| Paper Nums: 11  | <img width=90/> |      |     |     |  <img width=292/> | 
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 /<br> None But Top 
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 /<br> None But Top 
 |  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 /<br> None But Top 
