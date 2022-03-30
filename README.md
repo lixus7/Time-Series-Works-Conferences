@@ -37,7 +37,6 @@
 
 
 
-
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
@@ -53,6 +52,13 @@
 | Multivariable | GT-221 <br> WRS-393 <br> ZGC-564 |         STDEN     | [STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction](https://aaai-2022.virtualchair.net/poster_aaai211) | [Pytorch](https://github.com/Echo-Ji/STDEN)   | AAAI 2022<br>A
 | Multivariable | Electricity <br> traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022<br>A
 | Multivariable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022<br>A
+| Multivariable | M4 <br> Electricity <br> car-parts  |         TopAttn     | [Topological Attention for Time Series Forecasting](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=26763) | [Pytorch](https://github.com/plus-rkwitt/TAN)<br> Future | NIPS 2021<br>A
+| Multivariable | Rossmann <br> M5 <br> Wiki  |         MisSeq     | [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://proceedings.neurips.cc/paper/2021/hash/6b5754d737784b51ec5075c0dc437bf0-Abstract.html) | None | NIPS 2021<br>A
+| Multivariable | ETT <br> Electricity <br> Exchange <br> Traffic <br> Weather <br> ILI |         Autoformer     | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://openreview.net/forum?id=J4gRj6d5Qm) | [Pytorch](https://github.com/thuml/Autoformer) | NIPS 2021<br>A
+| Multivariable | PeMSD4 <br> PeMSD8 <br> Traffic <br> ADI <br> M4 ,etc |         Error     | [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://openreview.net/forum?id=tJ_CO8orSI) | [Pytorch](https://github.com/Daikon-Sun/AdjustAutocorrelation) | NIPS 2021<br>A
+
+
+
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
 | Traffic Speed | DiDiChengdu <br> DiDiXiAn  |         T-wave     | [Trajectory WaveNet: A Trajectory-Based Model for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679147) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
