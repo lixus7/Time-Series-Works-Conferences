@@ -36,10 +36,7 @@
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
 
-# [Multivariable Time Series Forecasting](#content)
-|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:? | <img width=100/> | <img width=100/>  |  <img width=100/>  |   <img width=100/>  |   <img width=100/>| 
+
 
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
@@ -105,6 +102,10 @@
 | Imputation | PhysioNet  <br> Air Quality <br> Gas Sensor |         STING       | [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/abstract/document/9679183) | None | ICDM 2021 / B
 
 
+# [Multivariable Time Series Forecasting](#content)
+|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
+| :-: | :-: | :-: | :-: | - | - |
+| Paper Nums:? | <img width=100/> | <img width=100/>  |  <img width=100/>  |   <img width=100/>  |   <img width=100/>| 
 
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
