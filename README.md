@@ -106,7 +106,7 @@
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-:  | - |
-|  <img width=90/> | <img width=90/> |   <img width=120/>   |     |   <img width=100/> | <img width=150/> | 
+|<img width=90/>|<img width=90/>|<img width=120/>|     |<img width=100/>|<img width=150/>| 
 
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
@@ -124,7 +124,7 @@
 |  Anomaly Detection |  KPI <br> Yahoo   |      FluxEV   | [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://doi.org/10.1145/3437963.3441823) |  None   | WSDM 2021 /  B
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  [Pytorch](https://github.com/d-ailin/GDN)  | IJCAI 2020 / A
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  /  A
-|  Anomaly Detection |  MORE  |       MORE   | [https://github.com/drzhang3/DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  /A
+|  Anomaly Detection |  MORE  |       MORE   | [drzhang3/DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  /A
 
 
 
