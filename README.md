@@ -61,15 +61,36 @@
 | Multivariable | METR-LA <br>  PeMS-Bay  <br>  PMU |         GTS     | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk) | [Pytorch](https://github.com/chaoshangcs/GTS) | ICLR 2021  <br>None But Top 
 | Multivariable | Benz <br> Air Quality <br> FuelMoisture  |         framework     | [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://doi.org/10.1145/3447548.3467401) | [Pytorch](https://github.com/gzerveas/mvts_transformer)  | KDD 2021<br>A
 | Federated Multivariable | PeMS-Bay <br>  METR-LA  |         CNFGNN     | [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://doi.org/10.1145/3447548.3467371) | [Pytorch](https://github.com/mengcz13/KDD2021_CNFGNN)  | KDD 2021<br>A
-| Traffic Speed  | PeMSD4 <br>  PeMSD4 <br>  England |         DMSTGCN     | [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://doi.org/10.1145/3447548.3467275) | [Pytorch](https://github.com/liangzhehan/DMSTGCN)  | KDD 2021<br>A
+| Traffic Speed  | PeMSD4 <br>  PeMSD8 <br>  England |         DMSTGCN     | [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://doi.org/10.1145/3447548.3467275) | [Pytorch](https://github.com/liangzhehan/DMSTGCN)  | KDD 2021<br>A
 | Traffic Flow  | PeMSD7(M) <br>  PeMSD7(L) <br> PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |         STGODE     | [Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://doi.org/10.1145/3447548.3467430) | [Pytorch](https://github.com/square-coder/STGODE)  | KDD 2021<br>A
 | Multivariable  | BikeNYC <br>  PeMSD7(M) <br> Electricity |        ST-Norm     | [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://doi.org/10.1145/3447548.3467330) | [Pytorch](https://github.com/JLDeng/ST-Norm)  | KDD 2021<br>A
-| Multivariable  | Xiamen <br>  Chengdu |        ST-Norm     | [TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction](https://doi.org/10.1145/3447548.3467236) | [Pytorch](https://github.com/JLDeng/ST-Norm)  | KDD 2021<br>A
+| Multivariable  | Xiamen <br>  Chengdu |       TrajNet    | [TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction](https://doi.org/10.1145/3447548.3467236) | None | KDD 2021<br>A
+| Multivariable  | Guangzhou <br> Seattle <br> HZMetro , etc. |      DSARF    | [Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16907) |  None | AAAI 2021<br>A
+|Traffic Speed   |  METR-LA  <br> PeMS-Bay |      FC-GAGA    | [FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17114) |  [TF](https://github.com/boreshkinai/fc-gaga) | AAAI 2021<br>A
+|Traffic Speed   |  JiNan  <br> XiAn |     HGCN   | [Hierarchical Graph Convolution Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16088) | [Pytorch](https://github.com/guokan987/HGCN) | AAAI 2021<br>A
+|  Multivariable   |  ETT  <br> Weather <br> ECL  |     Informer   | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17325) | [Pytorch](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021<br>A
+|  Traffic Flow    |  NYCMetro  <br> NYC Bike <br> NYC Taxi  |     MOTHER   | [Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16603) |  None  | AAAI 2021<br>A
+|  Multivariable  |  METR-LA  <br> PeMS-Bay  <br> PeMSD7(M) <br>  PeMSD7(L) <br> PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08  |     STFGNN   | [Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16542) | [Mxnet](https://github.com/MengzhangLI/STFGNN) | AAAI 2021<br>A
+|  Multivariable  | BJ Taxi <br> NYC Taxi  <br> NYC Bike1  <br> NYC Bike2 |     STGDN   | [Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network](https://ojs.aaai.org/index.php/AAAI/article/view/17761) | [Mxnet](https://github.com/nimingniming/gdn) | AAAI 2021<br>A
+|  Multivariable  | Motes <br> Soil  <br> Revenue  <br> Traffic  <br> 20CR |     NET   | [Network of Tensor Time Series](https://doi.org/10.1145/3442381.3449969) | [Pytorch](https://github.com/baoyujing/NET3) | WWWW 2021<br>A
+|  Multivariable  | VevoMusic <br> WikiTraffic  <br> LOS-LOOP  <br> SZ-taxi  |     Radflow   | [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://doi.org/10.1145/3442381.3449945) | [Pytorch](https://github.com/alasdairtran/radflow) | WWWW 2021<br>A
+|  Multivariable  |  METR-LA  <br> Wiki-EN    |     REST   | [REST: Reciprocal Framework for Spatiotemporal-coupled Predictions](https://doi.org/10.1145/3442381.3449928) | None | WWWW 2021<br>A
+
+
+
+
+| Traffic Flow | TaxiBJ <br> BikeNYC |         LLF     | [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction](https://doi.org/10.1145/3459637.3482271) | None | CIKM 2022 <br> B
+| Traffic Flow | TaxiBJ <br> BikeNYC |         hi     | [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://doi.org/10.1145/3459637.3482120) | None | CIKM 2022 <br> B
+
+
+
+[Pytorch](https://github.com/k51/STGSP)
+
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
 | Traffic Speed | DiDiChengdu <br> DiDiXiAn  |         T-wave     | [Trajectory WaveNet: A Trajectory-Based Model for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679147) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
 | Multivariable | Sanyo <br> Hanergy <br> Solar <br> Electricity  <br> Exchange  |         SSDNet     | [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679135) | [Pytorch](https://github.com/YangLIN1997/SSDNet-ICDM2021) | ICDM 2021 <br> B
-| Traffic Volumn | Hangzhou City <br> Jinan City |         CTVI     | [Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679045) | [Pytorch](https://github.com/dsj96/CTVI-master) | ICDM 2021 <br>  B
+| Traffic Volumn | HangZhou City <br> JiNan City |         CTVI     | [Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679045) | [Pytorch](https://github.com/dsj96/CTVI-master) | ICDM 2021 <br>  B
 | Traffic Volumn | Uber Movements <br>  Grab-Posisi |         TEST-GCN     | [TEST-GCN: Topologically Enhanced Spatial-Temporal Graph Convolutional Networks for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679077) | None | ICDM 2021<br> B
 
 
