@@ -59,13 +59,11 @@
 | Multivariable | Bytom <br> Decentraland <br>  PeMSD4 <br> PeMSD8|         Z-GCNETs     | [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](http://proceedings.mlr.press/v139/chen21o.html) | [Pytorch](https://github.com/Z-GCNETs/Z-GCNETs) | ICML 2021<br>A
 | Multivariable | PeMSD7(M) <br> METR-LA <br>  PeMS-Bay  |         Cov     | [Conditional Temporal Neural Processes with Covariance Loss](http://proceedings.mlr.press/v139/yoo21b.html) | None | ICML 2021<br>A
 | Multivariable | Benz <br> Air Quality <br> FuelMoisture  |         framework     | [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://doi.org/10.1145/3447548.3467401) | [Pytorch](https://github.com/gzerveas/mvts_transformer)  | KDD 2021<br>A
-
-
-
-
-
-
-
+| Federated Multivariable | PeMS-Bay <br>  METR-LA  |         CNFGNN     | [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://doi.org/10.1145/3447548.3467371) | [Pytorch](https://github.com/mengcz13/KDD2021_CNFGNN)  | KDD 2021<br>A
+| Traffic Speed  | PeMSD4 <br>  PeMSD4 <br>  England |         DMSTGCN     | [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://doi.org/10.1145/3447548.3467275) | [Pytorch](https://github.com/liangzhehan/DMSTGCN)  | KDD 2021<br>A
+| Traffic Flow  | PeMSD7(M) <br>  PeMSD7(L) <br> PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |         STGODE     | [Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://doi.org/10.1145/3447548.3467430) | [Pytorch](https://github.com/square-coder/STGODE)  | KDD 2021<br>A
+| Multivariable  | BikeNYC <br>  PeMSD7(M) <br> Electricity |        ST-Norm     | [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://doi.org/10.1145/3447548.3467330) | [Pytorch](https://github.com/JLDeng/ST-Norm)  | KDD 2021<br>A
+| Multivariable  | Xiamen <br>  Chengdu |        ST-Norm     | [TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction](https://doi.org/10.1145/3447548.3467236) | [Pytorch](https://github.com/JLDeng/ST-Norm)  | KDD 2021<br>A
 | Multivariable | METR-LA <br>  PeMS-Bay  <br>  PMU |         GTS     | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk) | [Pytorch](https://github.com/chaoshangcs/GTS) | ICLR 2022  <br>None But Top 
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
