@@ -75,17 +75,8 @@
 |  Multivariable  | Motes <br> Soil  <br> Revenue  <br> Traffic  <br> 20CR |     NET   | [Network of Tensor Time Series](https://doi.org/10.1145/3442381.3449969) | [Pytorch](https://github.com/baoyujing/NET3) | WWWW 2021<br>A
 |  Multivariable  | VevoMusic <br> WikiTraffic  <br> LOS-LOOP  <br> SZ-taxi  |     Radflow   | [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://doi.org/10.1145/3442381.3449945) | [Pytorch](https://github.com/alasdairtran/radflow) | WWWW 2021<br>A
 |  Multivariable  |  METR-LA  <br> Wiki-EN    |     REST   | [REST: Reciprocal Framework for Spatiotemporal-coupled Predictions](https://doi.org/10.1145/3442381.3449928) | None | WWWW 2021<br>A
-
-
-
-
 | Traffic Flow | TaxiBJ <br> BikeNYC |         LLF     | [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction](https://doi.org/10.1145/3459637.3482271) | None | CIKM 2022 <br> B
 | Traffic Flow | TaxiBJ <br> BikeNYC |         hi     | [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://doi.org/10.1145/3459637.3482120) | None | CIKM 2022 <br> B
-
-
-
-[Pytorch](https://github.com/k51/STGSP)
-
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
 | Traffic Speed | DiDiChengdu <br> DiDiXiAn  |         T-wave     | [Trajectory WaveNet: A Trajectory-Based Model for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679147) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
