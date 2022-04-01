@@ -79,7 +79,7 @@
 | Multivariable | METR-LA  <br> PeMS-Bay  <br> PeMSD7(M)   |        DL-Traf     | [DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction](https://doi.org/10.1145/3459637.3482000) | [Graph](https://github.com/deepkashiwa20/DL-Traff-Graph) [Grid](https://github.com/deepkashiwa20/DL-Traff-Grid)  | CIKM 2021 <br> B
 | Multivariable | METR-LA  <br> PeMS-Bay  <br> PeMSD7(M)   |        DL-Traf     | [PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models](https://doi.org/10.1145/3459637.3482000) | [Graph](https://github.com/deepkashiwa20/DL-Traff-Graph) [Grid](https://github.com/deepkashiwa20/DL-Traff-Grid)  | CIKM 2021 <br> B
 | Traffic Flow | TaxiBJ <br> BikeNYC |         LLF     | [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction](https://doi.org/10.1145/3459637.3482271) | None | CIKM 2021 <br> B
-| Multivariable | ETT <br> Electricity |         hi     | [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://doi.org/10.1145/3459637.3482120) | None | CIKM 2021 <br> B
+| Multivariable | ETT <br> Electricity |         HI     | [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://doi.org/10.1145/3459637.3482120) | None | CIKM 2021 <br> B
 | Multivariable | ETT <br> ELE  |         AGCNT     | [AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting](https://doi.org/10.1145/3459637.3482054) | None | CIKM 2021 <br> B
 | cellular traffic | cellular   |         MPGAT     | [Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic](https://doi.org/10.1145/3459637.3482152) | [Pytorch](https://github.com/cylin-cmlab/MPNet)  <br> Future | CIKM 2021 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679008) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
@@ -87,7 +87,8 @@
 | Multivariable | Sanyo <br> Hanergy <br> Solar <br> Electricity  <br> Exchange  |         SSDNet     | [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679135) | [Pytorch](https://github.com/YangLIN1997/SSDNet-ICDM2021) | ICDM 2021 <br> B
 | Traffic Volumn | HangZhou City <br> JiNan City |         CTVI     | [Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679045) | [Pytorch](https://github.com/dsj96/CTVI-master) | ICDM 2021 <br>  B
 | Traffic Volumn | Uber Movements <br>  Grab-Posisi |         TEST-GCN     | [TEST-GCN: Topologically Enhanced Spatial-Temporal Graph Convolutional Networks for Traffic Forecasting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679077) | None | ICDM 2021<br> B
-
+| Multivariable | Air Quality City <br> Meterology |         ATGCN     | [Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction](https://doi.org/10.1145/3437963.3441731) | None | WSDM 2021 <br>  B
+| Traffic Flow |  WalkWLA  <br>  BikeNY   <br>  TaxiNY |         PDSTN     | [Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network](https://doi.org/10.1145/3437963.3441785) | None | WSDM 2021 <br>  B
 
 
 
