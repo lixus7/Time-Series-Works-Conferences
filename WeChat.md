@@ -1,5 +1,5 @@
 # Contact me
 
-![wechat](./img/wechat.jpeg)
+![wechat](./img/WeChat.jpeg)
 
 Welcome to contact.
