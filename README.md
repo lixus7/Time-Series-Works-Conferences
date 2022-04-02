@@ -101,6 +101,10 @@
 | Multivariable | Air Quality City <br> Meterology |         ATGCN     | [Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction](https://doi.org/10.1145/3437963.3441731) | None | WSDM 2021 <br>  B
 | Traffic Flow |  WalkWLA  <br>  BikeNYC   <br>  TaxiNYC |         PDSTN     | [Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network](https://doi.org/10.1145/3437963.3441785) | None | WSDM 2021 <br>  B
 | Multivariable | M4 <br> M3 <br> Tourism |         N-BEATS         | [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://openreview.net/forum?id=r1ecqn4YwB) | [Pytorch+Keras](https://github.com/philipperemy/n-beats) | ICLR 2020 <br> None But Top 
+| Traffic Volumn | W3-715 <br> E5-2907 |         HSTGCN        | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://doi.org/10.1145/3394486.3403358) | None | KDD 2020 <br> A
+| Traffic Flow | Taxi-NYC <br> Bike-NYC <br> CTM |         DSAN        | [Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction](https://doi.org/10.1145/3394486.3403046) | [TF](https://github.com/haoxingl/DSAN) | KDD 2020 <br> A
+| Traffic Speed <br> Traffic Flow | Shenzhen  |         Curb-GAN        | [Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks](https://doi.org/10.1145/3394486.3403127) | [Pytorch](https://github.com/Curb-GAN/Curb-GAN) | KDD 2020 <br> A
+| Traffic Flow | TaxiBJ <br> CrowdBJ  <br> TaxiJN  <br> TaxiGY |        AutoST        | [AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction](https://doi.org/10.1145/3394486.3403122) | None | KDD 2020 <br> A
 
 
 
