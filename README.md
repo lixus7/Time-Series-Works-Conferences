@@ -101,12 +101,16 @@
 | Multivariable | Air Quality City <br> Meterology |         ATGCN     | [Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction](https://doi.org/10.1145/3437963.3441731) | None | WSDM 2021 <br>  B
 | Traffic Flow |  WalkWLA  <br>  BikeNYC   <br>  TaxiNYC |         PDSTN     | [Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network](https://doi.org/10.1145/3437963.3441785) | None | WSDM 2021 <br>  B
 | Multivariable | M4 <br> M3 <br> Tourism |         N-BEATS         | [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://openreview.net/forum?id=r1ecqn4YwB) | [Pytorch+Keras](https://github.com/philipperemy/n-beats) | ICLR 2020 <br> None But Top 
-| Traffic Volumn | W3-715 <br> E5-2907 |         HSTGCN        | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://doi.org/10.1145/3394486.3403358) | None | KDD 2020 <br> A
 | Traffic Flow | Taxi-NYC <br> Bike-NYC <br> CTM |         DSAN        | [Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction](https://doi.org/10.1145/3394486.3403046) | [TF](https://github.com/haoxingl/DSAN) | KDD 2020 <br> A
 | Traffic Speed <br> Traffic Flow | Shenzhen  |         Curb-GAN        | [Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks](https://doi.org/10.1145/3394486.3403127) | [Pytorch](https://github.com/Curb-GAN/Curb-GAN) | KDD 2020 <br> A
 | Traffic Flow | TaxiBJ <br> CrowdBJ  <br> TaxiJN  <br> TaxiGY |        AutoST        | [AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction](https://doi.org/10.1145/3394486.3403122) | None | KDD 2020 <br> A
-
-
+| Traffic Volumn | W3-715 <br> E5-2907 |         HSTGCN        | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://doi.org/10.1145/3394486.3403358) | None | KDD 2020 <br> A
+| Multivariable| Xiamen <br> PeMS-Bay  |        GMAN        | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5477) | [TF](https://github.com/zhengchuanpan/GMAN) [Pytorch](https://github.com/VincLee8188/GMAN-PyTorch) | AAAI 2020 <br> A
+| Multivariable | PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |      STSGCN       | [Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5438) | [Mxnet]
+Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5470) | None | AAAI 2020 <br> A
+| Multivariable |  Traffic  <br>  Energy  <br> NASDAQ  |      MLCNN       | [Towards Better Forecasting by Fusing Near and Distant Future Visions](https://ojs.aaai.org/index.php/AAAI/article/view/5466) |  [Pytorch](https://github.com/smallGum/MLCNN-Multivariate-Time-Series) | AAAI 2020 <br> A(https://github.com/Davidham3/STSGCN)  [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch)| AAAI 2020 <br> A
+| Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-Temporal Graph Structure Learning for 
+| Traffic Speed | METR-LA <br> PeMS-Bay  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
 
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
