@@ -108,7 +108,7 @@
 | Multivariable| Xiamen <br> PeMS-Bay  |        GMAN        | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5477) | [TF](https://github.com/zhengchuanpan/GMAN)<br>  [Pytorch](https://github.com/VincLee8188/GMAN-PyTorch) | AAAI 2020 <br> A
 | Multivariable | PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |      STSGCN       | [Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5438) |  [Mxnet](https://github.com/Davidham3/STSGCN) <br>  [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch) | None | AAAI 2020 <br> A
 | Multivariable |  Traffic  <br>  Energy  <br> NASDAQ  |      MLCNN       | [Towards Better Forecasting by Fusing Near and Distant Future Visions](https://ojs.aaai.org/index.php/AAAI/article/view/5466) |  [Pytorch](https://github.com/smallGum/MLCNN-Multivariate-Time-Series) | AAAI 2020 <br> A(https://github.com/Davidham3/STSGCN)  [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch)| AAAI 2020 <br> A
-| Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-Temporal Graph Structure Learning for 
+| Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-temporal graph structure learning for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5770) | None | AAAI 2020 <br> A 
 | Traffic Speed | METR-LA <br> PeMS-Bay  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
 
 
