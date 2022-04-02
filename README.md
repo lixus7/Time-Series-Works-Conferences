@@ -105,12 +105,13 @@
 | Traffic Speed <br> Traffic Flow | Shenzhen  |         Curb-GAN        | [Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks](https://doi.org/10.1145/3394486.3403127) | [Pytorch](https://github.com/Curb-GAN/Curb-GAN) | KDD 2020 <br> A
 | Traffic Flow | TaxiBJ <br> CrowdBJ  <br> TaxiJN  <br> TaxiGY |        AutoST        | [AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction](https://doi.org/10.1145/3394486.3403122) | None | KDD 2020 <br> A
 | Traffic Volumn | W3-715 <br> E5-2907 |         HSTGCN        | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://doi.org/10.1145/3394486.3403358) | None | KDD 2020 <br> A
-| Multivariable| Xiamen <br> PeMS-Bay  |        GMAN        | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5477) | [TF](https://github.com/zhengchuanpan/GMAN) [Pytorch](https://github.com/VincLee8188/GMAN-PyTorch) | AAAI 2020 <br> A
-| Multivariable | PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |      STSGCN       | [Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5438) |  [Mxnet](https://github.com/Davidham3/STSGCN) [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch) | None | AAAI 2020 <br> A
-
+| Multivariable| Xiamen <br> PeMS-Bay  |        GMAN        | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5477) | [TF](https://github.com/zhengchuanpan/GMAN)<br>  [Pytorch](https://github.com/VincLee8188/GMAN-PyTorch) | AAAI 2020 <br> A
+| Multivariable | PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |      STSGCN       | [Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5438) |  [Mxnet](https://github.com/Davidham3/STSGCN) <br>  [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch) | None | AAAI 2020 <br> A
 | Multivariable |  Traffic  <br>  Energy  <br> NASDAQ  |      MLCNN       | [Towards Better Forecasting by Fusing Near and Distant Future Visions](https://ojs.aaai.org/index.php/AAAI/article/view/5466) |  [Pytorch](https://github.com/smallGum/MLCNN-Multivariate-Time-Series) | AAAI 2020 <br> A(https://github.com/Davidham3/STSGCN)  [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch)| AAAI 2020 <br> A
 | Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-Temporal Graph Structure Learning for 
 | Traffic Speed | METR-LA <br> PeMS-Bay  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
+
+
 
 
 
