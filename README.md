@@ -193,9 +193,9 @@
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums:6 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| TTE | Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021<br>A
-| TTE | Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020<br>A
-| TTE | Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020<br>A
+| TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021<br>A
+| TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020<br>A
+| TTE | DiDi: <br> Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020<br>A
 | TTE | Beijing <br> Shanghai    |     TTPNet        | [TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding](https://ieeexplore.ieee.org/abstract/document/9261122) |   [Pytorch](https://github.com/YibinShen/TTPNet)  | TKDE 2020<br>A
 | TTE | Porto <br> Chengdu    |     DeepIST        | [DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation](https://dl.acm.org/doi/abs/10.1145/3357384.3357870) |   [TF](https://github.com/csiesheep/deepist)  | CIKM 2019<br>B
 | TTE | Chengdu <br> Beijing    |     DeepTTE        | [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/11877) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018<br>A
