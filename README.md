@@ -113,8 +113,12 @@
 | Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-temporal graph structure learning for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5770) | None | AAAI 2020 <br> A 
 | Traffic Speed | METR-LA <br> PeMS-Bay  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
 | Traffic Speed | PeMSD4 <br>  PeMSD7  <br> PeMSD8  |      LSGCN        | [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.5555/3491440.3491766) |  [TF](https://github.com/helanzhu/LSGCN) | IJCAI 2020 <br> A
-| Traffic Speed | PeMSD4 <br>  PeMSD7  <br> PeMSD8  |      LSGCN        | [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.5555/3491440.3491766) |  [TF](https://github.com/helanzhu/LSGCN) | AAAI 2020 <br> A
-
+| Traffic Speed | DiDiChengdu  |      STAG-GCN        | [Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting](https://doi.org/10.1145/3340531.3411894) |  [Pytorch](https://github.com/RobinLu1209/STAG-GCN) | CIKM 2020 <br> B
+| Traffic Speed | METR-LA <br> PeMS-Bay   |     ST-GRAT       | [ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed](https://doi.org/10.1145/3340531.3411940) |  [Pytorch](https://github.com/LMissher/ST-GRAT) | CIKM 2020 <br> B
+| Traffic Flow | BJ-Taxi <br>  NYC-Taxi  <br>  NYC-Bike-1  <br> NYC-Bike-2 |    ST-CGA      | [Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting](https://doi.org/10.1145/3340531.3411941) |  [Keras](https://github.com/jbdj-star/cga) | CIKM 2020 <br> B
+| Multivariable | Air Quality  <br>  BikeNYC  <br>  METR-LA |   AGSTN   | [AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting](https://ieeexplore.ieee.org/abstract/document/9338255) |  [Keras](https://github.com/l852888/AGSTN) | ICDM 2020 <br> B
+| Traffic Speed | METR-LA <br> PeMS-Bay  |   FreqST   | [FreqST: Exploiting Frequency Information in Spatiotemporal Modeling for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/9338305) |  None | ICDM 2020 <br> B
+| Traffic Flow | PEMSD3 <br>  PEMSD7 |   TSSRGCN   | [Tssrgcn: Temporal spectral spatial retrieval graph convolutional network for traffic flow forecasting](https://ieeexplore.ieee.org/abstract/document/9338393) |  None | ICDM 2020 <br> B
 
 
 
