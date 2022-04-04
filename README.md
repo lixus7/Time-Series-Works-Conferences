@@ -10,6 +10,7 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
+
 # - <a href = "#Conferences">Jump to Conferences page</a>
 # Conf Submission Appropriate Time (Recent 7 Years)
 
@@ -111,8 +112,8 @@
 | Multivariable |  Traffic  <br>  Energy  <br> NASDAQ  |      MLCNN       | [Towards Better Forecasting by Fusing Near and Distant Future Visions](https://ojs.aaai.org/index.php/AAAI/article/view/5466) |  [Pytorch](https://github.com/smallGum/MLCNN-Multivariate-Time-Series) | AAAI 2020 <br> 
 | Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-temporal graph structure learning for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5770) | None | AAAI 2020 <br> A 
 | Traffic Speed | METR-LA <br> PeMS-Bay  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
-
-
+| Traffic Speed | PeMSD4 <br>  PeMSD7  <br> PeMSD8  |      LSGCN        | [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.5555/3491440.3491766) |  [TF](https://github.com/helanzhu/LSGCN) | IJCAI 2020 <br> A
+| Traffic Speed | PeMSD4 <br>  PeMSD7  <br> PeMSD8  |      LSGCN        | [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.5555/3491440.3491766) |  [TF](https://github.com/helanzhu/LSGCN) | AAAI 2020 <br> A
 
 
 
