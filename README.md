@@ -119,6 +119,9 @@
 | Multivariable | Air Quality  <br>  BikeNYC  <br>  METR-LA |   AGSTN   | [AGSTN: Learning Attention-adjusted Graph Spatio-Temporal Networks for Short-term Urban Sensor Value Forecasting](https://ieeexplore.ieee.org/abstract/document/9338255) |  [Keras](https://github.com/l852888/AGSTN) | ICDM 2020 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay  |   FreqST   | [FreqST: Exploiting Frequency Information in Spatiotemporal Modeling for Traffic Prediction](https://ieeexplore.ieee.org/abstract/document/9338305) |  None | ICDM 2020 <br> B
 | Traffic Flow | PEMSD3 <br>  PEMSD7 |   TSSRGCN   | [Tssrgcn: Temporal spectral spatial retrieval graph convolutional network for traffic flow forecasting](https://ieeexplore.ieee.org/abstract/document/9338393) |  None | ICDM 2020 <br> B
+| Multivariable | Electricity <br> Traffic  <br> Wiki <br> PeMSD7(M) |         DeepGLO       | [Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting](https://proceedings.neurips.cc/paper/2019/hash/3a0844cee4fcf57de0c71e9ad3035478-Abstract.html) | [Pytorch](https://github.com/rajatsen91/deepglo/tree/master/DeepGLO) | NIPS 2019 <br> A
+| Multivariable | Electricity <br> Traffic  <br> Solar <br> M4 <br> Wind |         LogSparse       | [Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting](https://proceedings.neurips.cc/paper/2019/hash/6775a0635c302542da2c32aa19d86be0-Abstract.html) | [Pytorch](https://github.com/mlpotter/Transformer_Time_Series) | NIPS 2019 <br> A
+| Traffic Flow <br> Speed | TDrive <br>  METR-LA <br> METR-LA <br> PeMS-Bay   |         ST-MetaNet        | [Urban Traffic Prediction from Spatio-Temporal Data Using Deep Meta Learning](https://doi.org/10.1145/3292500.3330884) | [Mxnet](https://github.com/panzheyi/ST-MetaNet) | KDD 2019 <br> A
 
 
 
