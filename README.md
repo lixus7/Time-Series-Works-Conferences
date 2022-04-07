@@ -11,6 +11,7 @@
 </div>
 
 
+
 # - <a href = "#Conferences">Jump to Conferences page</a>
 # Conf Submission Appropriate Time (Recent 7 Years)
 
@@ -127,7 +128,7 @@
 | Traffic Speed | METR-LA  <br>  PeMS-Bay  |         Res-RGNN        | [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/3821) | None  | AAAI 2019 <br> A
 | Traffic FLow | NYC-Taxi <br>  NYC-Bike  |        STDN      | [Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/4511) | [Keras](https://github.com/tangxianfeng/STDN)  | AAAI 2019 <br> A
 
-https://github.com/tangxianfeng/STDN
+
 
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
