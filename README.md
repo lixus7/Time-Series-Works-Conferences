@@ -119,6 +119,9 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-temporal graph structure learning for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5770) | None | AAAI 2020 <br> A 
 | Traffic Speed | METR-LA <br> PeMS-Bay  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
 | Metro Flow | HKMetro |       WDGTC     | [Tensor Completion for Weakly-Dependent Data on Graph for Metro Passenger Flow Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5915) |  [TF](https://github.com/bonaldli/WDG_TC)  | AAAI 2020 <br> A
+| Multivariable | MovingMNIST <br> TaxiBJ <br>  KTH |       SA-ConvLSTM     | [Self-Attention ConvLSTM for Spatiotemporal Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/6819) |  [TF](https://github.com/MahatmaSun1/SaConvSLTM)  | AAAI 2020 <br> A
+| Metro Flow | SydneyMetro  |      MLC-PPF    | [Potential Passenger Flow Prediction-A Novel Study for Urban Transportation Development](https://ojs.aaai.org/index.php/AAAI/article/view/5819) |  None | AAAI 2020 <br> A
+| Commuting Flow | Lodes <br> Pluto <br> OSRM  |     GEML   | [Learning Geo-Contextual Embeddings for Commuting Flow Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5425) |  [Pytorch](https://github.com/jackmiemie/GMEL)  | AAAI 2020 <br> A
 | Traffic Speed | PeMSD4 <br>  PeMSD7  <br> PeMSD8  |      LSGCN        | [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.5555/3491440.3491766) |  [TF](https://github.com/helanzhu/LSGCN) | IJCAI 2020 <br> A
 | Fine-grained | CitiBikeNYC <br>  Div  <br> Metro  |      GACNN        | [Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems](https://doi.org/10.1145/3366423.3380097) | None | WWW 2020 <br> A
 | Flow <br> Distribution | Austin <br>  Louisville  <br> Minneapolis  |      GCScoot        | [Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration](https://doi.org/10.1145/3366423.3380101) | None | WWW 2020 <br> A
@@ -135,6 +138,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Traffic Flow <br> Speed | NYC <br>  PeMSD(M)  |         DGCNN        | [Dynamic spatial-temporal graph convolutional neural networks for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/3877) | None  | AAAI 2019 <br> A
 | Traffic Speed | METR-LA  <br>  PeMS-Bay  |         Res-RGNN        | [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/3821) | None  | AAAI 2019 <br> A
 | Traffic FLow | NYC-Taxi <br>  NYC-Bike  |        STDN      | [Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/4511) | [Keras](https://github.com/tangxianfeng/STDN)  | AAAI 2019 <br> A
+
 
 
 
