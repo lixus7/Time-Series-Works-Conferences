@@ -200,12 +200,14 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Earthquakes Detection |  NIED   |       CrowdQuake   | [A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning](https://doi.org/10.1145/3394486.3403378) |  [TF](https://github.com/xhuang2016/Seismic-Detection)    | KDD 2020 <br> A
 |  Anomaly Detection |  SWaT  <br> WADI <br> SMD  <br>  SMAP <br> MSL <br>  Orange |       USAD   | [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://doi.org/10.1145/3394486.3403392) |   [Pytorch](https://github.com/manigalati/usad)   | KDD 2020 <br> A
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  None  | IJCAI 2020 <br> A
+|  Anomaly Detection |  SMAP  <br> MSL <br> SMD  |       OmniAnomaly   | [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://doi.org/10.1145/3292500.3330672) |   [TF](https://github.com/NetManAIOps/OmniAnomaly)   | KDD 2019 <br> A
+|  Anomaly Detection |  GeoLife  <br> TST   |       IRL-ADU   | [Sequential Anomaly Detection using Inverse Reinforcement Learning](https://doi.org/10.1145/3292500.3330932) |   None  | KDD 2019 <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  <br> A
 
 
 
-USAD: UnSupervised Anomaly Detection on Multivariate Time Series
+
 
 # [Demand Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
