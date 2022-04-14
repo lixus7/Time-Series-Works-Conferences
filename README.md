@@ -138,6 +138,14 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Traffic Flow <br> Speed | NYC <br>  PeMSD(M)  |         DGCNN        | [Dynamic spatial-temporal graph convolutional neural networks for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/3877) | None  | AAAI 2019 <br> A
 | Traffic Speed | METR-LA  <br>  PeMS-Bay  |         Res-RGNN        | [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/3821) | None  | AAAI 2019 <br> A
 | Traffic FLow | NYC-Taxi <br>  NYC-Bike  |        STDN      | [Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/4511) | [Keras](https://github.com/tangxianfeng/STDN)  | AAAI 2019 <br> A
+| Traffic FLow | MetroBJ  <br>  BusBJ  <br> TaxiBJ |        GSTNet      | [GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction](https://www.ijcai.org/Proceedings/2019/0317.pdf) | [Pytorch](https://github.com/WoodSugar/GSTNet)  | IJCAI 2019 <br> A
+
+
+
+
+
+| Traffic FLow | MetroBJ  <br>  BusBJ  <br> TaxiBJ |        GSTNet      | [GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction](https://www.ijcai.org/Proceedings/2019/0317.pdf) | [Pytorch](https://github.com/WoodSugar/GSTNet)  | IJCAI 2019 <br> A
+
 
 
 
