@@ -54,7 +54,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:93 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:100 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022  <br>None But Top 
 | Multivariable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets         | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022 <br> None But Top 
 | Multivariable | ETT <br> Electricity <br> Weather |         CoST         | [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2) | [Pytorch](https://github.com/salesforce/CoST) | ICLR 2022 <br> None But Top 
@@ -125,6 +125,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Traffic Speed | PeMSD4 <br>  PeMSD7  <br> PeMSD8  |      LSGCN        | [LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks](https://dl.acm.org/doi/abs/10.5555/3491440.3491766) |  [TF](https://github.com/helanzhu/LSGCN) | IJCAI 2020 <br> A
 | Fine-grained | CitiBikeNYC <br>  Div  <br> Metro  |      GACNN        | [Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems](https://doi.org/10.1145/3366423.3380097) | None | WWW 2020 <br> A
 | Flow <br> Distribution | Austin <br>  Louisville  <br> Minneapolis  |      GCScoot        | [Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration](https://doi.org/10.1145/3366423.3380101) | None | WWW 2020 <br> A
+|  Traffic Speed | METR-LA <br> PeMS-Bay  |      STGNN        | [Traffic Flow Prediction via Spatial Temporal Graph Neural Network](https://doi.org/10.1145/3366423.3380186) |  [Pytorch](https://github.com/LMissher/STGNN)  | WWW 2020 <br> A
 | Traffic Speed | DiDiChengdu  |      STAG-GCN        | [Spatiotemporal Adaptive Gated Graph Convolution Network for Urban Traffic Flow Forecasting](https://doi.org/10.1145/3340531.3411894) |  [Pytorch](https://github.com/RobinLu1209/STAG-GCN) | CIKM 2020 <br> B
 | Traffic Speed | METR-LA <br> PeMS-Bay   |     ST-GRAT       | [ST-GRAT: A Novel Spatio-temporal Graph Attention Networks for Accurately Forecasting Dynamically Changing Road Speed](https://doi.org/10.1145/3340531.3411940) |  [Pytorch](https://github.com/LMissher/ST-GRAT) | CIKM 2020 <br> B
 | Traffic Flow | BJ-Taxi <br>  NYC-Taxi  <br>  NYC-Bike-1  <br> NYC-Bike-2 |    ST-CGA      | [Spatial-Temporal Convolutional Graph Attention Networks for Citywide Traffic Flow Forecasting](https://doi.org/10.1145/3340531.3411941) |  [Keras](https://github.com/jbdj-star/cga) | CIKM 2020 <br> B
@@ -139,14 +140,12 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Traffic Speed | METR-LA  <br>  PeMS-Bay  |         Res-RGNN        | [Gated Residual Recurrent Graph Neural Networks for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/3821) | None  | AAAI 2019 <br> A
 | Traffic FLow | NYC-Taxi <br>  NYC-Bike  |        STDN      | [Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/4511) | [Keras](https://github.com/tangxianfeng/STDN)  | AAAI 2019 <br> A
 | Traffic FLow | MetroBJ  <br>  BusBJ  <br> TaxiBJ |        GSTNet      | [GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction](https://www.ijcai.org/Proceedings/2019/0317.pdf) | [Pytorch](https://github.com/WoodSugar/GSTNet)  | IJCAI 2019 <br> A
-
-
-
-
-
-| Traffic FLow | MetroBJ  <br>  BusBJ  <br> TaxiBJ |        GSTNet      | [GSTNet: Global Spatial-Temporal Network for Traffic Flow Prediction](https://www.ijcai.org/Proceedings/2019/0317.pdf) | [Pytorch](https://github.com/WoodSugar/GSTNet)  | IJCAI 2019 <br> A
-
-
+| Traffic Speed  | METR-LA <br> PeMS-Bay  |        GWN      | [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://doi.org/10.24963/ijcai.2019/264) | [Pytorch](https://github.com/nnzhan/Graph-WaveNet)  | IJCAI 2019 <br> A
+| Traffic Flow  | DidiSY <br> BikeNYC <br>  TaxiBJ |        STG2Seq      | [STG2Seq: Spatial-Temporal Graph to Sequence Model for Multi-step Passenger Demand Forecasting](https://openreview.net/forum?id=Ein6fZbizNZ) | [TF](https://github.com/LeiBAI/STG2Seq)  | IJCAI 2019 <br> A
+| Traffic Volumn  | Chicago <br> Boston  |        MetaST      | [Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction](https://doi.org/10.1145/3308558.3313577) | [TF](https://github.com/huaxiuyao/MetaST)  | WWW 2019 <br> A
+| Crime Prediction  | NYC Crime <br> NYC Anomaly   <br>  Chicago Crime  |        MiST      | [MiST: A Multiview and Multimodal Spatial-Temporal Learning Framework for Citywide Abnormal Event Forecasting](https://doi.org/10.1145/3308558.3313730) | None  | WWW 2019 <br> A
+| Traffic Speed | BJER4 <br> PeMSD7(M)  <br>  PeMSD7(L)  |        STGCN      | [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://openreview.net/forum?id=SkNeyVzOWB) | [TF](https://github.com/VeritasYin/STGCN_IJCAI-18)[Mxnet](
+https://github.com/Davidham3/STGCN)  [Pytorch1](https://github.com/FelixOpolka/STGCN-PyTorch)  [Pytorch2](https://github.com/hazdzz/STGCN) [Pytorch3](https://github.com/Aguin/STGCN-PyTorch)   | IJCAI 2018 <br> A
 
 
 
