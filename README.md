@@ -200,17 +200,24 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Earthquakes Detection |  NIED   |       CrowdQuake   | [A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning](https://doi.org/10.1145/3394486.3403378) |  [TF](https://github.com/xhuang2016/Seismic-Detection)    | KDD 2020 <br> A
 |  Anomaly Detection |  SWaT  <br> WADI <br> SMD  <br>  SMAP <br> MSL <br>  Orange |       USAD   | [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://doi.org/10.1145/3394486.3403392) |   [Pytorch](https://github.com/manigalati/usad)   | KDD 2020 <br> A
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  None  | IJCAI 2020 <br> A
+|  Anomaly Detection | SMAP <br> MSL <br> TSA  |      MTAD-GAT | [Multivariate Time-Series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9338317) |   [TF](https://github.com/mangushev/mtad-gat)  [Pytorch](https://github.com/ML4ITS/mtad-gat-pytorch) | ICDM 2020 <br> B
 |  Anomaly Detection |  SMAP  <br> MSL <br> SMD  |       OmniAnomaly   | [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://doi.org/10.1145/3292500.3330672) |   [TF](https://github.com/NetManAIOps/OmniAnomaly)   | KDD 2019 <br> A
 |  Anomaly Detection |  GeoLife  <br> TST   |       IRL-ADU   | [Sequential Anomaly Detection using Inverse Reinforcement Learning](https://doi.org/10.1145/3292500.3330932) |   None  | KDD 2019 <br> A
 |  Anomaly Detection |  donors  <br> census  <br> fraud <br> celeba ,etc |      DevNet  | [Deep Anomaly Detection with Deviation Networks](hhttps://doi.org/10.1145/3292500.3330871) |   [Keras](https://github.com/GuansongPang/deviation-network) [Pytorch](https://github.com/Choubo/deviation-network-image) | KDD 2019 <br> A
-
-
-
-
+|  Anomaly Detection | KPI <br> Yahoo <br> Microsoft  |      SR-CNN  | [Time-Series Anomaly Detection Service at Microsoft](https://doi.org/10.1145/3292500.3330680) |   None | KDD 2019 <br> A
+|  Anomaly Detection |  power plant |      MSCRED  | [A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data](https://ojs.aaai.org/index.php/AAAI/article/view/3942) |   [TF](https://github.com/7fantasysz/MSCRED) | AAAI 2019 <br> A
+|  Anomaly Detection | ECG <br> Motion |      BeatGAN  | [BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series](https://www.ijcai.org/Proceedings/2019/0616.pdf) |   [Pytorch](https://github.com/hi-bingo/BeatGAN) | IJCAI 2019 <br> A
+|  Anomaly Detection | NAB <br> ECG |      OED  | [Outlier Detection for Time Series with Recurrent Autoencoder Ensembles](https://www.ijcai.org/proceedings/2019/0378.pdf) |   [TF](https://github.com/tungk/OED) | IJCAI 2019 <br> A
+|  Anomaly Detection | KPIs |      Buzz  | [Unsupervised Anomaly Detection for Intricate KPIs via Adversarial Training of VAE](https://ieeexplore.ieee.org/abstract/document/8737430) |   [TF](https://github.com/yantijin/Buzz) | INFOCOM 2019 <br> A
+|  Anomaly Detection | KDDCUP <br> Thyroid <br> Arrhythmia  <br> KDDCUP-Rev |      DAGMM  | [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection](https://openreview.net/forum?id=BJJLHbb0-) |   [Pytorch](https://github.com/danieltan07/dagmm) | ICLR 2018 <br> A
+|  Anomaly Detection | SMAP <br> MSL  |      telemanom  | [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://doi.org/10.1145/3219819.3219845) |   [TF](https://github.com/khundman/telemanom) | KDD 2018 <br> A
+|  Anomaly Detection | AD <br> AID362 <br> aPascal  <br>  BM , etc|      CINFO | [Sparse Modeling-Based Sequential Ensemble Learning for Effective Outlier Detection in High-Dimensional Numeric Data](https://ojs.aaai.org/index.php/AAAI/article/view/11692) |    [Matlab](https://drive.google.com/file/d/0B_GL5U7rPj1xNzNwTHpHSzZkQXM/view?resourcekey=0-HneFEhC8NUIWDfhmfaOyBQ) | AAAI 2018 <br> A
+|  Anomaly Detection | KPIs |      Donut | [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://doi.org/10.1145/3178876.3185996) |    [TF](https://github.com/NetManAIOps/donut) | WWW 2018 <br> A
+|  Anomaly Detection | MAWI |      DSPOT | [Anomaly Detection in Streams with Extreme Value Theory](https://doi.org/10.1145/3097983.3098144) |    [Python](https://github.com/NetManAIOps/donut) | KDD 2017 <br> A
+|  Anomaly Detection | Power <br> Space <br>  Engine <br> ECG |         EncDec-AD | [	LSTM-based encoder-decoder for multi-sensor anomaly detection](https://www.semanticscholar.org/paper/LSTM-based-Encoder-Decoder-for-Multi-sensor-Anomaly-Malhotra-Ramakrishnan/e9672150c4f39ab64876e798a94212a93d1770fe) |    [Pytorch](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_practices/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb) | ICML 2016 <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  <br> A
-
-
+|  Anomaly Detection |  MORE  |       MORE   | [GuansongPang](https://github.com/GuansongPang/SOTA-Deep-Anomaly-Detection) |  MORE   | MORE  <br> A
 
 
 
