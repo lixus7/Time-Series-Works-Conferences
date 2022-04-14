@@ -202,6 +202,11 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  None  | IJCAI 2020 <br> A
 |  Anomaly Detection |  SMAP  <br> MSL <br> SMD  |       OmniAnomaly   | [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://doi.org/10.1145/3292500.3330672) |   [TF](https://github.com/NetManAIOps/OmniAnomaly)   | KDD 2019 <br> A
 |  Anomaly Detection |  GeoLife  <br> TST   |       IRL-ADU   | [Sequential Anomaly Detection using Inverse Reinforcement Learning](https://doi.org/10.1145/3292500.3330932) |   None  | KDD 2019 <br> A
+|  Anomaly Detection |  donors  <br> census  <br> fraud <br> celeba ,etc |      DevNet  | [Deep Anomaly Detection with Deviation Networks](hhttps://doi.org/10.1145/3292500.3330871) |   [Keras](https://github.com/GuansongPang/deviation-network) [Pytorch](https://github.com/Choubo/deviation-network-image) | KDD 2019 <br> A
+
+
+
+
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  <br> A
 
