@@ -195,7 +195,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums: 12  | <img width=90/> |      |     |     |  <img width=320/> | 
+| Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> | 
 |  Anomaly Detection |  SMD  |       FDRC   | [Online false discovery rate control for anomaly detection in time series](https://dl.acm.org/doi/10.1145/3447548.3467075) | None  | NIPS 2021 <br> A
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 <br> None But Top 
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 <br> None But Top 
@@ -210,6 +210,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Earthquakes Detection |  NIED   |       CrowdQuake   | [A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning](https://doi.org/10.1145/3394486.3403378) |  [TF](https://github.com/xhuang2016/Seismic-Detection)    | KDD 2020 <br> A
 |  Anomaly Detection |  SWaT  <br> WADI <br> SMD  <br>  SMAP <br> MSL <br>  Orange |       USAD   | [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://doi.org/10.1145/3394486.3403392) |   [Pytorch](https://github.com/manigalati/usad)   | KDD 2020 <br> A
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  None  | IJCAI 2020 <br> A
+|  Anomaly Detection |  NYC-Bike  <br> NYC-Taxi <br> Weather <br>  NYC-POI <br> NYC-Anomaly |       DST-MFN   | [Deep Spatio-Temporal Multiple Domain Fusion Network for Urban Anomalies Detection](https://doi.org/10.1145/3292500.3330672) |  None  | CIKM 2020 <br> B
 |  Anomaly Detection | SMAP <br> MSL <br> TSA  |      MTAD-GAT | [Multivariate Time-Series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9338317) |   [TF](https://github.com/mangushev/mtad-gat)  [Pytorch](https://github.com/ML4ITS/mtad-gat-pytorch) | ICDM 2020 <br> B
 |  Anomaly Detection |  SMAP  <br> MSL <br> SMD  |       OmniAnomaly   | [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://doi.org/10.1145/3292500.3330672) |   [TF](https://github.com/NetManAIOps/OmniAnomaly)   | KDD 2019 <br> A
 |  Anomaly Detection |  GeoLife  <br> TST   |       IRL-ADU   | [Sequential Anomaly Detection using Inverse Reinforcement Learning](https://doi.org/10.1145/3292500.3330932) |   None  | KDD 2019 <br> A
@@ -228,6 +229,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [GuansongPang](https://github.com/GuansongPang/SOTA-Deep-Anomaly-Detection) |  MORE   | MORE  <br> A
+
 
 
 
