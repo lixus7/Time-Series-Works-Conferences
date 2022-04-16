@@ -10,7 +10,7 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
-Due to the recent heavy occupation with the graduation of the master's degree, the update will be relatively slow. For the time being, all the papers (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use:
+All papers group by task and method (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use:
 
 https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
 
