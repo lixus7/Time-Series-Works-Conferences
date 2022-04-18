@@ -96,11 +96,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Multivariable  |  PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08   <br> HZMetro  |     ASTGNN   | [Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting](https://doi.org/10.1145/3442381.3449928) | None | TKDE 2021<br>A
 | Multivariable | TaxiBJ  <br> BikeNYC-I  <br> BikeNYC-II <br> TaxiNYC <br> METR-LA  <br> PeMS-BAY  <br> PeMSD7(M)   |        DL-Traff     | [DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction](https://doi.org/10.1145/3459637.3482000) | Graph:[PyTorch](https://github.com/deepkashiwa20/DL-Traff-Graph) <br> Grid:[TF](https://github.com/deepkashiwa20/DL-Traff-Grid)  | CIKM 2021 <br> B
 | Multivariable | METR-LA  <br> PeMS-BAY  <br> PeMSD7(M)   |        TorchGeoTem  | [PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models](https://doi.org/10.1145/3459637.3482000) | [PyTorch](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | CIKM 2021 <br> B
-
-
 | Multivariable | PeMSD3  <br>   METR-LA  <br> PeMS-BAY   |        LTPHM  | [LTPHM: Long-term Traffic Prediction based on Hybrid Model](https://doi.org/10.1145/3459637.3482138) | [PyTorch](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | CIKM 2021 <br> B
-
-
 | Traffic Flow | TaxiBJ <br> BikeNYC |         LLF     | [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction](https://doi.org/10.1145/3459637.3482271) | None | CIKM 2021 <br> B
 | Multivariable | ETT <br> Electricity |         HI     | [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://doi.org/10.1145/3459637.3482120) | None | CIKM 2021 <br> B
 | Multivariable | ETT <br> ELE  |         AGCNT     | [AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting](https://doi.org/10.1145/3459637.3482054) | None | CIKM 2021 <br> B
