@@ -194,10 +194,6 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | probability | Sine <br> MNIST <br> Billiards <br> S&P <br>  Stock   |        Whittle      | [Whittle Networks: A Deep Likelihood Model for Time Series](http://proceedings.mlr.press/v139/yu21c.html) | [TF](https://github.com/ml-research/WhittleNetworks) | ICML 2021<br>A
 | probability & Point | Energy <br> Wine <br> Power <br> MSD, etc |         PGBM        | [Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression](https://dl.acm.org/doi/10.1145/3447548.3467278) |  [Pytorch](https://github.com/elephaint/pgbm) | KDD 2021<br>A
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  A
-
- 
-
-
 | probability | MIMIC-III <br> EEG <br> COVID-19  |        CF-RNN      | [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) |  [Pytorch](https://github.com/kamilest/conformal-rnn) | NIPS 2021<br>A
 | probability | CDC Flu  |       EPIFNP     | [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html) |  None | NIPS 2021<br>A
 | probability | Basketball  <br>  Weather|       GLIM     | [Probability Paths and the Structure of Predictions over Time](https://proceedings.neurips.cc/paper/2021/hash/7f53f8c6c730af6aeb52e66eb74d8507-Abstract.html) |   [R](https://github.com/ItsMrLin/probability-paths) | NIPS 2021<br>A
