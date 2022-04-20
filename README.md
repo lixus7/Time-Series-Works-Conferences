@@ -199,10 +199,11 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | probability | Exchange <br> Solar <br> Electricity <br> Traffic <br>  Taxi  <br>   Wiki  |        TimeGrad      | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](http://proceedings.mlr.press/v139/rasul21a.html) |  [Pytorch](https://github.com/zalandoresearch/pytorch-ts) | ICML 2021<br>A
 | probability | Sine <br> MNIST <br> Billiards <br> S&P <br>  Stock   |        Whittle      | [Whittle Networks: A Deep Likelihood Model for Time Series](http://proceedings.mlr.press/v139/yu21c.html) | [TF](https://github.com/ml-research/WhittleNetworks) | ICML 2021<br>A
 | probability | METR-LA <br> PeMS-BAY <br> PMU   |        GTS      | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk) | [Pytorch](https://github.com/chaoshangcs/GTS) | ICLR 2021 <br> None But Top 
-| probability | MNIST <br> PhysioNet2012  |        GTS      | [Probabilistic Numeric Convolutional Neural Networks](https://openreview.net/forum?id=T1XmO8ScKim) | None  | ICLR 2021 <br> None But Top 
+| probability | MNIST <br> PhysioNet2012  |        PNCNN      | [Probabilistic Numeric Convolutional Neural Networks](https://openreview.net/forum?id=T1XmO8ScKim) | None  | ICLR 2021 <br> None But Top 
 | probability & Point | Energy <br> Wine <br> Power <br> MSD, etc |         PGBM        | [Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression](https://dl.acm.org/doi/10.1145/3447548.3467278) |  [Pytorch](https://github.com/elephaint/pgbm) | KDD 2021<br>A
+| probability | DiDICD   |        TrajNet      | [TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction](https://doi.org/10.1145/3447548.3467236) | [Pytorch](https://github.com/chaoshangcs/GTS) | KDD 2021 <br> A
+| probability | Air Quality  <br>  METR-LA <br>  COVID-19  |        UQ      | [Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://doi.org/10.1145/3447548.3467325) | [Pytorch](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting) | KDD 2021 <br> A
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  A
-
 
 
 
