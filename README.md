@@ -204,10 +204,11 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | probability | Air Quality  <br>  METR-LA <br>  COVID-19  |        UQ      | [Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://doi.org/10.1145/3447548.3467325) | [Pytorch](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting) | KDD 2021 <br> A
 | probability  | Electricity <br> Traffic <br> Environment <br> Air Quality <br> Dewpoint,etc|        VSMHN      | [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17023) | [Pytorch](https://github.com/longyuanli/VSMHN) | AAAI 2021 <br> A
 | probability & Point | Traffic <br> Electricity <br> Wiki <br> Solar <br> Taxi |        TLAE      | [Temporal Latent Auto-Encoder: A Method for Probabilistic Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17101) | None | AAAI 2021 <br> A
+| probability  | Patient EHR <br> Public Health |        UNITE      | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) | [Pytorch](https://github.com/Chacha-Chen/UNITE) | WWW 2021 <br> A
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  A
 
 
-| probability  | Electricity <br> Traffic <br> Environment <br> Air Quality <br> Dewpoint,etc|        VSMHN      | [Synergetic Learning of Heterogeneous Temporal Sequences for Multi-Horizon Probabilistic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17023) | [Pytorch](https://github.com/longyuanli/VSMHN) | AAAI 2021 <br> A
+| probability  | Exchange <br> Solar <br> Electricity <br> Traffic <br>  Wiki |        ARSGLS      | [Deep Rao-Blackwellised Particle Filters for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) | [Pytorch](https://github.com/Chacha-Chen/UNITE) | NIPS 2020 <br> A
 
 
 # [Time Series Imputation](#content)
