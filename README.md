@@ -344,14 +344,29 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022<br>A   
+| Stock Movement<br> Prediction | CSI800 |    TRA  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3447548.3467358) | [Pytorch](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA) | KDD 2021<br>A
+| Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100 |     DTML | [Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://doi.org/10.1145/3447548.3467297) | None| KDD 2021<br>A
+| Stock  <br> Prediction | Self-defined |     AD-GAT | [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | [Pytorch](https://github.com/RuichengFIC/ADGAT) | AAAI 2021<br>A
 | Stock Selection | NASDAQ  <br> NYSE <br> TSE|         STHAN-SR        | [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](https://ojs.aaai.org/index.php/AAAI/article/view/16127) | None | AAAI 2021<br>A
+| Stock Movement<br> Prediction | TPX500 |    CGM  |   [Long-term, Short-term and Sudden Event: Trading Volume Movement Prediction with Graph-based Multi-view Modeling](https://www.ijcai.org/proceedings/2021/0518.pdf) | [Pytorch](https://github.com/lancopku/CGM) | IJCAI 2021<br>A
+| Stock Trend<br> Prediction |  CSI300 <br> SPX <br>  TOPIX-100   |    HATR  |   [Hierarchical Adaptive Temporal-Relational Modeling for Stock Trend Prediction](https://www.ijcai.org/proceedings/2021/0508.pdf) |  None  | IJCAI 2021<br>A
+| Stock Movement<br> Prediction | NASDAQ <br> NYSE <br> TSE <br> China & HK |    HyperStockGAT  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3442381.3450095) | None| WWW 2021<br>A
+| Stock Trend<br> Prediction |  CSI300 <br> CSI500    |    REST  |   [REST: Relational Event-driven Stock Trend Forecasting](https://doi.org/10.1145/3442381.3450032) | None | WWW 2021<br>A
 | Stock Trend <br> Prediction | CSI300  <br> CSI800 <br> NASDAQ100|        CMLF       | [Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion](https://doi.org/10.1145/3459637.3482483) | [Pytorch](https://github.com/CMLF-git-dev/CMLF)  | CIKM 2021<br>B
 | Stock Movement <br> Prediction | TPX500 <br> TPX100 |       LSTM-RGCN | [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0626.pdf) | [Pytorch](https://github.com/liweitj47/overnight-stock-movement-prediction) | IJCAI 2020<br>A
-| Stock Price <br> Forecasting |  S&P 500  |         Dandelion       | [Domain adaptive multi-modality neural attention network for financial forecasting](https://doi.org/10.1145/3366423.3380288) | [Sklearn](https://github.com/Leo02016/Dandelion)  | WWW 2020<br>A
-| Stock Movement <br> Prediction | S&P 500 |         STHGCN       | [Spatiotemporal hypergraph convolution network for stock movement forecasting](https://ieeexplore.ieee.org/abstract/document/9338303) | [Pytorch](https://github.com/midas-research/sthgcn-icdm) | ICDM 2020<br>B
+| Stock Movement <br> Prediction | NASDAQ <br> ChinaAShare |      HMG-TF | [Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0640.pdf) | None | IJCAI 2020<br>A
+| Stock Trend<br> Prediction |  FI-2010 <br> CSI-2016    |    MTDNN  |   [Multi-scale Two-way Deep Neural Network for Stock Trend Prediction](https://www.ijcai.org/proceedings/2020/0628.pdf) | [Future](https://github.com/marscrazy/MTDNN) | IJCAI 2020<br>A
+| Stock Price <br> Forecasting |  Self-defined |         Dandelion       | [Domain adaptive multi-modality neural attention network for financial forecasting](https://doi.org/10.1145/3366423.3380288) | [Sklearn](https://github.com/Leo02016/Dandelion)  | WWW 2020<br>A
+| Stock Movement <br> Prediction | HATS |         STHGCN       | [Spatiotemporal hypergraph convolution network for stock movement forecasting](https://ieeexplore.ieee.org/abstract/document/9338303) | [Pytorch](https://github.com/midas-research/sthgcn-icdm) | ICDM 2020<br>B
 | Stock Trend <br> Prediction |  ChineseStock |         IMTR       | [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://doi.org/10.1145/3292500.3330663) | None| KDD 2019<br>A
 | Stock Movement <br> Prediction | CSI200 <br> CSI300  <br> CSI500 |         RNN-MRFs  | [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification](https://doi.org/10.1145/3292500.3330983) | None | KDD 2019<br>A
-| Stock Movement <br> Prediction | NASDAQ <br> NYSE  <br> U.S.markets |         Adv-ALSTM  | [Enhancing stock movement prediction with adversarial training](https://www.ijcai.org/proceedings/2019/0810.pdf) | [TF](https://github.com/fulifeng/Adv-ALSTM) | IJCAI 2019<br>A
+| Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100|         Adv-ALSTM  | [Enhancing stock movement prediction with adversarial training](https://www.ijcai.org/proceedings/2019/0810.pdf) | [TF](https://github.com/fulifeng/Adv-ALSTM) | IJCAI 2019<br>A
+
+
+
+
+
 
 
 
