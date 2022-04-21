@@ -46,7 +46,8 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 - <a href = "#Demand-Prediction">Demand Prediction</a>
 - <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
 - <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
-- <a href = "#Traffic-Accident-Prediction">Traffic Accident Prediction</a>
+- <a href = "#Traffic-Event-Prediction">Traffic Event Prediction</a>
+- <a href = "#Stock-Prediction">Stock Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
 
@@ -328,7 +329,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 
 
 
-# [Traffic Accident Prediction](#content)
+# [Traffic Event Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
@@ -339,7 +340,18 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Accident |   |         Hetero-ConvLSTM        | [Hetero-ConvLSTM: A Deep Learning Approach to Traffic Accident Prediction on Heterogeneous Spatio-Temporal Data](https://ieeexplore.ieee.org/document/9242313) | None| KDD 2018<br>A
 
 
-
+# [Stock Prediction](#content)
+|  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
+| :-: | :-: | :-: | :-: | - | - |
+| Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Stock Selection | NASDAQ  <br> NYSE <br> TSE|         STHAN-SR        | [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](https://ojs.aaai.org/index.php/AAAI/article/view/16127) | None | AAAI 2021<br>A
+| Stock Trend <br> Prediction | CSI300  <br> CSI800 <br> NASDAQ100|        CMLF       | [Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion](https://doi.org/10.1145/3459637.3482483) | [Pytorch](https://github.com/CMLF-git-dev/CMLF)  | CIKM 2021<br>B
+| Stock Movement <br> Prediction | TPX500 <br> TPX100 |       LSTM-RGCN | [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0626.pdf) | [Pytorch](https://github.com/liweitj47/overnight-stock-movement-prediction) | IJCAI 2020<br>A
+| Stock Price <br> Forecasting |  S&P 500  |         Dandelion       | [Domain adaptive multi-modality neural attention network for financial forecasting](https://doi.org/10.1145/3366423.3380288) | [Sklearn](https://github.com/Leo02016/Dandelion)  | WWW 2020<br>A
+| Stock Movement <br> Prediction | S&P 500 |         STHGCN       | [Spatiotemporal hypergraph convolution network for stock movement forecasting](https://ieeexplore.ieee.org/abstract/document/9338303) | [Pytorch](https://github.com/midas-research/sthgcn-icdm) | ICDM 2020<br>B
+| Stock Trend <br> Prediction |  ChineseStock |         IMTR       | [Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction](https://doi.org/10.1145/3292500.3330663) | None| KDD 2019<br>A
+| Stock Movement <br> Prediction | CSI200 <br> CSI300  <br> CSI500 |         RNN-MRFs  | [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification](https://doi.org/10.1145/3292500.3330983) | None | KDD 2019<br>A
+| Stock Movement <br> Prediction | NASDAQ <br> NYSE  <br> U.S.markets |         Adv-ALSTM  | [Enhancing stock movement prediction with adversarial training](https://www.ijcai.org/proceedings/2019/0810.pdf) | [TF](https://github.com/fulifeng/Adv-ALSTM) | IJCAI 2019<br>A
 
 
 
