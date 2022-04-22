@@ -370,9 +370,9 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100|         Adv-ALSTM  | [Enhancing stock movement prediction with adversarial training](https://www.ijcai.org/proceedings/2019/0810.pdf) | [TF](https://github.com/fulifeng/Adv-ALSTM) | IJCAI 2019<br>A
 | Stock  Prediction | NASDAQ  <br> NYSE  |         RSR  | [Temporal Relational Ranking for Stock Prediction](https://doi.org/10.1145/3292500.3330833) | [TF](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking) | TOIS 2019<br>A
 | Stock Movement <br> Prediction | Self-defined  |        StockNet   | [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183) | [TF](https://github.com/yumoxu/stocknet-code) | ACL 2018<br>A
-| Stock Trend <br> Prediction | Self-defined  |        StockNet  | [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://doi.org/10.1145/3159652.3159690) | [TF](https://github.com/donghyeonk/han) | WSDM 2018<br>B
+| Stock Trend <br> Prediction | Self-defined  |        HAN  | [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://doi.org/10.1145/3159652.3159690) | [TF](https://github.com/donghyeonk/han) | WSDM 2018<br>B
 | Stock Price <br> Prediction | Self-defined |        SFM  | [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns](https://doi.org/10.1145/3097983.3098117) | [Keras](https://github.com/z331565360/State-Frequency-Memory-stock-prediction) | KDD 2017<br>A
-| Stock Movement <br> Prediction | NASDAQ  <br> NYSE  |         KGEB-CNN   | [Knowledge-Driven Event Embedding for Stock Prediction](https://aclanthology.org/C16-1201) | NNone | COLING 2016<br>B
+| Stock Movement <br> Prediction | NASDAQ  <br> NYSE  |         KGEB-CNN   | [Knowledge-Driven Event Embedding for Stock Prediction](https://aclanthology.org/C16-1201) | None | COLING 2016<br>B
 
 
 
