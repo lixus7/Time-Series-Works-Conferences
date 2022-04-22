@@ -343,7 +343,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 # [Stock Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022<br>A   
 | Stock Movement<br> Prediction | CSI800 |    TRA  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3447548.3467358) | [Pytorch](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA) | KDD 2021<br>A
 | Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100 |     DTML | [Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://doi.org/10.1145/3447548.3467297) | None| KDD 2021<br>A
