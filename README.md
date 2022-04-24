@@ -56,6 +56,8 @@ According to the quality of the papers and codes, we rank the conferences as fol
 
 NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM;
 
+Note that: AISTAT is CCFC but is top in computational mathematics (such as probabilistic problem);
+
 
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
