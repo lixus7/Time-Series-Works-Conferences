@@ -52,7 +52,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 
 "A, B, C" in the publication denotes the CCF Rank;
 
-According to the average quality of the papers and codes, we rank the conferences as follows: (Don't be rude, I'm talking about average)
+According to the average quality of the papers and codes, we rank the conferences as follows: (Don't be rude, I'm talking about the average)
 
 NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM;
 
