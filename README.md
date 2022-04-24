@@ -10,6 +10,8 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
+Under the guidance of Professor [Renhe Jiang](https://www.renhejiang.com/), Dr. [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), I fell in love with time series work, scientific research and paper reading, and I love sorting out the work of my peers, meanwhile I want to organize the latest time series work on this GitHub.
+
 All papers group by task and method (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use:
 
 https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
@@ -256,7 +258,16 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Imputation | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021<br>A
 | Imputation & <br> Prediction  | VevoMusic  <br> WikiTraffic <br> Los-Loop <br> SZ-Taxi |         Radflow       | [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://dl.acm.org/doi/10.1145/3442381.3449945) | [Pytorch](https://github.com/alasdairtran/radflow) | WWW 2021<br>A
 | Imputation | PhysioNet  <br> Air Quality <br> Gas Sensor |         STING       | [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/abstract/document/9679183) | None | ICDM 2021 <br> B
+| Imputation  | Zero <br> MICE <br>  SoftImpute  <br>  GMMC <br> GAIN   |    SN    | [Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks](https://openreview.net/forum?id=BylsKkHYvH) | [Future](https://github.com/JoonyoungYi/sparsity-normalization)  | ICLR 20 <br> None But Top
 
+
+
+<!-- 
+| Imputation  | Beijing Air <br> PhysioNet <br>  Porto Taxi  <br>  London Weather <br> GAIN   |    LGnet    | [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://ojs.aaai.org/index.php/AAAI/article/view/6056) | [Future](https://github.com/JoonyoungYi/sparsity-normalization)  | AAAI 20 <br>A
+
+| probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/JoonyoungYi/sparsity-normalization)  | KDD 2019 <br> A 
+
+-->
 
 
 # [Time Series Anomaly Detection](#content)
