@@ -259,13 +259,22 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Imputation & <br> Prediction  | VevoMusic  <br> WikiTraffic <br> Los-Loop <br> SZ-Taxi |         Radflow       | [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://dl.acm.org/doi/10.1145/3442381.3449945) | [Pytorch](https://github.com/alasdairtran/radflow) | WWW 2021<br>A
 | Imputation | PhysioNet  <br> Air Quality <br> Gas Sensor |         STING       | [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/abstract/document/9679183) | None | ICDM 2021 <br> B
 | Imputation  | Zero <br> MICE <br>  SoftImpute  <br>  GMMC <br> GAIN   |    SN    | [Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks](https://openreview.net/forum?id=BylsKkHYvH) | [Future](https://github.com/JoonyoungYi/sparsity-normalization)  | ICLR 20 <br> None But Top
+| Imputation  | Beijing Air <br> PhysioNet <br>  Porto Taxi <br>  London Weather  |   LGnet   | [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://ojs.aaai.org/index.php/AAAI/article/view/6056) | None | AAAI 20 <br>A
+| Imputation  | Sydney <br> Melbourne <br>  Brisbane <br>  Perth, etc   |    SMV-NMF    | [A spatial missing value imputation method for multi-view urban statistical data](https://www.ijcai.org/Proceedings/2020/0182.pdf) | [Matlab](https://github.com/SMV-NMF/SMV-NMF)  | IJCAI 20 <br>A
+| Imputation  | PhysioNet <br> Air Quality <br>  Wind  |   GANGRUI   | [Adversarial Recurrent Time Series Imputation](https://ieeexplore.ieee.org/abstract/document/9158560/) | None | TNNLS 20 <br>B
+| Imputation  | Healthcare <br> Climate  |   GRU-ODE-Bayes   | [GRU-ODE-Bayes: Continuous Modeling of Sporadically-Observed Time Series](https://proceedings.neurips.cc/paper/2019/hash/455cb2657aaa59e32fad80cb0b65b9dc-Abstract.html) | [Pytorch](https://github.com/edebrouwer/gru_ode_bayes) | NIPS 19 <br>A
+| Imputation  |  Toy |   LatenODE   | [Latent Ordinary Differential Equations for Irregularly-Sampled Time Series](https://proceedings.neurips.cc/paper/2019/hash/42a6845a557bef704ad8ac9cb4461d43-Abstract.html) | [Pytorch](https://github.com/YuliaRubanova/latent_ode) | NIPS 19 <br>A
+| Imputation  |  Sines <br>  Stocks<br> Energy <br> Events |   TimeGAN   | [Time-series Generative Adversarial Networks](https://proceedings.neurips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html) | [TF](https://github.com/jsyoon0823/TimeGAN) | NIPS 19 <br>A
+| Imputation  |  MIMIC-III  <br>  UWaveGesture  |   Inter-net   | [Interpolation-Prediction Networks for Irregularly Sampled Time Series](https://openreview.net/forum?id=r1efr3C9Ym) | [Keras](https://github.com/mlds-lab/interp-net) | ICLR 19 <br>None But Top
+| Imputation  | PhysioNet  <br>  KDD2018  |  E2gan   | [E2gan: End-to-end generative adversarial network for multivariate time series imputation](https://www.ijcai.org/Proceedings/2019/0429.pdf) | [TF](https://github.com/Luoyonghong/E2EGAN) | IJCAI 19 <br>A
+| Imputation  | EC  <br>  RV  |  STI   | [How Do Your Neighbors Disclose Your Information: Social-Aware Time Series Imputation](https://doi.org/10.1145/3308558.3313714) | [Pytorch](https://github.com/tomstream/STI) | WWW 19 <br>A
 
 
 
 <!-- 
-| Imputation  | Beijing Air <br> PhysioNet <br>  Porto Taxi  <br>  London Weather <br> GAIN   |    LGnet    | [Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values](https://ojs.aaai.org/index.php/AAAI/article/view/6056) | [Future](https://github.com/JoonyoungYi/sparsity-normalization)  | AAAI 20 <br>A
+| Imputation  | EC  <br>  RV  |  STI   | [How Do Your Neighbors Disclose Your Information: Social-Aware Time Series Imputation](https://doi.org/10.1145/3308558.3313714) | [Pytorch](https://github.com/tomstream/STI) | WWW 19 <br>A
 
-| probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/JoonyoungYi/sparsity-normalization)  | KDD 2019 <br> A 
+| probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/edebrouwer/gru_ode_bayes)  | KDD 2019 <br> A 
 
 -->
 
