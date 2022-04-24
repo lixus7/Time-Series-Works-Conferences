@@ -190,6 +190,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | probability  | Carbon <br> Concrete <br> Energy <br> Housing,etc  |      β−NLL      | [On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks](https://openreview.net/forum?id=aPOpXlnV1T) | [Pytorch](https://github.com/martius-lab/beta-nll) | ICLR 2022 <br> None But Top
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022<br>A
 | probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Function without Quantile Crossing for Distribution-free Time Series Forecasting](https://arxiv.org/abs/2111.06581) | [gluonts](https://github.com/awslabs/gluon-ts/blob/4d73911f6aae5079ad228b504ab8edaa369ad04c/src/gluonts/mx/distribution/isqf.py) | AISTAT 2022 <br> C But Top
+| probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [gluonts](https://github.com/awslabs/gluon-ts/tree/master/src/gluonts/torch/model/mqf2)  | AISTAT 2022 <br> C But Top
 | probability | MIMIC-III <br> EEG <br> COVID-19  |        CF-RNN      | [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) |  [Pytorch](https://github.com/kamilest/conformal-rnn) | NIPS 2021<br>A
 | probability | CDC Flu  |       EPIFNP     | [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html) |  None | NIPS 2021<br>A
 | probability | Basketball  <br>  Weather|       GLIM     | [Probability Paths and the Structure of Predictions over Time](https://proceedings.neurips.cc/paper/2021/hash/7f53f8c6c730af6aeb52e66eb74d8507-Abstract.html) |   [R](https://github.com/ItsMrLin/probability-paths) | NIPS 2021<br>A
@@ -209,11 +210,16 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | probability & Point | Traffic <br> Electricity <br> Wiki <br> Solar <br> Taxi |        TLAE      | [Temporal Latent Auto-Encoder: A Method for Probabilistic Multivariate Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17101) | None | AAAI 2021 <br> A
 | probability  | Patient EHR <br> Public Health |        UNITE      | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) | [Pytorch](https://github.com/Chacha-Chen/UNITE) | WWW 2021 <br> A
 | probability  | Exchange <br> Solar <br> Electricity  <br> Traffic  <br>  Wiki  |     ARSGLS     | [Deep Rao-Blackwellised Particle Filters for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) | None | NIPS 2020 <br> A
+| probability  | Electricity <br> Traffic <br> Wind  <br> Solar  <br>  M4  |     AST     | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | [Pytorch](https://github.com/hihihihiwsf/AST)  | NIPS 2020 <br> A
+| probability  | Traffic <br> Electricity   |     STRIPE     | [Probabilistic Time Series Forecasting with Shape and Temporal Diversity](https://papers.nips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) | [Pytorch](https://github.com/vincent-leguen/STRIPE)  | NIPS 2020 <br> A
+| probability  | Exchange <br> Solar <br> Electricity  <br> Wiki  <br>  Traffic  |     NKF     | [Normalizing Kalman Filters for Multivariate Time Series Analysis](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) |  None  | NIPS 2020 <br> A
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  A
 
 
-<!-- 
-| probability  | Exchange <br> Solar <br> Electricity  <br> Traffic  <br>  Wiki  |     ARSGLS     | [Deep Rao-Blackwellised Particle Filters for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/afb0b97df87090596ae7c503f60bb23f-Abstract.html) | None | NIPS 2020 <br> A -->
+<!-- | probability  | Exchange <br> Solar <br> Electricity  <br> Wiki  <br>  Traffic  |     NKF     | [Normalizing Kalman Filters for Multivariate Time Series Analysis](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) |  None  | NIPS 2020 <br> A
+
+| probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [gluonts](https://github.com/awslabs/gluon-ts/tree/master/src/gluonts/torch/model/mqf2)  | AISTAT 2022 <br> C But Top
+ -->
 
 
 
