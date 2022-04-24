@@ -51,7 +51,9 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
 "A, B, C" in the publication denotes the CCF Rank;
+
 According to the quality of the papers, we rank the conferences as follows:
+
 NIPS,ICML,ICLR,KDD,AAAI,IJCAI,WWW,CIKM,ICDM,WSDM;
 
 
