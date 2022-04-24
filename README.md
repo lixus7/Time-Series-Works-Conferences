@@ -50,6 +50,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 - <a href = "#Stock-Prediction">Stock Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
+"A, B, C" in the publication denotes the CCF Rank
 
 
 # [Multivariable Time Series Forecasting](#content)
@@ -215,13 +216,21 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 | probability  | Traffic <br> Electricity   |     STRIPE     | [Probabilistic Time Series Forecasting with Shape and Temporal Diversity](https://papers.nips.cc/paper/2020/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) | [Pytorch](https://github.com/vincent-leguen/STRIPE)  | NIPS 2020 <br> A
 | probability  | Exchange <br> Solar <br> Electricity  <br> Wiki  <br>  Traffic  |     NKF     | [Normalizing Kalman Filters for Multivariate Time Series Analysis](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html) |  None  | NIPS 2020 <br> A
 | probability  |  S&P 500 <br> Electricity   |     Monte-Carlo     | [Adversarial Attacks on Probabilistic Autoregressive Forecasting Models](https://proceedings.mlr.press/v119/dang-nhu20a.html) | [Pytorch](https://github.com/eth-sri/probabilistic-forecasts-attacks)  | ICML 2020 <br> A
+| probability  |  Boston <br> Concrete  <br>Energy <br> Kin8nm <br>  Naval, etc  |    NGBoost    | [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](http://proceedings.mlr.press/v119/duan20a.html) | [Python](https://github.com/stanfordmlgroup/ngboost)  | ICML 2020 <br> A
+| probability  |  Physionet <br> NHIS   |    DME    | [Deep Mixed Effect Model Using Gaussian Processes: A Personalized and Reliable Prediction for Healthcare](https://ojs.aaai.org/index.php/AAAI/article/view/5773) | [Pytorch](https://github.com/jik0730/Deep-Mixed-Effect-Model-using-Gaussian-Processes)  | AAAI 2020 <br> A
+| probability  |  Exchange <br> Solar <br>  Electricity  <br>  Traffic  <br>  NYCTaxi <br> Wikipedia  |    copula    | [High-dimensional multivariate forecasting with low-rank Gaussian Copula Processes](https://proceedings.neurips.cc/paper/2019/hash/0b105cf1504c4e241fcc6d519ea962fb-Abstract.html) | [GluonTS](https://github.com/mbohlkeschneider/gluon-ts/tree/mv_release)  | NIPS 2019 <br> A
+| probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    DF    | [Deep Factors for Forecasting](https://proceedings.mlr.press/v97/wang19k.html) | None | ICML 2019 <br> A
+| probability  |  Weather   |    DUQ    | [Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting](https://doi.org/10.1145/3292500.3330704) | [Keras](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)  | KDD 2019 <br> A
+| probability  |  JD50K   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | None  | KDD 2019 <br> A
+| probability  |  MIMIC-III   |    TPF    | [Temporal Probabilistic Profiles for Sepsis Prediction in the ICU](https://doi.org/10.1145/3292500.3330747) | None  | KDD 2019 <br> A
+| probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTAT 2019 <br> C But Top
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  
 
 
 <!-- 
+| probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTAT 2019 <br> A
 
-| probability  |  S&P 500 <br> Electricity   |     Monte-Carlo     | [Adversarial Attacks on Probabilistic Autoregressive Forecasting Models](https://proceedings.mlr.press/v119/dang-nhu20a.html) | [Pytorch](https://github.com/eth-sri/probabilistic-forecasts-attacks)  | ICML 2020 <br> A -->
-
+| probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/mbohlkeschneider/gluon-ts/tree/mv_release)  | KDD 2019 <br> A -->
 
 
 
