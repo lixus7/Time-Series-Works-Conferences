@@ -332,12 +332,29 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021<br>A
 | Ambulance Demand | Tokyo |         EMS-Pred       | [Forecasting Ambulance Demand with Profiled Human Mobility via Heterogeneous Multi-Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/9458623) |  [Pytorch](https://github.com/underdoc-wang/EMS-Pred-ICDE-21)  | ICDE 2021<br>A
 | Traffic  Demand | DiDiChengdu <br> NYCTaxi |         DAGNN       | [Dynamic Auto-structuring Graph Neural Network-A Joint Learning Framework for Origin-Destination Demand Prediction](https://ieeexplore.ieee.org/abstract/document/9657493) | None   | TKDE 2021<br>A
-| Market Demand  |  Juhuasuan  <br> Tiantiantemai     |        RMLDP    | [Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records](https://doi.org/10.1145/3437963.3441750) |    None  | WSDM 2021<br> B
 | Traffic Demand  |  TaxiNYC <br>  CitiBikeNYC |        MultiAttConvLSTM          | [Multi-level attention networks for multi-step citywide passenger demands prediction](https://ieeexplore.ieee.org/abstract/document/8873676/) | None  | TKDE 2021<br>A
-| Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         CAS       | [Short-term origin-destination demand prediction in urban rail transit systems: A channel-wise attentive split-convolutional neural network method](https://doi.org/10.1016/j.trc.2020.102928) |  None   |  Transportation Research Part C  <br> SCI 1 Top
-| Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         ST-ED       | [Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network](https://doi.org/10.1016/j.trc.2020.102858) |  None   |  Transportation Research Part C <br> SCI 1 Top
-| Traffic Demand |  Seattlebike  |       FairST      | [Fairness-Aware Demand Prediction for New Mobility](https://ojs.aaai.org/index.php/AAAI/article/view/5458) | None | AAAI 2021<br>A
-| Drug Demand  |  Wikipedia  |        None          | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://www.ijcai.org/proceedings/2020/610) | None  | WWW 2020<br>A
+| Market Demand  |  Juhuasuan  <br> Tiantiantemai     |        RMLDP    | [Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records](https://doi.org/10.1145/3437963.3441750) |    None  | WSDM 2021<br> B
+| Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         CAS       | [Short-term origin-destination demand prediction in urban rail transit systems: A channel-wise attentive split-convolutional neural network method](https://doi.org/10.1016/j.trc.2020.102928) |  None   |  Transportation Research Part C 21  <br> SCI 1 Top
+| Metro  Demand | MetroBJ2016 <br> MetroBJ2018 |         ST-ED       | [Predicting origin-destination ride-sourcing demand with a spatio-temporal encoder-decoder residual multi-graph convolutional network](https://doi.org/10.1016/j.trc.2020.102858) |  None   |  Transportation Research Part C 21<br> SCI 1 Top
+| Traffic Demand |  Seattlebike  |       FairST      | [Fairness-Aware Demand Prediction for New Mobility](https://ojs.aaai.org/index.php/AAAI/article/view/5458) | None | AAAI 2020<br>A
+| Drug Demand  |  Wikipedia  |        None          | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://doi.org/10.1145/3366423.3380022) | None  | WWW 2020<br>A
+| Traffic Demand  | DiDiBJ  <br>  DiDiSH  |  MPGCN   | [Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/9101359) | [Pytorch](https://github.com/underdoc-wang/MPGCN)  | ICDE 20 <br>A
+| Traffic Demand  | NYC  <br>  DiDiCD  |  MPGCN   | [Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks](https://ieeexplore.ieee.org/abstract/document/9101647/) | [TF](https://github.com/hujilin1229/od-pred)  | ICDE 20 <br>A
+| Traffic Demand  | Bengaluru  <br>  NYC  |  GraphLSTM   | [Grids Versus Graphs: Partitioning Space for Improved Taxi Demand-Supply Forecasts](https://ieeexplore.ieee.org/abstract/document/9099450/) | [Pytorch](https://github.com/NDavisK/Grids-versus-Graphs)  | TITS 20 <br>B
+| Traffic Demand  | NYCbike  <br>  NYCtaxi  |  CoST-Net   | [Co-Prediction of Multiple Transportation Demands Based on Deep Spatio-Temporal Neural Network](https://doi.org/10.1145/3292500.3330887) | None  | KDD 19 <br>A
+| Traffic Demand  | UCAR  <br>  DiDiCD  |  GEML   | [Origin-Destination Matrix Prediction via Graph Convolution: a New Perspective of Passenger Demand Modeling](https://doi.org/10.1145/3292500.3330877) | [Keras](https://github.com/Zekun-Cai/GEML-Origin-Destination-Matrix-Prediction-via-Graph-Convolution)   | KDD 19 <br>A
+| Traffic Demand  | NYCbike  <br>  Meso West  |  CE-LSTM   | [Learning Heterogeneous Spatial-Temporal Representation for Bike-Sharing Demand Prediction
+Authors](https://ojs.aaai.org/index.php/AAAI/article/view/3890) | None | AAAI 19 <br>A
+| Traffic Demand  | Beijing  <br>  Shanghai  |  STMGCN  | [Spatiotemporal Multi-Graph Convolution Network for Ride-Hailing Demand Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/4247) | [Pytorch](https://github.com/underdoc-wang/ST-MGCN) | AAAI 19 <br>A
+| Traffic Demand  | NYC-TOD   |  CSTN  | [Contextualized Spatial–Temporal Network for Taxi Origin-Destination Demand Prediction](https://ieeexplore.ieee.org/abstract/document/8720246/) | [Keras](https://github.com/liulingbo918/CSTN) | TITS 19 <br>B
+| Traffic Demand  | NYCtaxi   |  MultiConvLSTM  | [Deep Multi-Scale Convolutional LSTM Network for Travel Demand and Origin-Destination Predictions](https://ieeexplore.ieee.org/abstract/document/8758916/) |  None   | TITS 19 <br>B
+| Traffic Demand  | PeMS   |  t-SNE  | [Estimating multi-year  origin-destination demand using high-granular multi-source traffic data](https://doi.org/10.1016/j.trc.2018.09.002) |  None   | Transportation Research Part C 18  <br> SCI 1 Top
+
+
+
+
+<!-- | Traffic Demand  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/underdoc-wang/ST-MGCN)  | KDD 2019 <br> A 
+ -->
 
 
 
