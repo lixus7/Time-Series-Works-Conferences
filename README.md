@@ -378,8 +378,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | TTE | Singapore |     AtHy-TNet       | [Path Travel Time Estimation using Attribute-related Hybrid Trajectories Network)(https://doi.org/10.1145/3357384.3357927) |   None  | CIKM 2019<br>B
 | TTE | BT-Traffic <br> PeMSD7 <br>  Q-traffic |    NASF     | [Learning to Effectively Estimate the Travel Time for Fastest Route Recommendation)(https://doi.org/10.1145/3357384.3357907) |   None  | CIKM 2019<br>B
 | TTE | Chengdu <br> Beijing    |     DeepTTE        | [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://jelly007.github.io/deepTTE.pdf) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018<br>A
-| TTE | PORTO <br>SANFRANCISCO  |    NoisyOR     | [Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads
-Authors)(https://ojs.aaai.org/index.php/AAAI/article/view/11858) |   None  | AAAI 2018<br>A
+| TTE | PORTO <br>SANFRANCISCO  |    NoisyOR     | [Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads)(https://ojs.aaai.org/index.php/AAAI/article/view/11858) |   None  | AAAI 2018<br>A
 | TTE |  MORE  |     MORE       | [github](https://github.com/NickHan-cs/Spatio-Temporal-Data-Mining-Survey/blob/master/Estimated-Time-of-Arrival/Paper.md) | MORE | MORE<br>A
 
 
@@ -394,7 +393,7 @@ Authors)(https://ojs.aaai.org/index.php/AAAI/article/view/11858) |   None  | AAA
 # [Traffic Location Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
+| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
 | Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | AAAI 2022<br>A
 | Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022<br> B
 | Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 <br>B
