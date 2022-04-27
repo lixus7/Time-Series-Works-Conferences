@@ -362,7 +362,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:6 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021<br>A
 | TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020<br>A
 | TTE | DiDi: <br> Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020<br>A
@@ -393,7 +393,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Traffic Location Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
+| Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
 | Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | AAAI 2022<br>A
 | Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022<br> B
 | Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 <br>B
