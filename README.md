@@ -64,7 +64,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:102 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022  <br>None But Top 
 | Multivariable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets         | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022 <br> None But Top 
 | Multivariable | ETT <br> Electricity <br> Weather |         CoST         | [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2) | [Pytorch](https://github.com/salesforce/CoST) | ICLR 2022 <br> None But Top 
@@ -302,7 +302,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Anomaly Detection | SMAP <br> MSL <br> TSA  |      MTAD-GAT | [Multivariate Time-Series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9338317) |   [TF](https://github.com/mangushev/mtad-gat)  [Pytorch](https://github.com/ML4ITS/mtad-gat-pytorch) | ICDM 2020 <br> B
 |  Anomaly Detection |  SMAP  <br> MSL <br> SMD  |       OmniAnomaly   | [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://doi.org/10.1145/3292500.3330672) |   [TF](https://github.com/NetManAIOps/OmniAnomaly)   | KDD 2019 <br> A
 |  Anomaly Detection |  GeoLife  <br> TST   |       IRL-ADU   | [Sequential Anomaly Detection using Inverse Reinforcement Learning](https://doi.org/10.1145/3292500.3330932) |   None  | KDD 2019 <br> A
-|  Anomaly Detection |  donors  <br> census  <br> fraud <br> celeba ,etc |      DevNet  | [Deep Anomaly Detection with Deviation Networks](hhttps://doi.org/10.1145/3292500.3330871) |   [Keras](https://github.com/GuansongPang/deviation-network) [Pytorch](https://github.com/Choubo/deviation-network-image) | KDD 2019 <br> A
+|  Anomaly Detection |  donors  <br> census  <br> fraud <br> celeba ,etc |      DevNet  | [Deep Anomaly Detection with Deviation Networks](https://doi.org/10.1145/3292500.3330871) |   [Keras](https://github.com/GuansongPang/deviation-network) [Pytorch](https://github.com/Choubo/deviation-network-image) | KDD 2019 <br> A
 |  Anomaly Detection | KPI <br> Yahoo <br> Microsoft  |      SR-CNN  | [Time-Series Anomaly Detection Service at Microsoft](https://doi.org/10.1145/3292500.3330680) |   None | KDD 2019 <br> A
 |  Anomaly Detection |  power plant |      MSCRED  | [A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data](https://ojs.aaai.org/index.php/AAAI/article/view/3942) |   [TF](https://github.com/7fantasysz/MSCRED) | AAAI 2019 <br> A
 |  Anomaly Detection | ECG <br> Motion |      BeatGAN  | [BeatGAN: Anomalous Rhythm Detection using Adversarially Generated Time Series](https://www.ijcai.org/Proceedings/2019/0616.pdf) |   [Pytorch](https://github.com/hi-bingo/BeatGAN) | IJCAI 2019 <br> A
@@ -366,13 +366,28 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021<br>A
 | TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020<br>A
 | TTE | DiDi: <br> Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020<br>A
+| TTE | GTFS     |     BusTr        | [BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://doi.org/10.1145/3394486.3403376) |   None  | KDD 2020<br>A
+| TTE | Taiyuan   <br>  Hefei <br> Huizhou <br> （Baidu）   |     BusTr        | [ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps)(https://doi.org/10.1145/3394486.3403320) |   None  | KDD 2020<br>A
+| TTE | NYC   <br>  IST <br> TKY   |     DeepJMT        | [Context-aware Deep Model for Joint Mobility and Time Prediction)(https://doi.org/10.1145/3336191.3371837) |   None  | WSDM 2020<br>B
 | TTE | Beijing <br> Shanghai    |     TTPNet        | [TTPNet: A Neural Network for Travel Time Prediction Based on Tensor Decomposition and Graph Embedding](https://ieeexplore.ieee.org/abstract/document/9261122) |   [Pytorch](https://github.com/YibinShen/TTPNet)  | TKDE 2020<br>A
+| TTE | DiDiBJ   |     RNML-ETA         | [Road Network Metric Learning for Estimated Time of Arrival)(https://ieeexplore.ieee.org/abstract/document/9412145) |   None  | ICPR 2020<br>C
+| TTE | Cainiao    |     DeepETA       | [DeepETA: A Spatial-Temporal Sequential Neural Network Model for Estimating Time of Arrival in Package Delivery System)(https://ojs.aaai.org/index.php/AAAI/article/view/3856) |   None  | AAAI 2019<br>A
+| TTE | Beijing  <br>  Shanghai |     CTTE       | [Aggressive driving saves more time? Multi-task learning for customized travel time estimation)(https://www.ijcai.org/Proceedings/2019/0234.pdf) |   None  | IJCAI 2019<br>A
+| TTE | Shanghai  <br>  Porto |     DeepI2T       | [Travel time estimation without road networks: an urban morphological layout representation approach)(https://www.ijcai.org/proceedings/2019/0245.pdf) |   None  | IJCAI 2019<br>A
 | TTE | Porto <br> Chengdu    |     DeepIST        | [DeepIST: Deep Image-based Spatio-Temporal Network for Travel Time Estimation](https://dl.acm.org/doi/abs/10.1145/3357384.3357870) |   [TF](https://github.com/csiesheep/deepist)  | CIKM 2019<br>B
-| TTE | Chengdu <br> Beijing    |     DeepTTE        | [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/11877) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018<br>A
+| TTE | Singapore |     AtHy-TNet       | [Path Travel Time Estimation using Attribute-related Hybrid Trajectories Network)(https://doi.org/10.1145/3357384.3357927) |   None  | CIKM 2019<br>B
+| TTE | BT-Traffic <br> PeMSD7 <br>  Q-traffic |    NASF     | [Learning to Effectively Estimate the Travel Time for Fastest Route Recommendation)(https://doi.org/10.1145/3357384.3357907) |   None  | CIKM 2019<br>B
+| TTE | Chengdu <br> Beijing    |     DeepTTE        | [When Will You Arrive? Estimating Travel Time Based on Deep Neural Networks](https://jelly007.github.io/deepTTE.pdf) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018<br>A
+| TTE | PORTO <br>SANFRANCISCO  |    NoisyOR     | [Predicting Vehicular Travel Times by Modeling Heterogeneous Influences Between Arterial Roads
+Authors)(https://ojs.aaai.org/index.php/AAAI/article/view/11858) |   None  | AAAI 2018<br>A
 | TTE |  MORE  |     MORE       | [github](https://github.com/NickHan-cs/Spatio-Temporal-Data-Mining-Survey/blob/master/Estimated-Time-of-Arrival/Paper.md) | MORE | MORE<br>A
 
 
 
+
+<!-- 
+
+| TTE | GTFS <br> Beijing    |     BusTr        | [BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://doi.org/10.1145/3394486.3403320) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018<br>A -->
 
 
 
