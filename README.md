@@ -394,15 +394,17 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
-| Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | AAAI 2022<br>A
+| Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | ICLR 2022<br>None But Top
 | Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022<br> B
 | Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 <br>B
 | Location | ETH <br> HODEL  <br> UNIV <br> ZARA1 <br> ZARA2   |     CARPe       | [CARPe Posterum: A Convolutional Approach for Real-Time Pedestrian Path Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16335) | [Pytorch](https://github.com/TeCSAR-UNCC/CARPe_Posterum) | AAAI 2021<br>A
 | Location | ETH <br> HODEL  <br> UNIV <br> ZARA1 <br> ZARA2   |     DMRGCN       | [Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16174) | [Pytorch](https://github.com/TeCSAR-UNCC/CARPe_Posterum) | AAAI 2021<br>A
-| Location |  MORE  |     MORE       | [https://github.com/Pursueee/Trajectory-Paper-Collation](https://ojs.aaai.org/index.php/AAAI/article/view/16174) | [Pytorch](https://github.com/Pursueee/Trajectory-Paper-Collation) | MORE<br>A
+| Location |  MORE  |     MORE       | [github](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) | [Hao Xue](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction) | MORE
+| Location |  MORE  |     MORE       | [https://github.com/Pursueee/Trajectory-Paper-Collation](https://github.com/Pursueee/Trajectory-Paper-Collation) | [Pytorch](https://github.com/Pursueee/Trajectory-Paper-Collation) | MORE
 
 
 
+| Location | Gowalla <br> FS-NYC  <br> FS-TKY  |     MobTCast       | [MobTCast: Leveraging Auxiliary Trajectory Forecasting for Human Mobility Prediction](https://proceedings.neurips.cc/paper/2021/hash/fecf2c550171d3195c879d115440ae45-Abstract.html) | [Author](https://drive.google.com/drive/folders/1xfiaz9cAxKYmNWgOH986JpMVSQbt3_qu?usp=sharing) | NIPS 2021<br>A
 
 
 
