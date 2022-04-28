@@ -500,7 +500,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Other Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
-| Paper Nums:8 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Paper Nums:9 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022<br> A|
 | Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022<br>A|
 | Health Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022<br>B|
