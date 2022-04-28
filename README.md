@@ -430,11 +430,21 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | - | - |
 | Paper Nums:5 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Accident | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022<br>A
-| Accident | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021<br>A
-| Accident | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [TF](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020<br>A
-| Accident | NYC <br> SIP  |         RiskSeq        | [Foresee Urban Sparse Traffic Accidents: A Spatiotemporal Multi-Granularity Perspective](https://ieeexplore.ieee.org/document/9242313) | None| AAAI 2020<br>A
-| Accident |   |         Hetero-ConvLSTM        | [Hetero-ConvLSTM: A Deep Learning Approach to Traffic Accident Prediction on Heterogeneous Spatio-Temporal Data](https://ieeexplore.ieee.org/document/9242313) | None| KDD 2018<br>A
+| Event | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022<br>A
+| Event | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021<br>A
+| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     STCGNN       | [Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction](https://doi.org/10.1145/3459637.3482482) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | CIKM 2021<br>B 
+| Event | Thailand <br> Egypt <br>  India  <br>Russia   <br> Covid-19  |     CMF       | [Understanding Event Predictions via Contextualized Multilevel Feature Learning](https://doi.org/10.1145/3459637.3482309) | None  | CIKM 2021<br>B 
+| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | None | KDD 2020<br>B 
+| Event | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [TF](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020<br>A
+| Event | NYC <br> SIP  |         RiskSeq        | [Foresee Urban Sparse Traffic Accidents: A Spatiotemporal Multi-Granularity Perspective](https://ieeexplore.ieee.org/document/9242313) | None| TKDE 2020<br>A
+| Event |   |         Hetero-ConvLSTM        | [Hetero-ConvLSTM: A Deep Learning Approach to Traffic Accident Prediction on Heterogeneous Spatio-Temporal Data](https://ieeexplore.ieee.org/document/9242313) | None| KDD 2018<br>A
+
+
+
+<!-- 
+| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | KDD 2020<br>B  -->
+
+
 
 
 # [Stock Prediction](#content)
