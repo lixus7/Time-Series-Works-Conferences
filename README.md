@@ -63,7 +63,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022  <br>None But Top 
 | Multivariable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets         | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022 <br> None But Top 
@@ -193,7 +193,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | probability & <br> Point & <br> Others |   electricity  <br>  Yacht <br> Boston, etc |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022 <br> None But Top 
 | probability  | IRIS <br> Digits <br> EightSchools    |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 <br> None But Top 
@@ -246,7 +246,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Time Series Imputation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 22  | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Imputation |  Air Quality <br> METR-LA <br> PeMS-BAY <br> CER-E  |         GRIN        | [Filling the G_ap_s-Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7) |  [Pytorch](https://github.com/Graph-Machine-Learning-Group/grin) | ICLR 2022 <br> None But Top 
 | Imputation |  PhysioNet <br> MIMIC-III <br> Climate  |         HeTVAE        | [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3) |  [Pytorch](https://github.com/reml-lab/hetvae) | ICLR 2022 <br> None But Top 
@@ -283,7 +283,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> | 
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 <br> None But Top 
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 <br> None But Top 
@@ -326,7 +326,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Demand Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-:| - |
 | Paper Nums: 23 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022<br>A
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022<br>A
@@ -364,7 +364,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021<br>A
 | TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020<br>A
@@ -395,7 +395,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Traffic Location Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: |:-: | - |
 | Paper Nums:20 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
 | Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | ICLR 2022<br>None But Top
 | Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022<br> B
@@ -431,7 +431,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Traffic Event Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Event | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022<br>A
 |  Event  |  SLA-VAE <br> E-commerce  |       RETE    | [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://doi.org/10.1145/3485447.3511974) | None| WWW 2022 <br> A
@@ -465,7 +465,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Stock Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
 | Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022<br>A   
 | Stock Movement<br> Prediction | CSI800 |    TRA  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3447548.3467358) | [Pytorch](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA) | KDD 2021<br>A
@@ -505,7 +505,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 # [Other Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
-| :-: | :-: | :-: | :-: | - | - |
+| :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:9 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022<br> A|
 | Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022<br>A|
