@@ -177,7 +177,6 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Multivariable | GHL <br>  Electricity  <br>TEP |       DyAt   | [DyAt Nets: Dynamic Attention Networks for State Forecasting in Cyber-Physical Systems](https://www.ijcai.org/Proceedings/2019/0441.pdf) | [Pytorch](https://github.com/nmuralid1/DynamicAttentionNetworks)  | IJCAI 2019 <br> A
 | Multivariable | Air Quality |       MGED   | [Multi-Group Encoder-Decoder Networks to Fuse Heterogeneous Data for Next-Day Air Quality Prediction](https://www.ijcai.org/proceedings/2019/0603.pdf) | None | IJCAI 2019 <br> A
 | Traffic Volumn  | Chicago <br> Boston  |        MetaST      | [Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction](https://doi.org/10.1145/3308558.3313577) | [TF](https://github.com/huaxiuyao/MetaST)  | WWW 2019 <br> A
-| Crime Prediction  | NYC Crime <br> NYC Anomaly   <br>  Chicago Crime  |        MiST      | [MiST: A Multiview and Multimodal Spatial-Temporal Learning Framework for Citywide Abnormal Event Forecasting](https://doi.org/10.1145/3308558.3313730) | None  | WWW 2019 <br> A
 | TrafficPred <br> imputation |GZSpeed <br> HZMetro <br> Seattle <br> London |       BTF   | [Bayesian Temporal Factorization for Multidimensional Time Series Prediction](https://ieeexplore.ieee.org/abstract/document/9380704) | [Python](https://github.com/nmuralid1/DynamicAttentionNetworks)  | TPAMI 2019 <br> A
 | Multivariable | Gas Station |       DSANet   | [DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting](https://doi.org/10.1145/3357384.3358132) | [Pytorch](https://github.com/bighuang624/DSANet)  | CIKM 2019 <br> B
 | Multivariable | Solar <br> Traffic <br> Exchange <br> Electricity <br> PeMS ,etc |       Study   | [Experimental Study of Multivariate Time Series Forecasting Models](https://doi.org/10.1145/3357384.3357826) | None | CIKM 2019 <br> B
@@ -434,15 +433,26 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Event | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021<br>A
 | Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     STCGNN       | [Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction](https://doi.org/10.1145/3459637.3482482) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | CIKM 2021<br>B 
 | Event | Thailand <br> Egypt <br>  India  <br>Russia   <br> Covid-19  |     CMF       | [Understanding Event Predictions via Contextualized Multilevel Feature Learning](https://doi.org/10.1145/3459637.3482309) | None  | CIKM 2021<br>B 
-| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | None | KDD 2020<br>B 
+| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | None | KDD 2020<br>A
 | Event | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [TF](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020<br>A
+| Event | NYCIncidents <br> CHIIncidents  |     STrans       | [Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting](https://doi.org/10.1145/3366423.3380296) | None  | WWW 2020<br>A
+| Event | FewEvent  |     DMB-PN       | [Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection](https://dl.acm.org/doi/10.1145/3336191.3371796) | [dataset](https://github.com/231sm/Low_Resource_KBP)  | WSDM 2020<br>B
 | Event | NYC <br> SIP  |         RiskSeq        | [Foresee Urban Sparse Traffic Accidents: A Spatiotemporal Multi-Granularity Perspective](https://ieeexplore.ieee.org/document/9242313) | None| TKDE 2020<br>A
+| Event | MemeTracker  <br>  Weibo  |    LANTERN      | [Learning Latent Process from High-Dimensional Event Sequences via Efficient Sampling](https://proceedings.neurips.cc/paper/2019/hash/a29d1598024f9e87beab4b98411d48ce-Abstract.html) | [Pytorch](https://github.com/zhangzx-sjtu/LANTERN-NeurIPS-2019)  | NIPS 2019<br>A
+| Event | Graph  <br>  Stack  <br> SmartHome <br> CarIndicators |    WGP-LN, <br>  FD-Dir     | [Uncertainty on Asynchronous Time Event Prediction](https://proceedings.neurips.cc/paper/2019/hash/78efce208a5242729d222e7e6e3e565e-Abstract.html) | [TF](https://github.com/sharpenb/Uncertainty-Event-Prediction)  | NIPS 2019<br>A
+| Event | Thailand <br> Egypt <br>  India  <br>Russia |    DynamicGCN    | [Learning Dynamic Context Graphs for Predicting Social Events](https://doi.org/10.1145/3292500.3330919) |    [Pytorch](https://github.com/amy-deng/DynamicGCN)  | KDD 2019<br>A
+| Event | NYCCollision  <br>  ChicagoCrime  <br> NYCTaxi |    DMPP    | [Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information](https://dl.acm.org/doi/10.1145/3292500.3330937) |    None  | KDD 2019<br>A
+| Event | Civil <br> Air Quality  |    SIMDA    | [Incomplete Label Multi-Task Deep Learning for Spatio-Temporal Event Subtype Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/4245) |  None  | AAAI 2019<br>A
+| Crime Prediction  | NYC Crime <br> NYC Anomaly   <br>  Chicago Crime  |        MiST      | [MiST: A Multiview and Multimodal Spatial-Temporal Learning Framework for Citywide Abnormal Event Forecasting](https://doi.org/10.1145/3308558.3313730) | None  | WWW 2019 <br> A
+| Event | NYCAccident <br> NYCEvent  |    DFN    | [Deep Dynamic Fusion Network for Traffic Accident Forecasting](https://doi.org/10.1145/3357384.3357829) |  None  | CIKM 2019<br>B
 | Event |   |         Hetero-ConvLSTM        | [Hetero-ConvLSTM: A Deep Learning Approach to Traffic Accident Prediction on Heterogeneous Spatio-Temporal Data](https://ieeexplore.ieee.org/document/9242313) | None| KDD 2018<br>A
 
 
 
+
+
 <!-- 
-| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | KDD 2020<br>B  -->
+| Event | NYCIncidents <br> CHIIncidents  |     PreView       | [Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting](https://doi.org/10.1145/3366423.3380296) | [Pytorch](https://github.com/amy-deng/DynamicGCN) | WWW 2020<br>A -->
 
 
 
