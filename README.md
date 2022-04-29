@@ -10,7 +10,7 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
-Under the guidance of Professor [Renhe Jiang](https://www.renhejiang.com/), [Dr. Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), I fell in love with time series work, scientific research and paper reading, and I love sorting out the work of my peers, meanwhile I want to organize the latest time series work on this GitHub.
+I am under the guidance of Professor [Renhe Jiang](https://www.renhejiang.com/), [Dr. Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao).
 
 All papers group by task and method (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use:
 
