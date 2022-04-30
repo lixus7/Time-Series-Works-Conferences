@@ -10,7 +10,7 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
-I am under the guidance of Professor [Renhe Jiang](https://www.renhejiang.com/) and [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao) , [Dr. Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao).
+I am under the guidance of Professor [Renhe Jiang](https://www.renhejiang.com/)/[Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao) , [Dr. Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao).
 
 We have basically completed the sorting of the task part, and will gradually mark the main methodology used for each job in the future. Meanwhile, I also want to organize all the datasets. However, my free time is limited because I'm applying for a phd offer recently. Thus, welcome those Dalaos who are also interested in sorting out time series in Top CS conferences to join this work!
 
