@@ -12,7 +12,7 @@
 
 I am under the guidance of Professor [Renhe Jiang](https://www.renhejiang.com/), [Dr. Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao).
 
-We have basically completed the sorting of the task part, and will gradually mark the main methodology used for each job in the future. Meanwhile, I also want to organize all the datasets. However, my free time is limited because I'm applying for a phd offer recently. Thus, welcome those Dalaos who are also interested in sorting out time series in Top CS Conf to join this work!
+We have basically completed the sorting of the task part, and will gradually mark the main methodology used for each job in the future. Meanwhile, I also want to organize all the datasets. However, my free time is limited because I'm applying for a phd offer recently. Thus, welcome those Dalaos who are also interested in sorting out time series in Top CS conferences to join this work!
 
 All papers group by task and method (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use:
 
