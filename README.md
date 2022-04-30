@@ -510,6 +510,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Paper Nums:9 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022<br> A|
 | Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022<br>A|
+| Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022<br>A|
 | FakeNews Detection | Snop <br> PolitiFact  |         GET     | [Evidence-aware Fake News Detection with Graph Neural Networks](https://doi.org/10.1145/3485447.3512122) | [Keras](https://github.com/CRIPAC-DIG/GET) | WWW 2022<br>A|
 | Health Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022<br>B|
 | Career Trajectory Prediction  | Company  <br> Position   |      TACTP          | [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/10.1145/3442381.3449959) | None | WWW 2021<br>A|
@@ -520,8 +521,8 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-<!-- 
-| FakeNews Detection | Snop <br> PolitiFact  |         GET     | [A Graph Temporal Information Learning Framework for Popularity Prediction](https://doi.org/10.1145/3485447.3512122) | [Keras](https://github.com/CRIPAC-DIG/GET) | WWW 2022<br>A| -->
+
+<!-- | Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022<br>A| -->
 
 
 # [Conferences](#content)
