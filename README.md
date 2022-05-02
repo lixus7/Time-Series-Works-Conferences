@@ -278,9 +278,6 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 <!-- 
 | Imputation  | EC  <br>  RV  |  STI   | [How Do Your Neighbors Disclose Your Information: Social-Aware Time Series Imputation](https://doi.org/10.1145/3308558.3313714) | [Pytorch](https://github.com/tomstream/STI) | WWW 19 <br>A
-
-| probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/edebrouwer/gru_ode_bayes)  | KDD 2019 <br> A 
-
 -->
 
 
