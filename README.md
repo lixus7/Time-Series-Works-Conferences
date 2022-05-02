@@ -58,7 +58,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 
 According to the average quality of the papers and codes, we rank the conferences as follows (Don't be rude, I'm talking about the average): 
 
-NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM;
+NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 
 Note that: AISTAT is CCFC but is top in computational mathematics (such as probabilistic problem);
 
