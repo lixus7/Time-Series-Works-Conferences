@@ -3,7 +3,7 @@
 <div align="center">
 <img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
 <img border="0" src="https://camo.githubusercontent.com/1ef04f27611ff643eb57eb87cc0f1204d7a6a14d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d254630253946253843253946266d6573736167653d496625323055736566756c267374796c653d7374796c653d666c617426636f6c6f723d424334453939" />
-<a href="https://github.com/TatsuyaD7">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a> 
+<a href="https://github.com/TatsuyaD7">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a>
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/issues">     <img border="0" src="https://img.shields.io/github/issues/TatsuyaD7/Time-Series-Work-Conference" /> </a>
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/network/members">     <img border="0" src="https://img.shields.io/github/forks/TatsuyaD7/Time-Series-Work-Conference" /> </a>
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/stargazers">     <img border="0" src="https://img.shields.io/github/stars/TatsuyaD7/Time-Series-Work-Conference" /> </a>
@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 
 > IJCAI : 1.14~2.15
 
-> ICML  : 1.23~2.24 
+> ICML  : 1.23~2.24
 
 > KDD   : 2.3~2.17
 
@@ -56,42 +56,86 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 
 "A, B, C" in the publication denotes the CCF Rank;
 
-According to the average quality of the papers and codes, we rank the conferences as follows (Don't be rude, I'm talking about the average): 
+According to the average quality of the papers and codes, we rank the conferences as follows (Don't be rude, I'm talking about the average):
 
 NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 
 Note that: AISTAT is CCFC but is top in computational mathematics (such as probabilistic problem);
 
 
-
-
-# [Traffic Flow](#content)
+# [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022  <br>None But Top 
+| Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022  <br>None But Top
+| Multivariable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets         | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022 <br> None But Top
+| Multivariable | ETT <br> Electricity <br> Weather |         CoST         | [CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=PilZY3omXV2) | [Pytorch](https://github.com/salesforce/CoST) | ICLR 2022 <br> None But Top
+| Multivariable | Electricity <br> Traffic <br> M4 <br> CASIO <br> NP |         DEPTS         | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://openreview.net/forum?id=AJAR-JgNw__) | [Pytorch](https://github.com/weifantt/DEPTS) | ICLR 2022 <br> None But Top
+| Multivariable | ETT <br> Electricity <br> Wind <br> App Flow |         Pyraformer     | [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/forum?id=0EXmFzUn5I) | [Pytorch](https://github.com/alipay/Pyraformer) | ICLR 2022 <br> None But Top
+| Multivariable | ETT <br> ECL  <br> M4 <br> Air Quality <br> Nasdaq |         RevIN     | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p) | [Pytorch](https://github.com/ts-kim/RevIN) | ICLR 2022 <br> None But Top
+| Multivariable | Temperature <br> Cloud cover  <br> Humidity <br> Wind |         CLCRN     | [Conditional Local Convolution for Spatio-temporal Meteorological Forecasting](https://aaai-2022.virtualchair.net/poster_aaai1716) | [Pytorch](https://github.com/BIRD-TAO/CLCRN) | AAAI 2022<br>A
 | Traffic Flow | PeMSD3 <br> PeMSD4 <br> PeMSD7 <br> PeMSD8 <br> PeMSD7(M) <br> PeMSD7(L) |         STG-NCDE     | [Graph Neural Controlled Differential Equations for Traffic Forecasting](https://aaai-2022.virtualchair.net/poster_aaai1716) | [Pytorch](https://github.com/jeongwhanchoi/STG-NCDE) | AAAI 2022<br>A
 | Traffic Flow  | GT-221 <br> WRS-393 <br> ZGC-564 |         STDEN     | [STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction](https://aaai-2022.virtualchair.net/poster_aaai211) | [Pytorch](https://github.com/Echo-Ji/STDEN)   | AAAI 2022<br>A
+| Multivariable | Electricity <br> Traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022<br>A
+| Multivariable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022<br>A
+| Multivariable | GoogleSymptoms  <br> Covid19  <br> Power <br> Tweet |         CAMul     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512037) |  [Pytorch](https://github.com/AdityaLab/CAMul)  | WWW 2022<br>A
+| Multivariable | Electricity <br> Stock  |         MRLF     | [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://doi.org/10.1145/3485447.3512056) | [Pytorch](https://github.com/CMLF-git-dev/MRLF) | WWW 2022<br>A
+| Multivariable <br> Classification <br> Forecasting | MuJoCo  <br> Google Stock  |         EXIT     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512030) | None | WWW 2022<br>A
 | Mobility <br> Prediction  | NYC <br> Dallas  <br>  Miami  |       SHIFT   | [Translating Human Mobility Forecasting through Natural Language Generation](https://doi.org/10.1145/3488560.3498387) | [Hao Xue](https://github.com/xuehaouwa) | WSDM 2022 <br> B
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022 <br> B
+| Multivariable | M4 <br> Electricity <br> car-parts  |         TopAttn     | [Topological Attention for Time Series Forecasting](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=26763) | [Pytorch](https://github.com/plus-rkwitt/TAN)<br> Future | NIPS 2021<br>A
+| Multivariable | Rossmann <br> M5 <br> Wiki  |         MisSeq     | [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://proceedings.neurips.cc/paper/2021/hash/6b5754d737784b51ec5075c0dc437bf0-Abstract.html) | None | NIPS 2021<br>A
+| Multivariable | ETT <br> Electricity <br> Exchange <br> Traffic <br> Weather <br> ILI |         Autoformer     | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://openreview.net/forum?id=J4gRj6d5Qm) | [Pytorch](https://github.com/thuml/Autoformer) | NIPS 2021<br>A
+| Multivariable | PeMSD4 <br> PeMSD8 <br> Traffic <br> ADI <br> M4 ,etc |         Error     | [Adjusting for Autocorrelated Errors in Neural Networks for Time Series](https://openreview.net/forum?id=tJ_CO8orSI) | [Pytorch](https://github.com/Daikon-Sun/AdjustAutocorrelation) | NIPS 2021<br>A
+| Multivariable | Bytom <br> Decentraland <br>  PeMSD4 <br> PeMSD8|         Z-GCNETs     | [Z-GCNETs: Time Zigzags at Graph Convolutional Networks for Time Series Forecasting](http://proceedings.mlr.press/v139/chen21o.html) | [Pytorch](https://github.com/Z-GCNETs/Z-GCNETs) | ICML 2021<br>A
+| Multivariable | PeMSD7(M) <br> METR-LA <br>  PeMS-BAY  |         Cov     | [Conditional Temporal Neural Processes with Covariance Loss](http://proceedings.mlr.press/v139/yoo21b.html) | None | ICML 2021<br>A
+| Multivariable | METR-LA <br>  PeMS-BAY  <br>  PMU |         GTS     | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk) | [Pytorch](https://github.com/chaoshangcs/GTS) | ICLR 2021  <br>None But Top
+| Multivariable | Benz <br> Air Quality <br> FuelMoisture  |         framework     | [A Transformer-based Framework for Multivariate Time Series Representation Learning](https://doi.org/10.1145/3447548.3467401) | [Pytorch](https://github.com/gzerveas/mvts_transformer)  | KDD 2021<br>A
+| Federated Multivariable | PeMS-BAY <br>  METR-LA  |         CNFGNN     | [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://doi.org/10.1145/3447548.3467371) | [Pytorch](https://github.com/mengcz13/KDD2021_CNFGNN)  | KDD 2021<br>A
 | Traffic Speed  | PeMSD4 <br>  PeMSD8 <br>  England |         DMSTGCN     | [Dynamic and Multi-faceted Spatio-temporal Deep Learning for Traffic Speed Forecasting](https://doi.org/10.1145/3447548.3467275) | [Pytorch](https://github.com/liangzhehan/DMSTGCN)  | KDD 2021<br>A
 | Traffic Flow  | PeMSD7(M) <br>  PeMSD7(L) <br> PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |         STGODE     | [Spatial-Temporal Graph ODE Networks for Traffic Flow Forecasting](https://doi.org/10.1145/3447548.3467430) | [Pytorch](https://github.com/square-coder/STGODE)  | KDD 2021<br>A
+| Multivariable  | BikeNYC <br>  PeMSD7(M) <br> Electricity |        ST-Norm     | [ST-Norm: Spatial and Temporal Normalization for Multi-variate Time Series Forecasting](https://doi.org/10.1145/3447548.3467330) | [Pytorch](https://github.com/JLDeng/ST-Norm)  | KDD 2021<br>A
+| Multivariable  | DiDiXiamen <br>  DiDiChengdu |       TrajNet    | [TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction](https://doi.org/10.1145/3447548.3467236) | None | KDD 2021<br>A
+| Multivariable  | Guangzhou <br> Seattle <br> HZMetro , etc. |      DSARF    | [Deep Switching Auto-Regressive Factorization: Application to Time Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16907) |  None | AAAI 2021<br>A
 |Traffic Speed   |  METR-LA  <br> PeMS-BAY |      FC-GAGA    | [FC-GAGA: Fully Connected Gated Graph Architecture for Spatio-Temporal Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17114) |  [TF](https://github.com/boreshkinai/fc-gaga) | AAAI 2021<br>A
 |Traffic Speed   |  DiDiJiNan  <br> DiDiXiAn |     HGCN   | [Hierarchical Graph Convolution Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16088) | [Pytorch](https://github.com/guokan987/HGCN) | AAAI 2021<br>A
+|  Multivariable   |  ETT  <br> Weather <br> ECL  |     Informer   | [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/17325) | [Pytorch](https://github.com/zhouhaoyi/Informer2020) | AAAI 2021<br>A
 |  Traffic Flow    |  NYCMetro  <br> NYC Bike <br> NYC Taxi  |     MOTHER   | [Modeling Heterogeneous Relations across Multiple Modes for Potential Crowd Flow Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16603) |  None  | AAAI 2021<br>A
+|  Multivariable  |  METR-LA  <br> PeMS-BAY  <br> PeMSD7(M) <br>  PeMSD7(L) <br> PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08  |     STFGNN   | [Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16542) | [Mxnet](https://github.com/MengzhangLI/STFGNN) | AAAI 2021<br>A
+|  Multivariable  | BJ Taxi <br> NYC Taxi  <br> NYC Bike1  <br> NYC Bike2 |     STGDN   | [Traffic Flow Forecasting with Spatial-Temporal Graph Diffusion Network](https://ojs.aaai.org/index.php/AAAI/article/view/17761) | [Mxnet](https://github.com/nimingniming/gdn) | AAAI 2021<br>A
 |   Traffic Flow     |  SG-TAXI   |     TrGNN   | [Traffic Flow Prediction with Vehicle Trajectories](https://ojs.aaai.org/index.php/AAAI/article/view/16104) | [Pytorch](https://github.com/mingqian000/TrGNN) | AAAI 2021<br>A
+|  Multivariable  | Road <br> POIs <br> SIGtraf |     DMLM   | [Predicting Traffic Congestion Evolution: A Deep Meta Learning Approach](https://www.ijcai.org/proceedings/2021/0417.pdf) | [Future](https://github.com/HelenaYD/DMLM) | IJCAI 2021<br>A
+|  Multivariable  | Motes <br> Soil  <br> Revenue  <br> Traffic  <br> 20CR |     NET   | [Network of Tensor Time Series](https://doi.org/10.1145/3442381.3449969) | [Pytorch](https://github.com/baoyujing/NET3) | WWW 2021<br>A
+|  Multivariable  | VevoMusic <br> WikiTraffic  <br> LOS-LOOP  <br> SZ-taxi  |     Radflow   | [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://doi.org/10.1145/3442381.3449945) | [Pytorch](https://github.com/alasdairtran/radflow) | WWW 2021<br>A
+|  Multivariable  |  METR-LA  <br> Wiki-EN    |     REST   | [REST: Reciprocal Framework for Spatiotemporal-coupled Predictions](https://ieeexplore.ieee.org/document/9346058) | None | WWW 2021<br>A
+|  Multivariable  |  PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08   <br> HZMetro  |     ASTGNN   | [Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting](https://doi.org/10.1145/3442381.3449928) | None | TKDE 2021<br>A
+|  Multivariable  |  PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08   <br> HZMetro  |     ASTGNN   | [Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting](https://doi.org/10.1145/3442381.3449928) | None | TKDE 2021<br>A
+| Multivariable | TaxiBJ  <br> BikeNYC-I  <br> BikeNYC-II <br> TaxiNYC <br> METR-LA  <br> PeMS-BAY  <br> PeMSD7(M)   |        DL-Traff     | [DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction](https://doi.org/10.1145/3459637.3482000) | Graph:[PyTorch](https://github.com/deepkashiwa20/DL-Traff-Graph) <br> Grid:[TF](https://github.com/deepkashiwa20/DL-Traff-Grid)  | CIKM 2021 <br> B
+| Multivariable | METR-LA  <br> PeMS-BAY  <br> PeMSD7(M)   |        TorchGeoTem  | [PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models](https://doi.org/10.1145/3459637.3482000) | [PyTorch](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)  | CIKM 2021 <br> B
 | Traffic Flow | TaxiBJ <br> BikeNYC |         LLF     | [Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction](https://doi.org/10.1145/3459637.3482271) | None | CIKM 2021 <br> B
+| Multivariable | ETT <br> Electricity |         HI     | [Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting](https://doi.org/10.1145/3459637.3482120) | None | CIKM 2021 <br> B
+| Multivariable | ETT <br> ELE  |         AGCNT     | [AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting](https://doi.org/10.1145/3459637.3482054) | None | CIKM 2021 <br> B
+| Cellular Traffic | cellular   |         MPGAT     | [Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic](https://doi.org/10.1145/3459637.3482152) | [Pytorch](https://github.com/cylin-cmlab/MPNet)  <br> Future | CIKM 2021 <br> B
 | Traffic Speed | METR-LA <br> PeMS-BAY <br> Simulated |         STNN     | [Space Meets Time: Local Spacetime Neural Network For Traffic Flow Forecasting](https://ieeexplore.ieee.org/abstract/document/9679008/) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
 | Traffic Speed | DiDiChengdu <br> DiDiXiAn  |         T-wave     | [Trajectory WaveNet: A Trajectory-Based Model for Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/9679147) | [Pytorch](https://github.com/songyangco/STNN) | ICDM 2021<br>  B
+| Multivariable | Sanyo <br> Hanergy <br> Solar <br> Electricity  <br> Exchange  |         SSDNet     | [SSDNet: State Space Decomposition Neural Network for Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/9679135/) | [Pytorch](https://github.com/YangLIN1997/SSDNet-ICDM2021) | ICDM 2021 <br> B
 | Traffic Volumn | HangZhou City <br> JiNan City |         CTVI     | [Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference](https://ieeexplore.ieee.org/abstract/document/9679045/) | [Pytorch](https://github.com/dsj96/CTVI-master) | ICDM 2021 <br>  B
 | Traffic Volumn | Uber Movements <br>  Grab-Posisi |         TEST-GCN     | [TEST-GCN: Topologically Enhanced Spatial-Temporal Graph Convolutional Networks for Traffic Forecasting](https://ieeexplore.ieee.org/abstract/document/9679077) | None | ICDM 2021<br> B
+| Multivariable | Air Quality City <br> Meterology |         ATGCN     | [Modeling Inter-station Relationships with Attentive Temporal Graph Convolutional Network for Air Quality Prediction](https://doi.org/10.1145/3437963.3441731) | None | WSDM 2021 <br>  B
 | Traffic Flow |  WalkWLA  <br>  BikeNYC   <br>  TaxiNYC |         PDSTN     | [Predicting Crowd Flows via Pyramid Dilated Deeper Spatial-temporal Network](https://doi.org/10.1145/3437963.3441785) | None | WSDM 2021 <br>  B
 | Traffic Flow | PeMSD4 <br> PeMSD8    |         AGCRN        | [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html) | [Pytorch](https://github.com/LeiBAI/AGCRN) | NIPS 2020 <br> A
+| Multivariable | Electricity <br> Traffic  <br>  Wind <br>  Solar <br>  M4-Hourly  |         AST        | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/c6b8c8d762da15fa8dbbdfb6baf9e260-Abstract.html) | [Pytorch](https://github.com/hihihihiwsf/AST) | NIPS 2020 <br> A
+| Multivariable |  METR-LA <br> PeMS-BAY  <br>  PeMS07 <br>  PeMS03 <br> PeMS04 ,etc |         StemGNN        | [Adversarial Sparse Transformer for Time Series Forecasting](https://proceedings.neurips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html) | [Pytorch](https://github.com/microsoft/StemGNN) | NIPS 2020 <br> A
+| Multivariable | M4 <br> M3 <br> Tourism |         N-BEATS         | [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://openreview.net/forum?id=r1ecqn4YwB) | [Pytorch+Keras](https://github.com/philipperemy/n-beats) | ICLR 2020 <br> None But Top
 | Traffic Flow | Traffic <br> Energy <br> Electricity <br> Exchange  <br> METR-LA <br> PeMS-BAY   |         MTGNN        | [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://doi.org/10.1145/3394486.3403046) | [Pytorch](https://github.com/nnzhan/MTGNN) | KDD 2020 <br> A
 | Traffic Flow | Taxi-NYC <br> Bike-NYC <br> CTM |         DSAN        | [Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction](https://doi.org/10.1145/3394486.3403118) | [TF](https://github.com/haoxingl/DSAN) | KDD 2020 <br> A
 | Traffic Speed <br> Traffic Flow | Shenzhen  |         Curb-GAN        | [Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks](https://doi.org/10.1145/3394486.3403127) | [Pytorch](https://github.com/Curb-GAN/Curb-GAN) | KDD 2020 <br> A
 | Traffic Flow | TaxiBJ <br> CrowdBJ  <br> TaxiJN  <br> TaxiGY |        AutoST        | [AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction](https://doi.org/10.1145/3394486.3403122) | None | KDD 2020 <br> A
 | Traffic Volumn | W3-715 <br> E5-2907 |         HSTGCN        | [Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://doi.org/10.1145/3394486.3403358) | None | KDD 2020 <br> A
+| Multivariable| Xiamen <br> PeMS-BAY  |        GMAN        | [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5477) | [TF](https://github.com/zhengchuanpan/GMAN)<br>  [Pytorch](https://github.com/VincLee8188/GMAN-PyTorch) | AAAI 2020 <br> A
+| Multivariable | PeMS03 <br> PeMS04 <br> PeMS07 <br> PeMS08 |      STSGCN       | [Spatial-temporal synchronous graph convolutional networks: A new framework for spatial-temporal network data forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5438) |  [Mxnet](https://github.com/Davidham3/STSGCN) <br>  [Pytorch](https://github.com/SmallNana/STSGCN_Pytorch) | AAAI 2020 <br> A
+| Multivariable |  Traffic  <br>  Energy  <br> NASDAQ  |      MLCNN       | [Towards Better Forecasting by Fusing Near and Distant Future Visions](https://ojs.aaai.org/index.php/AAAI/article/view/5466) |  [Pytorch](https://github.com/smallGum/MLCNN-Multivariate-Time-Series) | AAAI 2020 <br>
+| Multivariable |  PeMS-S <br> PeMS-BAY <br> METR-LA  <br> BJF <br> BRF <br> BRF-L |      SLCNN       | [Spatio-temporal graph structure learning for traffic forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5770) | None | AAAI 2020 <br> A
 | Traffic Speed | METR-LA <br> PeMS-BAY  |        MRA-BGCN        | [Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/5758) | None | AAAI 2020 <br> A
 | Metro Flow | HKMetro |       WDGTC     | [Tensor Completion for Weakly-Dependent Data on Graph for Metro Passenger Flow Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5915) |  [TF](https://github.com/bonaldli/WDG_TC)  | AAAI 2020 <br> A
 | Multivariable | MovingMNIST <br> TaxiBJ <br>  KTH |       SA-ConvLSTM     | [Self-Attention ConvLSTM for Spatiotemporal Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/6819) |  [TF](https://github.com/MahatmaSun1/SaConvSLTM)  [PyTorch](https://github.com/jerrywn121/TianChi_AIEarth)  | AAAI 2020 <br> A
@@ -145,7 +189,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Traffic Speed | DiDiCD <br> DiDiXA  |   BTRAC   | [Boosted Trajectory Calibration for Traffic State Estimation](https://ieeexplore.ieee.org/abstract/document/8970880) | None  | ICDM 2019 <br> B
 | Multivariable | Photovoltaic  |       MTEX-CNN   | [MTEX-CNN: Multivariate Time Series EXplanations for Predictions with Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8970899) | [Pytorch](https://github.com/duyanhpham-brs/XAI-Multivariate-Time-Series)  | ICDM 2019 <br> B
 | Traffic Speed | BJER4 <br> PeMSD7(M)  <br>  PeMSD7(L)  |        STGCN      | [Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://openreview.net/forum?id=SkNeyVzOWB) | [TF](https://github.com/VeritasYin/STGCN_IJCAI-18) [Mxnet](https://github.com/Davidham3/STGCN)  [Pytorch1](https://github.com/FelixOpolka/STGCN-PyTorch)  [Pytorch2](https://github.com/hazdzz/STGCN) [Pytorch3](https://github.com/Aguin/STGCN-PyTorch)   | IJCAI 2018 <br> A
-| Traffic Speed | METR-LA <br> PeMS-BAY  |      DCRNN  | [Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting](https://openreview.net/forum?id=SJiHXGWAZ) | [TF](https://github.com/liyaguang/DCRNN) [Pytorch](https://github.com/chnsh/DCRNN_PyTorch)  |ICLR 2018 <br> None But Top 
+| Traffic Speed | METR-LA <br> PeMS-BAY  |      DCRNN  | [Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting](https://openreview.net/forum?id=SJiHXGWAZ) | [TF](https://github.com/liyaguang/DCRNN) [Pytorch](https://github.com/chnsh/DCRNN_PyTorch)  |ICLR 2018 <br> None But Top
 
 
 
@@ -153,10 +197,10 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| probability & <br> Point & <br> Others |   electricity  <br>  Yacht <br> Boston, etc |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022 <br> None But Top 
-| probability  | IRIS <br> Digits <br> EightSchools    |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 <br> None But Top 
-| probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022 <br> None But Top 
+| Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| probability & <br> Point & <br> Others |   electricity  <br>  Yacht <br> Boston, etc |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022 <br> None But Top
+| probability  | IRIS <br> Digits <br> EightSchools    |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022 <br> None But Top
+| probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022 <br> None But Top
 | probability  | Carbon <br> Concrete <br> Energy <br> Housing,etc  |      β−NLL      | [On the Pitfalls of Heteroscedastic Uncertainty Estimation with Probabilistic Neural Networks](https://openreview.net/forum?id=aPOpXlnV1T) | [Pytorch](https://github.com/martius-lab/beta-nll) | ICLR 2022 <br> None But Top
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022<br>A
 | probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Function without Quantile Crossing for Distribution-free Time Series Forecasting](https://arxiv.org/abs/2111.06581) | [GluonTS](https://github.com/awslabs/gluon-ts/blob/4d73911f6aae5079ad228b504ab8edaa369ad04c/src/GluonTS/mx/distribution/isqf.py) | AISTAT 2022 <br> C But Top
@@ -171,9 +215,9 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | probability & Point | PeMSD3 <br> PeMSD4 <br> PeMSD7 <br> PeMSD8 <br>  Electricity  <br>   Traffic , etc |         AGCGRU        | [RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting](https://proceedings.mlr.press/v139/pal21b.html) |  [TF](https://github.com/networkslab/rnn_flow) | ICML 2021<br>A
 | probability | Tourism <br> Labour <br> Traffic <br> Wiki <br>  Electricity  <br>   Traffic , etc |         Hier-E2E        | [End-to-End Learning of Coherent Probabilistic Forecasts for Hierarchical Time Series](http://proceedings.mlr.press/v139/rangapuram21a.html) |  [MXNet](https://github.com/rshyamsundar/GluonTS-hierarchical-ICML-2021) | ICML 2021<br>A
 | probability | Sine <br> MNIST <br> Billiards <br> S&P <br>  Stock   |        Whittle      | [Whittle Networks: A Deep Likelihood Model for Time Series](http://proceedings.mlr.press/v139/yu21c.html) | [TF](https://github.com/ml-research/WhittleNetworks) | ICML 2021<br>A
-| probability | METR-LA <br> PeMS-BAY <br> PMU   |        GTS      | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk) | [Pytorch](https://github.com/chaoshangcs/GTS) | ICLR 2021 <br> None But Top 
-| probability & Point| Exchange <br>Solar <br> Electricity <br> Traffic <br> Taxi  <br> Wikipedia |        flow      | [Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://openreview.net/forum?id=WiGQBFuVRv) | [Pytorch](https://github.com/zalandoresearch/pytorch-ts) | ICLR 2021 <br> None But Top 
-| probability | MNIST <br> PhysioNet2012  |        PNCNN      | [Probabilistic Numeric Convolutional Neural Networks](https://openreview.net/forum?id=T1XmO8ScKim) | None  | ICLR 2021 <br> None But Top 
+| probability | METR-LA <br> PeMS-BAY <br> PMU   |        GTS      | [Discrete Graph Structure Learning for Forecasting Multiple Time Series](https://openreview.net/forum?id=WEHSlH5mOk) | [Pytorch](https://github.com/chaoshangcs/GTS) | ICLR 2021 <br> None But Top
+| probability & Point| Exchange <br>Solar <br> Electricity <br> Traffic <br> Taxi  <br> Wikipedia |        flow      | [Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows](https://openreview.net/forum?id=WiGQBFuVRv) | [Pytorch](https://github.com/zalandoresearch/pytorch-ts) | ICLR 2021 <br> None But Top
+| probability | MNIST <br> PhysioNet2012  |        PNCNN      | [Probabilistic Numeric Convolutional Neural Networks](https://openreview.net/forum?id=T1XmO8ScKim) | None  | ICLR 2021 <br> None But Top
 | probability & Point | Energy <br> Wine <br> Power <br> MSD, etc |         PGBM        | [Probabilistic Gradient Boosting Machines for Large-Scale Probabilistic Regression](https://dl.acm.org/doi/10.1145/3447548.3467278) |  [Pytorch](https://github.com/elephaint/pgbm) | KDD 2021<br>A
 | probability | DiDICD   |        TrajNet      | [TrajNet: A Trajectory-Based Deep Learning Model for Traffic Prediction](https://doi.org/10.1145/3447548.3467236) | None | KDD 2021 <br> A
 | probability | Air Quality  <br>  METR-LA <br>  COVID-19  |        UQ      | [Quantifying Uncertainty in Deep Spatiotemporal Forecasting](https://doi.org/10.1145/3447548.3467325) | [Pytorch](https://github.com/DongxiaW/Quantifying_Uncertainty_in_Deep_Spatiotemporal_Forecasting) | KDD 2021 <br> A
@@ -196,7 +240,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  
 
 
-<!-- 
+<!--
 | probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTAT 2019 <br> A
 
 | probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/mbohlkeschneider/gluon-ts/tree/mv_release)  | KDD 2019 <br> A -->
@@ -206,14 +250,14 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Time Series Imputation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums: 22  | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
-| Imputation |  Air Quality <br> METR-LA <br> PeMS-BAY <br> CER-E  |         GRIN        | [Filling the G_ap_s-Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7) |  [Pytorch](https://github.com/Graph-Machine-Learning-Group/grin) | ICLR 2022 <br> None But Top 
-| Imputation |  PhysioNet <br> MIMIC-III <br> Climate  |         HeTVAE        | [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3) |  [Pytorch](https://github.com/reml-lab/hetvae) | ICLR 2022 <br> None But Top 
-| Imputation |  MIMIC-III <br> OPHTHALMIC <br> MNIST Physionet <br> |         GIL        | [Gradient Importance Learning for Incomplete Observations](https://openreview.net/forum?id=fXHl76nO2AZ) |  [TF](https://github.com/gaoqitong/gradient-importance-learning) | ICLR 2022 <br> None But Top 
+| Paper Nums: 22  | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Imputation |  Air Quality <br> METR-LA <br> PeMS-BAY <br> CER-E  |         GRIN        | [Filling the G_ap_s-Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7) |  [Pytorch](https://github.com/Graph-Machine-Learning-Group/grin) | ICLR 2022 <br> None But Top
+| Imputation |  PhysioNet <br> MIMIC-III <br> Climate  |         HeTVAE        | [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3) |  [Pytorch](https://github.com/reml-lab/hetvae) | ICLR 2022 <br> None But Top
+| Imputation |  MIMIC-III <br> OPHTHALMIC <br> MNIST Physionet <br> |         GIL        | [Gradient Importance Learning for Incomplete Observations](https://openreview.net/forum?id=fXHl76nO2AZ) |  [TF](https://github.com/gaoqitong/gradient-importance-learning) | ICLR 2022 <br> None But Top
 | Imputation | Chlorine level <br> SML2010 <br> Air Quality |         D-NLMC        | [Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation](https://aaai-2022.virtualchair.net/poster_aaai12088) | [Matlab](https://github.com/jicongfan) <br> Author <br> Github | AAAI 2022<br>A
 | Imputation | COMPAS <br> Adult <br> HSLS |         ME        | [Online Missing Value Imputation and Change Point Detection with the Gaussian Copula](https://aaai-2022.virtualchair.net/poster_aaai6237) | [gcimpute](https://github.com/yuxuanzhao2295/Online-Missing-Value-Imputation-and-Change-Point-Detection-with-the-Gaussian-Copula) | AAAI 2022<br>A
 | Imputation |  |         Fair MIP Forest        | [Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values](https://aaai-2022.virtualchair.net/poster_aaai6921) | None | AAAI 2022<br>A
-| Imputation | Physionet <br> MIMIC-III <br> Human Activity  |         mTAND        | [Multi-Time Attention Networks for Irregularly Sampled Time Series](https://openreview.net/forum?id=4c0J6lwQ4_) | [Pytorch](https://github.com/reml-lab/mTAN)  | ICLR 2021 <br> None But Top 
+| Imputation | Physionet <br> MIMIC-III <br> Human Activity  |         mTAND        | [Multi-Time Attention Networks for Irregularly Sampled Time Series](https://openreview.net/forum?id=4c0J6lwQ4_) | [Pytorch](https://github.com/reml-lab/mTAN)  | ICLR 2021 <br> None But Top
 | Imputation | METR-LA <br> NREL <br> USHCN <br> SeData |         IGNNK        | [Inductive Graph Neural Networks for Spatiotemporal Kriging](https://ojs.aaai.org/index.php/AAAI/article/view/16575) | [Pytorch](https://github.com/Kaimaoge/IGNNK) | AAAI 2021<br>A
 | Imputation | Activity  <br> PhysioNet <br> Air Quality |         SSGAN       | [Generative Semi-supervised Learning for Multivariate Time Series Imputation](https://ojs.aaai.org/index.php/AAAI/article/view/17086) | [Pytorch](https://github.com/zjuwuyy-DL/Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation) | AAAI 2021<br>A
 | Imputation | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021<br>A
@@ -232,7 +276,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-<!-- 
+<!--
 | Imputation  | EC  <br>  RV  |  STI   | [How Do Your Neighbors Disclose Your Information: Social-Aware Time Series Imputation](https://doi.org/10.1145/3308558.3313714) | [Pytorch](https://github.com/tomstream/STI) | WWW 19 <br>A
 -->
 
@@ -240,10 +284,10 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> | 
-|  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 <br> None But Top 
-| Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 <br> None But Top 
-|  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 <br> None But Top 
+| Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> |
+|  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022 <br> None But Top
+| Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022 <br> None But Top
+|  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022 <br> None But Top
 |  Anomaly Detection |     |       AnomalyKiTS   | [AnomalyKiTS-Anomaly Detection Toolkit for Time Series](https://aaai-2022.virtualchair.net/poster_dm318) | None | AAAI 2022<br>A
 |  Anomaly Detection |  SWaT <br> WADI <br> MSL <br> SMAP <br> SMD  |       PA   | [Towards a Rigorous Evaluation of Time-Series Anomaly Detection](https://aaai-2022.virtualchair.net/poster_aaai2239) |  None  | AAAI 2022 <br> A
 |  Anomaly Detection | Business|       SLA-VAE       | [A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems](https://doi.org/10.1145/3485447.3511984) | None| WWW 2022 <br> A
@@ -273,7 +317,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Anomaly Detection | AD <br> AID362 <br> aPascal  <br>  BM , etc|      CINFO | [Sparse Modeling-Based Sequential Ensemble Learning for Effective Outlier Detection in High-Dimensional Numeric Data](https://ojs.aaai.org/index.php/AAAI/article/view/11692) |    [Matlab](https://drive.google.com/file/d/0B_GL5U7rPj1xNzNwTHpHSzZkQXM/view?resourcekey=0-HneFEhC8NUIWDfhmfaOyBQ) | AAAI 2018 <br> A
 |  Anomaly Detection | KPIs |      Donut | [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://doi.org/10.1145/3178876.3185996) |    [TF](https://github.com/NetManAIOps/donut) | WWW 2018 <br> A
 |  Anomaly Detection | MAWI |      DSPOT | [Anomaly Detection in Streams with Extreme Value Theory](https://doi.org/10.1145/3097983.3098144) |    [Python](https://github.com/NetManAIOps/donut) | KDD 2017 <br> A
-|  Anomaly Detection | Power <br> Space <br>  Engine <br> ECG |         EncDec-AD | [	LSTM-based encoder-decoder for multi-sensor anomaly detection](https://www.semanticscholar.org/paper/LSTM-based-Encoder-Decoder-for-Multi-sensor-Anomaly-Malhotra-Ramakrishnan/e9672150c4f39ab64876e798a94212a93d1770fe) |    [Pytorch](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_practices/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb) | ICML 2016 <br> A
+|  Anomaly Detection | Power <br> Space <br>  Engine <br> ECG |         EncDec-AD | [    LSTM-based encoder-decoder for multi-sensor anomaly detection](https://www.semanticscholar.org/paper/LSTM-based-Encoder-Decoder-for-Multi-sensor-Anomaly-Malhotra-Ramakrishnan/e9672150c4f39ab64876e798a94212a93d1770fe) |    [Pytorch](https://github.com/jaeeun49/Anomaly-Detection/blob/main/code_practices/LSTM-based%20Encoder-Decoder%20for%20Multi-sensor%20Anomaly%20Detection.ipynb) | ICML 2016 <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection](https://github.com/ZIYU-DEEP/IJCAI-Paper-List-of-Anomaly-Detection) |  MORE   | IJCAI  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [DeepTimeSeriesModel](https://github.com/drzhang3/DeepTimeSeriesModel) |  MORE   | MORE  <br> A
 |  Anomaly Detection |  MORE  |       MORE   | [GuansongPang](https://github.com/GuansongPang/SOTA-Deep-Anomaly-Detection) |  MORE   | MORE  <br> A
@@ -284,7 +328,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Demand Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-:| - |
-| Paper Nums: 23 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums: 23 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022<br>A
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022<br>A
 | Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2021<br>A
@@ -312,8 +356,8 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-<!-- | Traffic Demand  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/underdoc-wang/ST-MGCN)  | KDD 2019 <br> A 
- -->
+<!-- | Traffic Demand  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/underdoc-wang/ST-MGCN)  | KDD 2019 <br> A
+-->
 
 
 
@@ -322,7 +366,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021<br>A
 | TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020<br>A
 | TTE | DiDi: <br> Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020<br>A
@@ -344,7 +388,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-<!-- 
+<!--
 
 | TTE | GTFS <br> Beijing    |     BusTr        | [BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://doi.org/10.1145/3394486.3403320) |   [Pytorch](https://github.com/UrbComp/DeepTTE)  | AAAI 2018<br>A -->
 
@@ -353,7 +397,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Traffic Location Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: |:-: | - |
-| Paper Nums:20 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> | 
+| Paper Nums:20 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> |
 | Location | ETH+UCY <br> SDD <br> nuScenes <br> SportVU |              | [You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction](https://openreview.net/forum?id=POxF-LEqnF) | None | ICLR 2022<br>None But Top
 | Location | Gowalla <br> Foursquare <br> WiFi-Trace  |     GCDAN         | [Predicting Human Mobility via Graph Convolutional Dual-attentive Networks](https://dl.acm.org/doi/10.1145/3488560.3498400) |  [Pytorch](https://github.com/GCDAN/GCDAN) | WSDM 2022<br> B
 | Location | MI <br> SIP   |     CMT-Net         | [CMT-Net: A Mutual Transition Aware Framework for Taxicab Pick-ups and Drop-offs Co-Prediction](https://dl.acm.org/doi/10.1145/3488560.3498394) | None | WSDM 2022 <br>B
@@ -378,7 +422,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Location |  MORE  |     MORE       | [https://github.com/Pursueee/Trajectory-Paper-Collation](https://github.com/Pursueee/Trajectory-Paper-Collation) | [Pytorch](https://github.com/Pursueee/Trajectory-Paper-Collation) | MORE
 
 
-<!-- 
+<!--
 | Location | Foursquare   <br> MobileAPP <br> CellularSH |     DeepMove | [DeepMove: Predicting Human Mobility with Attentional Recurrent Networks](https://doi.org/10.1145/3178876.3186058) |  [Pytorch](https://github.com/vonfeng/DeepMove)  | WWW 2018<br>A
 
 | Location | ETH-UCY <br> Collisions <br>  NGsim  <br>Charges   <br> NBA  |     FQA       | [An Attentional Recurrent Neural Network for Personalized Next Location Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/5337) | [Pytorch](https://github.com/huang-xx/STGAT) | AAAI 2020<br>A -->
@@ -389,12 +433,12 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Traffic Event Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Event | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022<br>A
 |  Event  |  SLA-VAE <br> E-commerce  |       RETE    | [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://doi.org/10.1145/3485447.3511974) | None| WWW 2022 <br> A
 | Event | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021<br>A
-| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     STCGNN       | [Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction](https://doi.org/10.1145/3459637.3482482) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | CIKM 2021<br>B 
-| Event | Thailand <br> Egypt <br>  India  <br>Russia   <br> Covid-19  |     CMF       | [Understanding Event Predictions via Contextualized Multilevel Feature Learning](https://doi.org/10.1145/3459637.3482309) | None  | CIKM 2021<br>B 
+| Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     STCGNN       | [Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction](https://doi.org/10.1145/3459637.3482482) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | CIKM 2021<br>B
+| Event | Thailand <br> Egypt <br>  India  <br>Russia   <br> Covid-19  |     CMF       | [Understanding Event Predictions via Contextualized Multilevel Feature Learning](https://doi.org/10.1145/3459637.3482309) | None  | CIKM 2021<br>B
 | Event  Prediction  |  DJIA30   <br> WebTraffic   <br> NetFlow  <br> ClockErr  <br>   AbServe  |        EvoNet    | [Time-Series Event Prediction with Evolutionary State Graph](https://doi.org/10.1145/3437963.3441827) |   None   | WSDM 2021 <br> B|
 | Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | None | KDD 2020<br>A
 | Event | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [TF](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020<br>A
@@ -414,7 +458,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-<!-- 
+<!--
 | Event | NYCIncidents <br> CHIIncidents  |     PreView       | [Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting](https://doi.org/10.1145/3366423.3380296) | [Pytorch](https://github.com/amy-deng/DynamicGCN) | WWW 2020<br>A -->
 
 
@@ -423,7 +467,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Stock Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> | 
+| Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022<br>A   
 | Stock Movement<br> Prediction | CSI800 |    TRA  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3447548.3467358) | [Pytorch](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA) | KDD 2021<br>A
 | Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100 |     DTML | [Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://doi.org/10.1145/3447548.3467297) | None| KDD 2021<br>A
@@ -493,11 +537,11 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 > CCF Conference Deadlines https://ccfddl.github.io/
-> 
+>
 > 会议之眼 https://www.conferenceeye.cn/#/layout/home
-> 
+>
 > Call4Papers http://123.57.137.208/ccf/ccf-8.jsp
-> 
+>
 > Conference List http://www.conferencelist.info/upcoming.html
 
 ## Table of Conferences
