@@ -16,7 +16,7 @@ I'm a noob but I'm a constinuer, under the guidance of Professor [Quanjun Chen](
 
 Task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
 
-All papers group by task and method (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use (the rest nearly 10% of the method part is going on):
+All papers group by task and methodology (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use (the rest nearly 10% of the methodology part is going on):
 
 https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
 
