@@ -11,7 +11,6 @@
 </div>
 
 > I have strong interst in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
-<br>
 
 > I'm a noob but I'm a constinuer, under the guidance of Professor [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao)/[Renhe Jiang](https://www.renhejiang.com/), [Dr. Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao), and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao).
 
