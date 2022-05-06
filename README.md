@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sha
 - <a href = "#Demand-Prediction">Demand Prediction</a>
 - <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
 - <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
-- <a href = "#Traffic-Event-Prediction">Traffic Event Prediction</a>
+- <a href = "#Event-Prediction">Event Prediction</a>
 - <a href = "#Stock-Prediction">Stock Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
@@ -430,12 +430,12 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Traffic Event Prediction](#content)
+# [Event Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Event | PeMS  |         AGWN        | [Early Forecast of Traffc Accident Impact Based on a Single-Snapshot Observation (Student Abstract)](https://aaai-2022.virtualchair.net/poster_sa103) | [Pytorch](https://github.com/gm3g11/AGWN) | AAAI 2022<br>A
-|  Event  |  SLA-VAE <br> E-commerce  |       RETE    | [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://doi.org/10.1145/3485447.3511974) | None| WWW 2022 <br> A
+| Event  |  SLA-VAE <br> E-commerce  |       RETE    | [RETE: Retrieval-Enhanced Temporal Event Forecasting on Unified Query Product Evolutionary Graph](https://doi.org/10.1145/3485447.3511974) | None| WWW 2022 <br> A
 | Event | NYC <br> Chicago |         GSNet        | [GSNet: Learning Spatial-Temporal Correlations from Geographical and Semantic Aspects for Traffic Accident Risk Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/16566) | [Pytorch](https://github.com/Echohhhhhh/GSNet) | AAAI 2021<br>A
 | Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     STCGNN       | [Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction](https://doi.org/10.1145/3459637.3482482) | [Pytorch](https://github.com/underdoc-wang/STC-GNN) | CIKM 2021<br>B
 | Event | Thailand <br> Egypt <br>  India  <br>Russia   <br> Covid-19  |     CMF       | [Understanding Event Predictions via Contextualized Multilevel Feature Learning](https://doi.org/10.1145/3459637.3482309) | None  | CIKM 2021<br>B
@@ -508,7 +508,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 # [Other Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:9 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Paper Nums:38 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022<br> A|
 | Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022<br>A|
 | Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022<br>A|
@@ -550,7 +550,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-| Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) |  [Keras](https://github.com/gyla1993/LightNet)  | WWW 2019 <br> A | 
+<!-- | Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) |  [Keras](https://github.com/gyla1993/LightNet)  | WWW 2019 <br> A |  -->
 
 
 
