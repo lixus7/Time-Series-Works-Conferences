@@ -11,7 +11,7 @@
 </div>
 
 > I have strong interst in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
-<br> I'm a noob but I'm a constinuer, currently an M3 master student in Southern University of Science and Technology, supervised by Professor [Renhe Jiang](https://www.renhejiang.com/) and [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) during the master degree. 
+<br> I'm a noob but I'm a constinuer, currently an M3 master student in Southern University of Science and Technology, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Professor [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master degree. 
 
 Task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
 
@@ -441,6 +441,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Event | Thailand <br> Egypt <br>  India  <br>Russia   <br> Covid-19  |     CMF       | [Understanding Event Predictions via Contextualized Multilevel Feature Learning](https://doi.org/10.1145/3459637.3482309) | None  | CIKM 2021<br>B
 | Event  Prediction  |  DJIA30   <br> WebTraffic   <br> NetFlow  <br> ClockErr  <br>   AbServe  |        EvoNet    | [Time-Series Event Prediction with Evolutionary State Graph](https://doi.org/10.1145/3437963.3441827) |   None   | WSDM 2021 <br> B|
 | Event | NYCIncidents <br> CHIIncidents <br>  SFIncidents   |     PreView       | [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://doi.org/10.1145/3394486.3403373) | None | KDD 2020<br>A
+| Event Prediction | MIMIC-III   |      DSSM     | [Deep State-Space Generative Model For Correlated Time-to-Event Predictions](https://doi.org/10.1145/3394486.3403206) | None | KDD 2020<br>A| 
 | Event | Beijing <br> Suzhou <br> Shenyang |         RiskOracle        | [RiskOracle: A Minute-Level Citywide Traffic Accident Forecasting Framework](https://ojs.aaai.org//index.php/AAAI/article/view/5480) | [TF](https://github.com/zzyy0929/AAAI2020-RiskOracle/) | AAAI 2020<br>A
 | Event | NYCIncidents <br> CHIIncidents  |     STrans       | [Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting](https://doi.org/10.1145/3366423.3380296) | None  | WWW 2020<br>A
 | Event | FewEvent  |     DMB-PN       | [Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection](https://dl.acm.org/doi/10.1145/3336191.3371796) | [dataset](https://github.com/231sm/Low_Resource_KBP)  | WSDM 2020<br>B
@@ -513,16 +514,32 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022<br>A|
 | FakeNews Detection | Snop <br> PolitiFact  |         GET     | [Evidence-aware Fake News Detection with Graph Neural Networks](https://doi.org/10.1145/3485447.3512122) | [Keras](https://github.com/CRIPAC-DIG/GET) | WWW 2022<br>A|
 | Health Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022<br>B|
+| Streaming <br> Traffic Flow  | PEMSD3    |         TrafficStream     | [TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning](https://www.ijcai.org/proceedings/2021/498/) | [Pytorch](https://github.com/AprLie/TrafficStream) | IJCAI 2021<br>A| 
+| Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [TF](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021<br>A|
 | Career Trajectory Prediction  | Company  <br> Position   |      TACTP          | [Variable Interval Time Sequence Modeling for Career Trajectory Prediction: Deep Collaborative Perspective](https://dl.acm.org/doi/10.1145/3442381.3449959) | None | WWW 2021<br>A|
 | Health Prediction | NASH <br> AD  |        UNITE    | [UNITE: Uncertainty-based Health Risk Prediction Leveraging Multi-sourced Data](https://doi.org/10.1145/3442381.3450087) |     [Pytorch](https://github.com/Chacha-Chen/UNITE)   | WWW 2021<br>A|
-| Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [TF](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021<br>A|
+| COVID-19 Forecasting  | JHUCSSE     |         HierST     | [HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting](https://doi.org/10.1145/3459637.3481927) | [Pytorch](https://github.com/dolphin-zs/HierST) | CIKM 2021<br>B  | 
+| Failure Prediction  | Water Pipe <br> Sewer Pipe    |         FP     | [Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal Failure Series](https://doi.org/10.1145/3459637.3481918) | None | CIKM 2021<br>B  | 
+| Publication Prediction  | CSJ  <br> CSC    |         VPALG     | [VPALG: Paper-publication Prediction with Graph Neural Networks](https://doi.org/10.1145/3459637.3482490) | None | CIKM 2021<br>B  | 
+| Risk Prediction | COPD  <br> HeartFailure <br> KidneyDiseases  |      HiTANet     | [HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records](https://doi.org/10.1145/3394486.3403107) |  [Pytorch](https://github.com/HiTANet2020/HiTANet)  | KDD 2020 <br>A| 
+| Sales Prediction | anonymized   |      CARNN     | [Attention based Multi-Modal New Product Sales Time-series Forecasting](https://doi.org/10.1145/3394486.3403362) |  [Pytorch](https://github.com/HumaticsLAB/AttentionBasedMultiModalRNN)  | KDD 2020<br>A| 
+| Economy Prediction | IRS   |        AMCN     | [Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data](https://doi.org/10.1145/3394486.3403273) | None | KDD 2020<br>A| 
+| Food Demand | Ele.me   |      OFCT     | [Order Fulfillment Cycle Time Estimation for On-Demand Food Delivery](https://doi.org/10.1145/3394486.3403307) |  None | KDD 2020 <br>A| 
 | Parking Prediction | Beijing <br> Shanghai |         SHARE       | [Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/5471) |  [Pytorch](https://github.com/Vvrep/SHARE-parking_availability_prediction-Pytorch)  | AAAI 2020<br>A|
+| Mortality Risk Prediction|  MIMIC-III  <br> eICU    |      DATA-GRU     | [DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/5440) |  None | AAAI 2020 <br> A| 
 | Parking Prediction | Ningbo <br> Changsha |         PewLSTM       | [PewLSTM: Periodic LSTM with Weather-Aware Gating Mechanism for Parking Behavior Prediction](https://www.ijcai.org/proceedings/2020/610) |  [Pytorch](https://github.com/NingxuanFeng/PewLSTM)  | IJCAI 2020<br>A|
+|  Health Risk  Prediction  |  MIMIC-III  <br>   ESRD |     StageNet      | [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://doi.org/10.1145/3366423.3380136) |  [Pytorch](https://github.com/v1xerunt/StageNet)  | WWW 2020 <br> A| 
+|  Micro-video Popularity Prediction  |  Xigua    |      MMVED     | [A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction](https://doi.org/10.1145/3366423.3380004) |  [TF](https://github.com/yaochenzhu/MMVED)  | WWW 2020 <br> A| 
+|  Drug Demand Prediction  |  Wikipedia    |           | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://doi.org/10.1145/3366423.3380022) |  None  | WWW 2020 <br> A| 
 
 
 
 
-<!-- | Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022<br>A| -->
+
+<!-- 
+|  Health Risk  Prediction  |  MIMIC-III  <br>   ESRD |     StageNet      | [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://doi.org/10.1145/3366423.3380136) |  [Pytorch](https://github.com/v1xerunt/StageNet)  | WWW 2020 <br> A| 
+ -->
+
 
 
 # [Conferences](#content)
