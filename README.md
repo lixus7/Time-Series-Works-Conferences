@@ -531,14 +531,26 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Health Risk  Prediction  |  MIMIC-III  <br>   ESRD |     StageNet      | [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://doi.org/10.1145/3366423.3380136) |  [Pytorch](https://github.com/v1xerunt/StageNet)  | WWW 2020 <br> A| 
 |  Micro-video Popularity Prediction  |  Xigua    |      MMVED     | [A Multimodal Variational Encoder-Decoder Framework for Micro-video Popularity Prediction](https://doi.org/10.1145/3366423.3380004) |  [TF](https://github.com/yaochenzhu/MMVED)  | WWW 2020 <br> A| 
 |  Drug Demand Prediction  |  Wikipedia    |           | [Predicting Drug Demand with Wikipedia Views: Evidence from Darknet Markets](https://doi.org/10.1145/3366423.3380022) |  None  | WWW 2020 <br> A| 
+|  Epidemic  Prediction  | IDWR <br> CDC <br> US-HHS |     Cola-GNN      | [Cola-GNN: Cross-location Attention based Graph Neural Networks for Long-term ILI Prediction](https://doi.org/10.1145/3340531.3411975) |  [Pytorch](https://github.com/amy-deng/colagnn)  | CIKM 2020 <br> B   | 
+|  Risk  Prediction  | HeartFailure <br> KidneyDisease <br> Dementia |    LSAN    | [LSAN: Modeling Long-term Dependencies and Short-term Correlations with Hierarchical Attention for Risk Prediction](https://doi.org/10.1145/3340531.3411864) |  [Pytorch](https://github.com/dmmlprojs/lsan)  | CIKM 2020 <br> B   | 
+|  Lightning  Prediction  | Lightning |    HSTN    | [A Heterogeneous Spatiotemporal Network for Lightning Prediction](https://ieeexplore.ieee.org/abstract/document/9338411) |  [Future](https://github.com/gyla1993/HSTN)  | ICDM 2020 <br> B   | 
+|  Disease  Prediction  | mPower  |    RNNODE    | [Predicting Parkinson’s Disease with Multimodal Irregularly Collected Longitudinal Smartphone Data](https://ieeexplore.ieee.org/abstract/document/9338417) | None  | ICDM 2020 <br> B   | 
+|  Turbulence  Prediction  | Turbulence |    T^2-Net    | [T^2-Net: A Semi-Supervised Deep Model for Turbulence Forecasting](https://ieeexplore.ieee.org/document/9338418) | None | ICDM 2020 <br> B   | 
+|  Popularity  Prediction  | Sina Weibo |   CoupledGNN   | [Popularity Prediction on Social Platforms with Coupled Graph Neural Networks](https://doi.org/10.1145/3336191.3371834) |  [TF](https://github.com/CaoQi92/CoupledGNN)  | WSDM 2020 <br> B   | 
+|  Job Mobility  Prediction  | Self  |   HCPNN   | [A Hierarchical Career-Path-Aware Neural Network for Job Mobility Prediction](https://doi.org/10.1145/3292500.3330969) |  [Python](https://github.com/qingxin-meng/hierarchical-career-path-aware-network)  | KDD 2019 <br> A  | 
+|  Lightning  Prediction  | Lightning  |   LightNet   | [LightNet: A Dual Spatiotemporal Encoder Network Model for Lightning Prediction](https://doi.org/10.1145/3292500.3330717) |  [Keras](https://github.com/gyla1993/LightNet)  | KDD 2019 <br> A  | 
+|  Diagnosis  Prediction  | MIMICIII  |   MNN   | [MNN: Multimodal Attentional Neural Networks for Diagnosis Prediction](https://www.ijcai.org/Proceedings/2019/823) |  None  | IJCAI 2019 <br> A  | 
+|  Crime  Prediction  | CrimeCHI  <br>  CrimeNYC |   NN-CCRF   | [Neural Network based Continuous Conditional Random Field for Fine-grained Crime Prediction](https://www.ijcai.org/proceedings/2019/577) | None  | IJCAI 2019 <br> A  | 
+| Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) | None | WWW 2019 <br> A |
+|  Sales  Prediction  | Snack  <br>  PG&U |  DSF  | [A Deep Neural Framework for Sales Forecasting in E-Commerce](https://doi.org/10.1145/3357384.3357883) |  None  | CIKM 2019 <br> B | 
+|  Load  Prediction  | Charging  Stations |  HCFN  | [Heterogeneous Components Fusion Network for Load Forecasting of Charging Stations](https://doi.org/10.1145/3357384.3358073) |  None  | CIKM 2019 <br> B | 
+|  Mortality Risk  Prediction  | PUB  <br> MIMIC-III |     UA-CRNN     | [UA-CRNN: Uncertainty-Aware Convolutional Recurrent Neural Network for Mortality Risk Prediction](https://doi.org/10.1145/3357384.3357884) |  None | CIKM 2019 <br> B | 
+|  House Price  Prediction  | NYCHouse  <br> BJHouse |    FTD_DenseNet    | [An Integrated Model for Urban Subregion House Price Forecasting: A Multi-source Data Perspective](https://ieeexplore.ieee.org/abstract/document/8970751) |  None  | ICDM 2019 <br> B | 
+|  Water Quality Prediction  |  |   TC    | [Predicting Water Quality for the Woronora Delivery Network with Sparse Samples](https://ieeexplore.ieee.org/abstract/document/8970721) | None  | ICDM 2019 <br> B | 
 
 
 
-
-
-<!-- 
-|  Health Risk  Prediction  |  MIMIC-III  <br>   ESRD |     StageNet      | [StageNet: Stage-Aware Neural Networks for Health Risk Prediction](https://doi.org/10.1145/3366423.3380136) |  [Pytorch](https://github.com/v1xerunt/StageNet)  | WWW 2020 <br> A| 
- -->
+| Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) |  [Keras](https://github.com/gyla1993/LightNet)  | WWW 2019 <br> A | 
 
 
 
