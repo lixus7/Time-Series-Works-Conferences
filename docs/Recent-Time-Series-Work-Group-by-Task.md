@@ -2,24 +2,13 @@
 
 # Recent Time Series Work Group by Task
 
-- <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
-- <a href = "#Multivariable-Probabilistic-Time-Series-Forecasting">Multivariable Probabilistic Time Series Forecasting</a>
-- <a href = "#Time-Series-Imputation">Time Series Imputation</a>
-- <a href = "#Time-Series-Anomaly-Detection">Time Series Anomaly Detection</a>
-- <a href = "#Demand-Prediction">Demand Prediction</a>
-- <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
-- <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
-- <a href = "#Event-Prediction">Event Prediction</a>
-- <a href = "#Stock-Prediction">Stock Prediction</a>
-- <a href = "#Other-Forecasting">Other Forecasting</a>
-
-"A, B, C" in the publication denotes the CCF Rank;
+"**A, B, C**" in the publication denotes the CCF Rank;
 
 According to the average quality of the papers and codes, we rank the conferences as follows (Don't be rude, I'm talking about the average):
 
 NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 
-Note that: AISTAT is CCFC but is top in computational mathematics (such as probabilistic problem);
+Note that: AISTAT is CCF-C but is top in computational mathematics (such as probabilistic problem);
 
 
 ## Multivariable Time Series Forecasting
