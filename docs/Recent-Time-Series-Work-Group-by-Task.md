@@ -1,46 +1,4 @@
-# Time-Series Work and Conference [WebPage](https:)
-
-<div align="center">
-<img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
-<img border="0" src="https://camo.githubusercontent.com/1ef04f27611ff643eb57eb87cc0f1204d7a6a14d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d254630253946253843253946266d6573736167653d496625323055736566756c267374796c653d7374796c653d666c617426636f6c6f723d424334453939" />
-<a href="https://github.com/TatsuyaD7">     <img border="0" src="https://camo.githubusercontent.com/41e8e16b771d56dd768f7055354613254961d169/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6769746875622f677265656e2d666f6c6c6f772e737667" /> </a>
-<a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/issues">     <img border="0" src="https://img.shields.io/github/issues/TatsuyaD7/Time-Series-Work-Conference" /> </a>
-<a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/network/members">     <img border="0" src="https://img.shields.io/github/forks/TatsuyaD7/Time-Series-Work-Conference" /> </a>
-<a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/stargazers">     <img border="0" src="https://img.shields.io/github/stars/TatsuyaD7/Time-Series-Work-Conference" /> </a>
-<a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
-</div>
-
-> I have strong interst in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
-<br> I'm a noob but I'm a constinuer, currently an M3 master student in Dept. Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master career. 
-
-Task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
-
-All papers group by task and methodology (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use (the rest nearly 10% of the methodology part is going on):
-
-https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
-
-# - <a href = "#Conferences">Jump to Conferences page</a>
-# Conf Submission Appropriate Time (Recent 7 Years)
-
-> IJCAI : 1.14~2.15
-
-> ICML  : 1.23~2.24
-
-> KDD   : 2.3~2.17
-
-> CIKM  : 5.15~5.26
-
-> NIPS  : 5.18~6.5
-
-> ICDM  : 6.5~6.17
-
-> WSDM  : 7.17~8.16
-
-> AAAI  : 9.5~9.15
-
-> ICLR  : 9.25~10.27
-
-> WWW   : 10.14~11.5
+[HomePage](README)
 
 # Recent Time Series Work Group by Task
 
@@ -64,7 +22,7 @@ NIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 Note that: AISTAT is CCFC but is top in computational mathematics (such as probabilistic problem);
 
 
-# [Multivariable Time Series Forecasting](#content)
+## Multivariable Time Series Forecasting
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -194,7 +152,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Multivariable Probabilistic Time Series Forecasting](#content)
+## Multivariable Probabilistic Time Series Forecasting
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -247,7 +205,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Time Series Imputation](#content)
+## Time Series Imputation
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 22  | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -281,7 +239,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 -->
 
 
-# [Time Series Anomaly Detection](#content)
+## Time Series Anomaly Detection
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> |
@@ -325,7 +283,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Demand Prediction](#content)
+## Demand Prediction
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-:| - |
 | Paper Nums: 23 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -363,7 +321,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Travel Time Estimation](#content)
+## Travel Time Estimation
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -394,7 +352,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Traffic Location Prediction](#content)
+## Traffic Location Prediction
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: |:-: | - |
 | Paper Nums:20 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> |
@@ -430,7 +388,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Event Prediction](#content)
+## Event Prediction
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -465,7 +423,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Stock Prediction](#content)
+## Stock Prediction
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -505,7 +463,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 
-# [Other Forecasting](#content)
+## Other Forecasting
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:38 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -551,144 +509,6 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 
 
 <!-- | Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) |  [Keras](https://github.com/gyla1993/LightNet)  | WWW 2019 <br> A |  -->
-
-
-
-# [Conferences](#content)
-
-
-❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
-
-❗ It is highly recommended to utilize the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese) to search.
-
-
-## Some Useful Websites
-
-
-> CCF Conference Deadlines https://ccfddl.github.io/
->
-> 会议之眼 https://www.conferenceeye.cn/#/layout/home
->
-> Call4Papers http://123.57.137.208/ccf/ccf-8.jsp
->
-> Conference List http://www.conferencelist.info/upcoming.html
-
-## Table of Conferences
-
-* [AAAI](#AAAI) (to 2022)
-* [IJCAI](#IJCAI) (to 2021)
-* [KDD](#KDD) (to 2021)
-* [WWW](#WWW) (to 2022)
-* [ICLR ](#ICLR)(to 2022)
-* [ICML](#ICML) (to 2021)
-* [NeurIPS](#NeurIPS) (to 2021)
-* [CIKM](#CIKM) (to 2021)
-* [WSDM](#WSDM) (to 2022)
-
-
-## AAAI
-
-| Conference | Source                                                       | Deadline          | Notification      |
-| ---------- | ------------------------------------------------------------ | ----------------- | ----------------- |
-|AAAI-22|[Link](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)|September 8, 2021|November 29, 2021|
-| AAAI-21    | [Link](https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf) |                   |                   |
-| AAAI-20    | [Link](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2020/01/AAAI-20-Accepted-Paper-List.pdf) |                   |                   |
-| AAAI-19    | [Link](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf) |                   |                   |
-| AAAI-18    | [Link](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf) |                   |                   |
-| AAAI-17    | [Link](https://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf) |                   |                   |
-| AAAI-16    | [Link](https://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf) |                   |                   |
-| AAAI-15    | [Link](https://www.aaai.org/Conferences/AAAI/2015/iaai15accepted-papers.pdf) |                   |                   |
-| AAAI-14    | [Link](https://www.aaai.org/Conferences/AAAI/2014/aaai14accepts.php) |                   |                   |
-| AAAI-13    | [Link](https://www.aaai.org/Conferences/AAAI/2013/aaai13accepts.php) |                   |                   |
-
-
-
-## [IJCAI](https://www.ijcai.org/past_proceedings)
-
-| Conference | Source                                                      | Deadline | Notification |
-| ---------- | ----------------------------------------------------------- | ---------- | ---------- |
-|IJCAI-22|| January 14, 2022 | April 20, 2022 |
-|IJCAI-21|[Link](https://ijcai-21.org/program-main-track/)|  |  |
-| IJCAI-20   | [Link](http://static.ijcai.org/2020-accepted_papers.html)   |  |  |
-| IJCAI-19   | [Link](https://www.ijcai19.org/accepted-papers.html)        |  |  |
-| IJCAI-18   | [Link](https://www.ijcai-18.org/accepted-papers/index.html) |  |  |
-| IJCAI-17   | [Link](https://ijcai-17.org/accepted-papers.html)           |  |  |
-| IJCAI-16   | [Link](https://www.ijcai.org/proceedings/2016)              |  |  |
-| IJCAI-15   | [Link](https://www.ijcai.org/Proceedings/2015)              |  |  |
-| IJCAI-14   | None                                                        |  |  |
-
-
-
-## KDD
-
-> Format : https://www.kdd.org/kdd20xx/accepted-papers
-
-| Conference | Source                                              | Deadline | Notification |
-| ---------- | --------------------------------------------------- | ---------- | ---------- |
-|KDD-22|| Feb 10th, 2022 | May 19th, 2022 |
-|KDD-21| [Link](https://kdd.org/kdd2021/accepted-papers)|  |  |
-| KDD-20     | [Link](https://www.kdd.org/kdd2020/accepted-papers) |  |  |
-| KDD-19     | [Link](https://www.kdd.org/kdd2019/accepted-papers) |  |  |
-| KDD-18     | [Link](https://www.kdd.org/kdd2018/accepted-papers) |  |  |
-| KDD-17     | [Link](https://www.kdd.org/kdd2017/accepted-papers) |  |  |
-
-
-
-## WWW
-
-TheWebConf
-
-| Conference | Source                                                     | Deadline | Notification |
-| ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|WWW-22| [Link](https://www2022.thewebconf.org/accepted-papers/)| 2021-10-21 ... | 2022-01-13 ... |
-|WWW-21| [Link](https://www2021.thewebconf.org/program/papers/)|  |  |
-| WWW-20     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3366423) |  |  |
-| WWW-19     | [Link](https://www2019.thewebconf.org/accepted-papers)     |  |  |
-| WWW-18     | [Link](https://dl.acm.org/doi/proceedings/10.5555/3178876) |  |  |
-| WWW-17     | [Link](https://dl.acm.org/doi/proceedings/10.1145/3308558) |  |  |
-
-## ICLR
-
-FInding it on openreview:
-
-
-> Homepage https://openreview.net/group?id=ICLR.cc
->
-
-| Conference | Source                                                     | Deadline | Notification |
-| ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|ICLR 2022|https://openreview.net/group?id=ICLR.cc/2022/Conference|Oct 06 '21|Jan 24 '22|
-| ICLR 2021  | [https://openreview.net/group?id=ICLR.cc/2021/Conference](https://openreview.net/group?id=ICLR.cc/2021/Conference) |  |  |
-| ICLR 2020     | [https://openreview.net/group?id=ICLR.cc/2020/Conference](https://openreview.net/group?id=ICLR.cc/2020/Conference)     |  |  |
-
-
-
-## ICML
-
->  Homepage https://icml.cc
-
-| Conference | Source                                                     | Deadline | Notification |
-| ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-|ICML 2022|https://icml.cc/Conferences/2022/Schedule| Jan 27, 2022 |  |
-|ICML 2021| [https://icml.cc/Conferences/2021/Schedule](https://icml.cc/Conferences/2021/Schedule)|  |  |
-| ICML 2020 | [https://icml.cc/Conferences/2020/Schedule](https://icml.cc/Conferences/2020/Schedule) |  |  |
-| ICML 2019  | [https://icml.cc/Conferences/2019/Schedule](https://icml.cc/Conferences/2019/Schedule)  |  |  |
-
-
-
-## NeurIPS
-
-[All Links](https://papers.nips.cc/)
-
-
-## CIKM
-
-[All Links](https://dl.acm.org/conference/cikm)
-
-
-## WSDM
-
-[All Links](https://dl.acm.org/conference/wsdm)
 
 
 

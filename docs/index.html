@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+        // name: 'Time-Series Work and Conference',       //
+        repo: 'https://github.com/TatsuyaD7/Time-Series-Work-Conference' ,   //渲染github挂件 配置本地或线上地址
+        search: 'auto',      //默认的全局搜索 详细参数请看插件文档
+        loadSidebar: true,   //开启侧边栏 使用_sidebar.md 
+        subMaxLevel: 2,      //侧边栏层级最大层级2
+        loadNavbar: true,    //加载导航栏 需要编写_navbar.md
+        autoHeader: true    //配合loadSidebar 自动添加标题
+    }
+  </script>
+   <!-- 全文搜索插件 -->
+   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+   <!-- 图片缩放插件 -->
+   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+   <!-- 代码拷贝插件 -->
+   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+   <!-- Docsify v4 -->
+   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>
