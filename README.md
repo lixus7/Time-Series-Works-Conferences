@@ -7,7 +7,7 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/issues">     <img border="0" src="https://img.shields.io/github/issues/TatsuyaD7/Time-Series-Work-Conference" /> </a>
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/network/members">     <img border="0" src="https://img.shields.io/github/forks/TatsuyaD7/Time-Series-Work-Conference" /> </a>
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/stargazers">     <img border="0" src="https://img.shields.io/github/stars/TatsuyaD7/Time-Series-Work-Conference" /> </a>
-<a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/master/WeChat.md">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
+<a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/main/docs/img/WeChat.jpeg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
 > I have strong interst in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
