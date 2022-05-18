@@ -524,6 +524,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 | COVID-19 Forecasting  | JHUCSSE     |         HierST     | [HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting](https://doi.org/10.1145/3459637.3481927) | [Pytorch](https://github.com/dolphin-zs/HierST) | CIKM 2021<br>B  | 
 | Failure Prediction  | Water Pipe <br> Sewer Pipe    |         FP     | [Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal Failure Series](https://doi.org/10.1145/3459637.3481918) | None | CIKM 2021<br>B  | 
 | Publication Prediction  | CSJ  <br> CSC    |         VPALG     | [VPALG: Paper-publication Prediction with Graph Neural Networks](https://doi.org/10.1145/3459637.3482490) | None | CIKM 2021<br>B  | 
+| Water Quality Prediction  |      |   PDE-DGN    | [Partial Differential Equation Driven Dynamic Graph Networks for Predicting Stream Water Temperature]([https://doi.org/10.1145/3308558.3313525](https://ieeexplore.ieee.org/abstract/document/9679188)) |  None | ICDM 2021 <br> B | 
 | Risk Prediction | COPD  <br> HeartFailure <br> KidneyDiseases  |      HiTANet     | [HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records](https://doi.org/10.1145/3394486.3403107) |  [Pytorch](https://github.com/HiTANet2020/HiTANet)  | KDD 2020 <br>A| 
 | Sales Prediction | anonymized   |      CARNN     | [Attention based Multi-Modal New Product Sales Time-series Forecasting](https://doi.org/10.1145/3394486.3403362) |  [Pytorch](https://github.com/HumaticsLAB/AttentionBasedMultiModalRNN)  | KDD 2020<br>A| 
 | Economy Prediction | IRS   |        AMCN     | [Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data](https://doi.org/10.1145/3394486.3403273) | None | KDD 2020<br>A| 
@@ -549,12 +550,12 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Load  Prediction  | Charging  Stations |  HCFN  | [Heterogeneous Components Fusion Network for Load Forecasting of Charging Stations](https://doi.org/10.1145/3357384.3358073) |  None  | CIKM 2019 <br> B | 
 |  Mortality Risk  Prediction  | PUB  <br> MIMIC-III |     UA-CRNN     | [UA-CRNN: Uncertainty-Aware Convolutional Recurrent Neural Network for Mortality Risk Prediction](https://doi.org/10.1145/3357384.3357884) |  None | CIKM 2019 <br> B | 
 |  House Price  Prediction  | NYCHouse  <br> BJHouse |    FTD_DenseNet    | [An Integrated Model for Urban Subregion House Price Forecasting: A Multi-source Data Perspective](https://ieeexplore.ieee.org/abstract/document/8970751) |  None  | ICDM 2019 <br> B | 
-|  Water Quality Prediction  |  |   TC    | [Predicting Water Quality for the Woronora Delivery Network with Sparse Samples](https://ieeexplore.ieee.org/abstract/document/8970721) | None  | ICDM 2019 <br> B | 
+|  Water Quality Prediction  |   |   TC    | [Predicting Water Quality for the Woronora Delivery Network with Sparse Samples](https://ieeexplore.ieee.org/abstract/document/8970721) | None  | ICDM 2019 <br> B | 
 
 
 
-<!-- | Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) |  [Keras](https://github.com/gyla1993/LightNet)  | WWW 2019 <br> A |  -->
-
+<!-- 
+|  Risk  Prediction  | HeartFailure <br> KidneyDisease <br> Dementia |    LSAN    | [LSAN: Modeling Long-term Dependencies and Short-term Correlations with Hierarchical Attention for Risk Prediction](https://doi.org/10.1145/3340531.3411864) |  [Pytorch](https://github.com/dmmlprojs/lsan)  | CIKM 2020 <br> B   |  -->
 
 
 # [Conferences](#content)
