@@ -17,7 +17,7 @@ Task part has been completed, and we will continue to update the methodology par
 
 All papers group by task and methodology (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use (the rest nearly 10% of the methodology part is going on)
 
-[HERE](https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing)
+[Paper files in Google Drive](https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing)
 
 ## [Jump to Conferences Page](Conferences)
 
