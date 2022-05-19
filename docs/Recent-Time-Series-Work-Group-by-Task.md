@@ -27,6 +27,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 | Traffic Flow  | GT-221 <br> WRS-393 <br> ZGC-564 |         STDEN     | [STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction](https://aaai-2022.virtualchair.net/poster_aaai211) | [Pytorch](https://github.com/Echo-Ji/STDEN)   | AAAI 2022<br>A
 | Multivariable | Electricity <br> Traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022<br>A
 | Multivariable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022<br>A
+| Multivariable | ETT <br> ECL <br>  Weather |        Triformer       | [Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting--Full Version]([https://openreview.net/forum?id=wwDg3bbYBIq](https://arxiv.org/abs/2204.13767)) | None | IJCAI 2022  <br>A
 | Multivariable | GoogleSymptoms  <br> Covid19  <br> Power <br> Tweet |         CAMul     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512037) |  [Pytorch](https://github.com/AdityaLab/CAMul)  | WWW 2022<br>A
 | Multivariable | Electricity <br> Stock  |         MRLF     | [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://doi.org/10.1145/3485447.3512056) | [Pytorch](https://github.com/CMLF-git-dev/MRLF) | WWW 2022<br>A
 | Multivariable <br> Classification <br> Forecasting | MuJoCo  <br> Google Stock  |         EXIT     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512030) | None | WWW 2022<br>A
@@ -142,7 +143,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Multivariable Probabilistic Time Series Forecasting
+# [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -154,6 +155,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 | probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Function without Quantile Crossing for Distribution-free Time Series Forecasting](https://arxiv.org/abs/2111.06581) | [GluonTS](https://github.com/awslabs/gluon-ts/blob/4d73911f6aae5079ad228b504ab8edaa369ad04c/src/GluonTS/mx/distribution/isqf.py) | AISTAT 2022 <br> C But Top
 | probability  |  M4 <br> Traffic <br>  Electricity    |     Robust     | [Robust Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.11910) | [GluonTS](https://github.com/tetrzim/robust-probabilistic-forecasting)  | AISTAT 2022 <br> C But Top
 | probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [GluonTS](https://github.com/awslabs/gluon-ts/tree/master/src/GluonTS/torch/model/mqf2)  | AISTAT 2022 <br> C But Top
+| Imputation & <br> Probabilistic | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021<br>A
 | probability | MIMIC-III <br> EEG <br> COVID-19  |        CF-RNN      | [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) |  [Pytorch](https://github.com/kamilest/conformal-rnn) | NIPS 2021<br>A
 | probability | CDC Flu  |       EPIFNP     | [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html) |  None | NIPS 2021<br>A
 | probability | Basketball  <br>  Weather|       GLIM     | [Probability Paths and the Structure of Predictions over Time](https://proceedings.neurips.cc/paper/2021/hash/7f53f8c6c730af6aeb52e66eb74d8507-Abstract.html) |   [R](https://github.com/ItsMrLin/probability-paths) | NIPS 2021<br>A
@@ -195,7 +197,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Time Series Imputation
+# [Time Series Imputation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 22  | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -208,7 +210,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 | Imputation | Physionet <br> MIMIC-III <br> Human Activity  |         mTAND        | [Multi-Time Attention Networks for Irregularly Sampled Time Series](https://openreview.net/forum?id=4c0J6lwQ4_) | [Pytorch](https://github.com/reml-lab/mTAN)  | ICLR 2021 <br> None But Top
 | Imputation | METR-LA <br> NREL <br> USHCN <br> SeData |         IGNNK        | [Inductive Graph Neural Networks for Spatiotemporal Kriging](https://ojs.aaai.org/index.php/AAAI/article/view/16575) | [Pytorch](https://github.com/Kaimaoge/IGNNK) | AAAI 2021<br>A
 | Imputation | Activity  <br> PhysioNet <br> Air Quality |         SSGAN       | [Generative Semi-supervised Learning for Multivariate Time Series Imputation](https://ojs.aaai.org/index.php/AAAI/article/view/17086) | [Pytorch](https://github.com/zjuwuyy-DL/Generative-Semi-supervised-Learning-for-Multivariate-Time-Series-Imputation) | AAAI 2021<br>A
-| Imputation | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021<br>A
+| Imputation & <br> Multivariable | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NIPS 2021<br>A
 | Imputation & <br> Prediction  | VevoMusic  <br> WikiTraffic <br> Los-Loop <br> SZ-Taxi |         Radflow       | [Radflow: A Recurrent, Aggregated, and Decomposable Model for Networks of Time Series](https://dl.acm.org/doi/10.1145/3442381.3449945) | [Pytorch](https://github.com/alasdairtran/radflow) | WWW 2021<br>A
 | Imputation | PhysioNet  <br> Air Quality <br> Gas Sensor |         STING       | [STING: Self-attention based Time-series Imputation Networks using GAN](https://ieeexplore.ieee.org/abstract/document/9679183) | None | ICDM 2021 <br> B
 | Imputation  | Zero <br> MICE <br>  SoftImpute  <br>  GMMC <br> GAIN   |    SN    | [Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training Neural Networks](https://openreview.net/forum?id=BylsKkHYvH) | [Future](https://github.com/JoonyoungYi/sparsity-normalization)  | ICLR 20 <br> None But Top
@@ -229,7 +231,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 -->
 
 
-## Time Series Anomaly Detection
+# [Time Series Anomaly Detection](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> |
@@ -273,7 +275,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Demand Prediction
+# [Demand Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-:| - |
 | Paper Nums: 23 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -311,7 +313,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Travel Time Estimation
+# [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -342,7 +344,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Traffic Location Prediction
+# [Traffic Location Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: |:-: | - |
 | Paper Nums:20 | <img width=150/> | <img width=220/>  |   |   |   <img width=310/> |
@@ -378,7 +380,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Event Prediction
+# [Event Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -413,7 +415,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Stock Prediction
+# [Stock Prediction](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -453,7 +455,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 
 
 
-## Other Forecasting
+# [Other Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:38 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
@@ -469,6 +471,7 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 | COVID-19 Forecasting  | JHUCSSE     |         HierST     | [HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting](https://doi.org/10.1145/3459637.3481927) | [Pytorch](https://github.com/dolphin-zs/HierST) | CIKM 2021<br>B  | 
 | Failure Prediction  | Water Pipe <br> Sewer Pipe    |         FP     | [Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal Failure Series](https://doi.org/10.1145/3459637.3481918) | None | CIKM 2021<br>B  | 
 | Publication Prediction  | CSJ  <br> CSC    |         VPALG     | [VPALG: Paper-publication Prediction with Graph Neural Networks](https://doi.org/10.1145/3459637.3482490) | None | CIKM 2021<br>B  | 
+| Water Quality Prediction  |      |   PDE-DGN    | [Partial Differential Equation Driven Dynamic Graph Networks for Predicting Stream Water Temperature]([https://doi.org/10.1145/3308558.3313525](https://ieeexplore.ieee.org/abstract/document/9679188)) |  None | ICDM 2021 <br> B | 
 | Risk Prediction | COPD  <br> HeartFailure <br> KidneyDiseases  |      HiTANet     | [HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records](https://doi.org/10.1145/3394486.3403107) |  [Pytorch](https://github.com/HiTANet2020/HiTANet)  | KDD 2020 <br>A| 
 | Sales Prediction | anonymized   |      CARNN     | [Attention based Multi-Modal New Product Sales Time-series Forecasting](https://doi.org/10.1145/3394486.3403362) |  [Pytorch](https://github.com/HumaticsLAB/AttentionBasedMultiModalRNN)  | KDD 2020<br>A| 
 | Economy Prediction | IRS   |        AMCN     | [Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data](https://doi.org/10.1145/3394486.3403273) | None | KDD 2020<br>A| 
@@ -494,11 +497,9 @@ Note that: AISTAT is CCF-C but is top in computational mathematics (such as prob
 |  Load  Prediction  | Charging  Stations |  HCFN  | [Heterogeneous Components Fusion Network for Load Forecasting of Charging Stations](https://doi.org/10.1145/3357384.3358073) |  None  | CIKM 2019 <br> B | 
 |  Mortality Risk  Prediction  | PUB  <br> MIMIC-III |     UA-CRNN     | [UA-CRNN: Uncertainty-Aware Convolutional Recurrent Neural Network for Mortality Risk Prediction](https://doi.org/10.1145/3357384.3357884) |  None | CIKM 2019 <br> B | 
 |  House Price  Prediction  | NYCHouse  <br> BJHouse |    FTD_DenseNet    | [An Integrated Model for Urban Subregion House Price Forecasting: A Multi-source Data Perspective](https://ieeexplore.ieee.org/abstract/document/8970751) |  None  | ICDM 2019 <br> B | 
-|  Water Quality Prediction  |  |   TC    | [Predicting Water Quality for the Woronora Delivery Network with Sparse Samples](https://ieeexplore.ieee.org/abstract/document/8970721) | None  | ICDM 2019 <br> B | 
+|  Water Quality Prediction  |   |   TC    | [Predicting Water Quality for the Woronora Delivery Network with Sparse Samples](https://ieeexplore.ieee.org/abstract/document/8970721) | None  | ICDM 2019 <br> B | 
 
 
 
-<!-- | Talent Flow  Forecasting  |  OPNs   |   ETF    | [Large-Scale Talent Flow Forecast with Dynamic Latent Factor Model?](https://doi.org/10.1145/3308558.3313525) |  [Keras](https://github.com/gyla1993/LightNet)  | WWW 2019 <br> A |  -->
-
-
-
+<!-- 
+|  Risk  Prediction  | HeartFailure <br> KidneyDisease <br> Dementia |    LSAN    | [LSAN: Modeling Long-term Dependencies and Short-term Correlations with Hierarchical Attention for Risk Prediction](https://doi.org/10.1145/3340531.3411864) |  [Pytorch](https://github.com/dmmlprojs/lsan)  | CIKM 2020 <br> B   |  -->
