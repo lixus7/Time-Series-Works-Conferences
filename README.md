@@ -21,6 +21,35 @@ All papers group by task and methodology (including the papers that have not bee
 
 https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
 
+
+
+To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and apply only to this article.
+
+|:--|:--|
+| Adaptive GNN                       |  AGNN   | 
+| Attention                          |  Attn   |  
+| AutoRegression(RNN,GRU,LSTM)       |  AR     | 
+| Controlled Differential Equations  |  CDE    |  
+| Contrastive Learning               |  CL     | 
+| Encoder Decoder                    |  EncDec |  
+| Ensemble                           |  Ens    | 
+| Federated   Learning               |  FL     |  
+| Generative Adversarial Network     |  GAN    | 
+|  Graph Convolutional Network       |  GCN    |   
+| Hour, Day, Week, Month, etc        |  HA     | 
+| Heterogeneous GNN                  |  HGNN   | 
+| Multiple Graph                     |  MGNN   |
+| Memory                             |  Mem    |   
+| Meta Learning                      |  MeL    |   
+| MultiTask                          |  MulT   |     
+| Network Architechture Search       |  NAS    |  
+| Ordinary Differential Equations    |  ODE    | 
+| Statistic                          |  Stat   | 
+| TCN (WaveNet)                      |  TCN    |   
+| Temporal Graph Network             |  TGN    |   
+| Transfer Learning                  |  TransL |    
+| Trend, Season, etc                 |  TreSea | 
+
 # - <a href = "#Conferences">Jump to Conferences page</a>
 # Conf Submission Appropriate Time (Recent 7 Years)
 
