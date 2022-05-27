@@ -334,10 +334,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Anomaly Detection |  SMD <br> SWaT <br> PSM <br> BKPI  |       RANSynCoders   | [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://doi.org/10.1145/3447548.3467174) |  [TF](https://github.com/eBay/RANSynCoders)  | KDD 2021 <br> A
 |  Anomaly Detection |  PUMP <br> WADI <br> SWaT  |       NSIBF   | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137) |  [TF](https://github.com/NSIBF/NSIBF)  | KDD 2021 <br> A
 |  Anomaly Detection |  SWaT <br> WADI   |       GDN   | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) |  [Pytorch](https://github.com/d-ailin/GDN)  | AAAI 2021 <br> A
-
-
-|  Anomaly Detection |  SWaT <br> WADI   |       GDN   | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) |  [Pytorch](https://github.com/d-ailin/GDN)  | ICDE 2021 <br> A
-
+|  Anomaly Detection | SMD <br> SMAP <br> MSL <br> SWaT  |       DAEMON   | [DAEMON: Unsupervised Anomaly Detection and Interpretation for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9458835) |  [Future](https://github.com/Azerrroth/DAEMON)  | ICDE 2021 <br> A
 |  Anomaly Detection |  KPI <br> Yahoo   |      FluxEV   | [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://doi.org/10.1145/3437963.3441823) |  None   | WSDM 2021<br> B
 |  Earthquakes Detection |  NIED   |       CrowdQuake   | [A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning](https://doi.org/10.1145/3394486.3403378) |  [TF](https://github.com/xhuang2016/Seismic-Detection)    | KDD 2020 <br> A
 |  Anomaly Detection |  SWaT  <br> WADI <br> SMD  <br>  SMAP <br> MSL <br>  Orange |       USAD   | [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://doi.org/10.1145/3394486.3403392) |   [Pytorch](https://github.com/manigalati/usad)   | KDD 2020 <br> A
