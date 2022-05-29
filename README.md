@@ -49,7 +49,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Statistic                          |  Stat   |
 | TCN (WaveNet)                      |  TCN    |   
 | Temporal Graph Network             |  TGN    |   
-| Transformer                        |  Trans |  
+| Transformer                        |  Tra    |  
 | Transfer Learning                  |  TransL |    
 | Trend, Season, etc                 |  TreSea |
 
