@@ -42,7 +42,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Heterogeneous GNN                  |  HGNN   |
 | Multiple Graph                     |  MGNN   |
 | Memory                             |  Mem    |   
-| Meta Learning                      |  MeL    |   
+| Meta Learning                      |  MetaL  |   
 | MultiTask                          |  MulT   |     
 | Network Architechture Search       |  NAS    |  
 | Ordinary Differential Equations    |  ODE    |
