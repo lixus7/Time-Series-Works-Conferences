@@ -24,7 +24,7 @@ All papers group by task and methodology (including the papers that have not bee
 https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
 
 
-To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and apply only to this article.
+To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and apply only to this repository.
 
 |Full Name | Abbreviation|
 |:--|:--|
@@ -49,6 +49,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Statistic                          |  Stat   |
 | TCN (WaveNet)                      |  TCN    |   
 | Temporal Graph Network             |  TGN    |   
+| Transformer                        |  Trans |  
 | Transfer Learning                  |  TransL |    
 | Trend, Season, etc                 |  TreSea |
 
