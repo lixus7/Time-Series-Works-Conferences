@@ -51,7 +51,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Temporal Graph Network             |  TGN    |   
 | Transformer                        |  Trans  |  
 | Transfer Learning                  |  TransL |    
-| Trend, Season, etc                 |  TreSea |
+| Feature Decomposed                 |  FeaD   |
 
 
 # Conf Submission Appropriate Time (Recent 7 Years)
