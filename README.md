@@ -35,6 +35,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Contrastive Learning               |  CL     |
 | Encoder Decoder                    |  EncDec |  
 | Ensemble                           |  Ens    |
+| Feature Decomposed                 |  FeaD   |
 | Federated   Learning               |  FL     |  
 | Generative Adversarial Network     |  GAN    |
 |  Graph Convolutional Network       |  GCN    |   
@@ -51,7 +52,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Temporal Graph Network             |  TGN    |   
 | Transformer                        |  Trans  |  
 | Transfer Learning                  |  TransL |    
-| Feature Decomposed                 |  FeaD   |
+
+| Variational Auto-Encoder           |  VAE   |
 
 
 # Conf Submission Appropriate Time (Recent 7 Years)
@@ -294,9 +296,9 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 22  | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
-| Imputation |  Air Quality <br> METR-LA <br> PeMS-BAY <br> CER-E  |         GRIN        | [Filling the G_ap_s-Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7) |  [Pytorch](https://github.com/Graph-Machine-Learning-Group/grin) | ICLR 2022 <br> None But Top
-| Imputation |  PhysioNet <br> MIMIC-III <br> Climate  |         HeTVAE        | [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3) |  [Pytorch](https://github.com/reml-lab/hetvae) | ICLR 2022 <br> None But Top
-| Imputation |  MIMIC-III <br> OPHTHALMIC <br> MNIST Physionet <br> |         GIL        | [Gradient Importance Learning for Incomplete Observations](https://openreview.net/forum?id=fXHl76nO2AZ) |  [TF](https://github.com/gaoqitong/gradient-importance-learning) | ICLR 2022 <br> None But Top
+| Imputation |  Air Quality <br> METR-LA <br> PeMS-BAY <br> CER-E  |         GRIN <br>(EncDec,AR)        | [Filling the G_ap_s-Multivariate Time Series Imputation by Graph Neural Networks](https://openreview.net/forum?id=kOu3-S3wJ7) |  [Pytorch](https://github.com/Graph-Machine-Learning-Group/grin) | ICLR 2022 <br> None But Top
+| Imputation |  PhysioNet <br> MIMIC-III <br> Climate  |         HeTVAE  <br>(Attn,VAE)        | [Heteroscedastic Temporal Variational Autoencoder For Irregularly Sampled Time Series](https://openreview.net/forum?id=Az7opqbQE-3) |  [Pytorch](https://github.com/reml-lab/hetvae) | ICLR 2022 <br> None But Top
+| Imputation |  MIMIC-III <br> OPHTHALMIC <br> MNIST Physionet <br> |         GIL   <br>(AR,Attn,GRADIENT IMPORTANCE LEARNING)          | [Gradient Importance Learning for Incomplete Observations](https://openreview.net/forum?id=fXHl76nO2AZ) |  [TF](https://github.com/gaoqitong/gradient-importance-learning) | ICLR 2022 <br> None But Top
 | Imputation | Chlorine level <br> SML2010 <br> Air Quality |         D-NLMC        | [Dynamic Nonlinear Matrix Completion for Time-Varying Data Imputation](https://aaai-2022.virtualchair.net/poster_aaai12088) | [Matlab](https://github.com/jicongfan) <br> Author <br> Github | AAAI 2022<br>A
 | Imputation | COMPAS <br> Adult <br> HSLS |         ME        | [Online Missing Value Imputation and Change Point Detection with the Gaussian Copula](https://aaai-2022.virtualchair.net/poster_aaai6237) | [gcimpute](https://github.com/yuxuanzhao2295/Online-Missing-Value-Imputation-and-Change-Point-Detection-with-the-Gaussian-Copula) | AAAI 2022<br>A
 | Imputation |  |         Fair MIP Forest        | [Fairness without Imputation: A Decision Tree Approach for Fair Prediction with Missing Values](https://aaai-2022.virtualchair.net/poster_aaai6921) | None | AAAI 2022<br>A
