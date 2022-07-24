@@ -1,8 +1,9 @@
-# You can also visit this [WebPage](https://tatsuyad7.github.io/Time-Series-Work-Conference/#/) to view!
 
 # Time-Series Work and Conference 
 
-# - <a href = "#Conferences">Jump to Conferences page</a>
+**Visit our [GitHub Page](https://tatsuyad7.github.io/Time-Series-Work-Conference/) for a better view.**
+
+<a href="#Conferences">Click here to jump to Conferences page.</a>
 
 <div align="center">
 <img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
