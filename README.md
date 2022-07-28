@@ -56,7 +56,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Variational Auto-Encoder           |  VAE   |
 
 
-# Approximate Conference Submission Times (Recent 7 Years)
+# Approximate Conference Submission Times 
+From the most recent 7 years.
 
 > IJCAI : 1.14\~2.15  
 > ICML  : 1.23\~2.24  
