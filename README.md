@@ -16,7 +16,7 @@
 </div>
 
 > I have a strong interest in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
-<br> I'm a noob but I'm a continuer. I received my B.S. degree in EE from Wuhan University, Wuhan, China. I was then awarded an M.S. degree in signal in Dept. Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master career. 
+<br> I'm a noob but I'm a continuer. I received my B.S. degree in EE from Wuhan University, Wuhan, China. I was then awarded an M.S. degree in Dept. Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master career. 
 
 The task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
 
