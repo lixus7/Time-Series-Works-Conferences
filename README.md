@@ -105,7 +105,7 @@ Note that: AISTAT is CCFC but is top in computational mathematics (such as proba
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
-| Multivariable | ETT <br> Electricity  <br> Exchange  <br> Traffic <br> Weather <br> ILI |        FEDformer <br> (EncDec,<br> EnhancedFeature)      | [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740) | Future? | ICML 2022  <br>A
+| Multivariable | ETT <br> Electricity  <br> Exchange  <br> Traffic <br> Weather <br> ILI |        FEDformer <br> (EncDec,<br> EnhancedFeature)      | [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740) | [Pytorch](https://github.com/MAZiqing/FEDformer) | ICML 2022  <br>A
 | Multivariable | Electricity  <br> Solar  <br> Fred MD <br> KDD Cup  |        TACTiS <br> (Copulas,<br> Trans)      | [TACTiS: Transformer-Attentional Copulas for Time Series](https://arxiv.org/abs/2202.03528) | Future? | ICML 2022  <br>A
 | Multivariable | French <br> Electricity    |        AgACI      | [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282) | [Python,R](https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries) | ICML 2022  <br>A
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet <br> (Mem,KNN)         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022  <br>None But Top
