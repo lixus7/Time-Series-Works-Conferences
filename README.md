@@ -1,9 +1,9 @@
 
-# Time-Series Work and Conference 
+# Time-Series Works and Conferences
 
 **Visit our [GitHub Page](https://tatsuyad7.github.io/Time-Series-Work-Conference/) for a better view.**
 
-<a href="#Conferences">Click here to jump to Conferences page.</a>
+<a href="#Conferences">Click here to jump to the Conferences page.</a>
 
 <div align="center">
 <img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
@@ -15,17 +15,17 @@
 <a href="https://github.com/TatsuyaD7/Time-Series-Work-Conference/blob/main/docs/img/WeChat.jpeg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
-> I have strong interst in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
-<br> I'm a noob but I'm a constinuer, currently an M3 master student in Dept. Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master career. 
+> I have a strong interest in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
+<br> I'm a noob but I'm a continuer, currently an M3 master's student in Dept. Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master career. 
 
-Task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
+The task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
 
-All papers group by task and methodology (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use (the rest nearly 10% of the methodology part is going on):
+All papers grouped by task and methodology (including the papers that have not been included in this github) will be placed on the Google Drive for everyone to use (the rest nearly 10% of the methodology part is going on):
 
 https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing
 
 
-To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and apply only to this repository.
+To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and applies only to this repository.
 
 |Full Name | Abbreviation|
 |:--|:--|
@@ -53,33 +53,24 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Temporal Graph Network             |  TGN    |   
 | Transformer                        |  Trans  |  
 | Transfer Learning                  |  TransL |    
-
 | Variational Auto-Encoder           |  VAE   |
 
 
-# Conf Submission Appropriate Time (Recent 7 Years)
+# Approximate Conference Submission Times 
+From the most recent 7 years.
 
-> IJCAI : 1.14~2.15
+> IJCAI : 1.14\~2.15  
+> ICML  : 1.23\~2.24  
+> KDD   : 2.3\~2.17  
+> CIKM  : 5.15\~5.26  
+> NIPS  : 5.18\~6.5  
+> ICDM  : 6.5\~6.17  
+> WSDM  : 7.17\~8.16  
+> AAAI  : 9.5\~9.15  
+> ICLR  : 9.25\~10.27  
+> WWW   : 10.14\~11.5  
 
-> ICML  : 1.23~2.24
-
-> KDD   : 2.3~2.17
-
-> CIKM  : 5.15~5.26
-
-> NIPS  : 5.18~6.5
-
-> ICDM  : 6.5~6.17
-
-> WSDM  : 7.17~8.16
-
-> AAAI  : 9.5~9.15
-
-> ICLR  : 9.25~10.27
-
-> WWW   : 10.14~11.5
-
-# Recent Time Series Work Group by Task
+# Recent Time Series Works Grouped by Task
 
 - <a href = "#Multivariable-Time-Series-Forecasting">Multivariable Time Series Forecasting</a>
 - <a href = "#Multivariable-Probabilistic-Time-Series-Forecasting">Multivariable Probabilistic Time Series Forecasting</a>
@@ -92,7 +83,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 - <a href = "#Stock-Prediction">Stock Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
-"A, B, C" in the publication denotes the CCF Rank;
+The "A, B, C" in the publication denotes the CCF Rank;
 
 According to the average quality of the papers and codes, we rank the conferences as follows (Don't be rude, I'm talking about the average):
 
