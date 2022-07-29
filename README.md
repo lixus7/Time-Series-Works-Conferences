@@ -601,8 +601,8 @@ Some more useful websites:
 | [AAAI](#AAAI) (to 2022)       | 9.5\~9.15  |
 | [ICLR](#ICLR) (to 2022)       | 9.25\~10.27|
 | [WWW](#WWW) (to 2022)         | 10.14\~11.5|
-| [ICDE](#ICDE) (to 2022)       |            |
-
+| [ICDE-1](#ICDE) (to 2022)     | 6.1\~7.21  |
+| [ICDE-2](#ICDE) (to 2022)     | 10.1\~11.17|
 Approximate conference submission times from the most recent 7 years.
 
 
