@@ -2,7 +2,7 @@
 
 **Visit our [GitHub Page](https://tatsuyad7.github.io/Time-Series-Work-Conference/) for a better view.**
 
-<a href="#Conferences">Click here to jump to the Conferences page.</a>
+<a href="#Conferences">Click here to jump to the Conferences page with more information about the conferences.</a>
 
 <div align="center">
 <img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
@@ -53,21 +53,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Transformer                        |  Trans  |  
 | Transfer Learning                  |  TransL |    
 | Variational Auto-Encoder           |  VAE   |
-
-
-# Approximate Conference Submission Times 
-From the most recent 7 years.
-
-> IJCAI : 1.14\~2.15  
-> ICML  : 1.23\~2.24  
-> KDD   : 2.3\~2.17  
-> CIKM  : 5.15\~5.26  
-> NeurIPS  : 5.18\~6.5  
-> ICDM  : 6.5\~6.17  
-> WSDM  : 7.17\~8.16  
-> AAAI  : 9.5\~9.15  
-> ICLR  : 9.25\~10.27  
-> WWW   : 10.14\~11.5  
 
 # Recent Time Series Works Grouped by Task
 
@@ -643,20 +628,23 @@ NeurIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 
 Note that: AISTAT is CCF C but is top in computational mathematics (such as for probabilistic problems).
 
-
 ## Table of Conferences
 
-* [ICML](#ICML) (to 2022)
-* [NeurIPS](#NeurIPS) (to 2021)
-* [ICLR ](#ICLR)(to 2022)
-* [KDD](#KDD) (to 2022)
-* [AAAI](#AAAI) (to 2022)
-* [IJCAI](#IJCAI) (to 2022)
-* [ICDE](#ICDE) (to 2022)
-* [WWW](#WWW) (to 2022)
-* [CIKM](#CIKM) (to 2021)
-* [ICDM](#ICDM) (to 2021)
-* [WSDM](#WSDM) (to 2022)
+|Conference | Approximate submission time |
+|:--|:--|
+| [IJCAI](#IJCAI) (to 2022)     | 1.14\~2.15 |
+| [ICML](#ICML) (to 2022)       | 1.23\~2.24 |
+| [KDD](#KDD) (to 2022)         | 2.3\~2.17  |
+| [CIKM](#CIKM) (to 2021)       | 5.15\~5.26 |
+| [NeurIPS](#NeurIPS) (to 2021) | 5.18\~6.5  |
+| [ICDM](#ICDM) (to 2021)       | 6.5\~6.17  |
+| [WSDM](#WSDM) (to 2022)       | 7.17\~8.16 |
+| [AAAI](#AAAI) (to 2022)       | 9.5\~9.15  |
+| [ICLR](#ICLR) (to 2022)       | 9.25\~10.27|
+| [WWW](#WWW) (to 2022)         | 10.14\~11.5|
+| [ICDE](#ICDE) (to 2022)       |            |
+
+Approximate conference submission times from the most recent 7 years.
 
 
 ## ICML
