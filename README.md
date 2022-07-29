@@ -579,19 +579,32 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 
 ❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
 
-❗ It is highly recommended to utilize the [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf)(in Chinese) to search.
+❗ It is highly recommended to utilize [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf) (in Chinese) to search.
 
+Some more useful websites:
+- CCF conference deadlines: https://ccfddl.github.io/
+- Conference eye (会议之眼): https://www.conferenceeye.cn/#/layout/home
+- Call4Papers: http://123.57.137.208/ccf/ccf-8.jsp
+- Conference list: http://www.conferencelist.info/upcoming.html
 
-## Some Useful Websites
+## Table of Conferences
 
+|Conference | Approximate submission time |
+|:--|:--|
+| [IJCAI](#IJCAI) (to 2022)     | 1.14\~2.15 |
+| [ICML](#ICML) (to 2022)       | 1.23\~2.24 |
+| [KDD](#KDD) (to 2022)         | 2.3\~2.17  |
+| [CIKM](#CIKM) (to 2021)       | 5.15\~5.26 |
+| [NeurIPS](#NeurIPS) (to 2021) | 5.18\~6.5  |
+| [ICDM](#ICDM) (to 2021)       | 6.5\~6.17  |
+| [WSDM](#WSDM) (to 2022)       | 7.17\~8.16 |
+| [AAAI](#AAAI) (to 2022)       | 9.5\~9.15  |
+| [ICLR](#ICLR) (to 2022)       | 9.25\~10.27|
+| [WWW](#WWW) (to 2022)         | 10.14\~11.5|
+| [ICDE](#ICDE) (to 2022)       |            |
 
-> CCF Conference Deadlines https://ccfddl.github.io/
->
-> 会议之眼 https://www.conferenceeye.cn/#/layout/home
->
-> Call4Papers http://123.57.137.208/ccf/ccf-8.jsp
->
-> Conference List http://www.conferencelist.info/upcoming.html
+Approximate conference submission times from the most recent 7 years.
+
 
 ## Conference CCF Ranks
 The below table are following the China Computer Federation (CCF) ranks.
@@ -627,25 +640,6 @@ NeurIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 | Transportation Research Part C | SCI 1 Top |
 
 Note that: AISTAT is CCF C but is top in computational mathematics (such as for probabilistic problems).
-
-## Table of Conferences
-
-|Conference | Approximate submission time |
-|:--|:--|
-| [IJCAI](#IJCAI) (to 2022)     | 1.14\~2.15 |
-| [ICML](#ICML) (to 2022)       | 1.23\~2.24 |
-| [KDD](#KDD) (to 2022)         | 2.3\~2.17  |
-| [CIKM](#CIKM) (to 2021)       | 5.15\~5.26 |
-| [NeurIPS](#NeurIPS) (to 2021) | 5.18\~6.5  |
-| [ICDM](#ICDM) (to 2021)       | 6.5\~6.17  |
-| [WSDM](#WSDM) (to 2022)       | 7.17\~8.16 |
-| [AAAI](#AAAI) (to 2022)       | 9.5\~9.15  |
-| [ICLR](#ICLR) (to 2022)       | 9.25\~10.27|
-| [WWW](#WWW) (to 2022)         | 10.14\~11.5|
-| [ICDE](#ICDE) (to 2022)       |            |
-
-Approximate conference submission times from the most recent 7 years.
-
 
 ## ICML
 
