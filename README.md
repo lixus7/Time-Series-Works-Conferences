@@ -625,12 +625,12 @@ Some more useful websites:
 Approximate conference submission times from the most recent 7 years.
 
 
-## Conference CCF Ranks
+## Conference (Journal) CCF Ranks
 The below table are following the China Computer Federation (CCF) ranks.
 According to the average quality of the papers and codes, we rank the conferences as follows (don't be rude, I'm talking about the average):
 NeurIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 
-|Conference | CCF Rank |
+|Conference (Journal) | CCF Rank |
 |:--|:--|
 | ICML         | A            |
 | NeurIPS      | A            |  
