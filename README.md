@@ -19,7 +19,7 @@
 
 The task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
 
-All papers grouped by task and methodology (including the papers that have not been included in this github) will be placed on the **GoogleDrive and OneDrive** for everyone to use (the rest nearly 10% of the methodology part is going on):
+All papers grouped by task and methodology (including the papers that have not been included in this github) will be placed on the **GoogleDrive and OneDrive** (VPN is required) for everyone to use (the rest nearly 10% of the methodology part is going on):
 
 [OneDrive](https://1drv.ms/u/s!Au2cJRs-_u93lDbLrSDkDy8htv2V?e=ftuaXd)
 
