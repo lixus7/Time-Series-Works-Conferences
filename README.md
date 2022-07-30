@@ -90,7 +90,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Traffic Flow  | GT-221 <br> WRS-393 <br> ZGC-564 |         STDEN     | [STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction](https://aaai-2022.virtualchair.net/poster_aaai211) | [Pytorch](https://github.com/Echo-Ji/STDEN)   | AAAI 2022
 | Multivariable | Electricity <br> Traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022
 | Multivariable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022
-| Multivariable | ETT <br> ECL <br>  Weather |        Triformer       | [Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting--Full Version]([https://openreview.net/forum?id=wwDg3bbYBIq](https://arxiv.org/abs/2204.13767)) | None | IJCAI 2022
+| Multivariable | ETT <br> ECL <br>  Weather |        Triformer       | [Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting--Full Version](https://doi.org/10.24963/ijcai.2022/277) |  [Future](https://github.com/razvanc92/triformer)   | IJCAI 2022
+| Multivariable | PeMSD4 <br> PeMSD8 <br>  RPCM  <br> PeMSD4 |        RGSL       | [Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting](https://doi.org/10.24963/ijcai.2022/328) |  [Pytorch](https://github.com/alipay/RGSL)   | IJCAI 2022
 | Multivariable | GoogleSymptoms  <br> Covid19  <br> Power <br> Tweet |         CAMul     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512037) |  [Pytorch](https://github.com/AdityaLab/CAMul)  | WWW 2022
 | Multivariable | Electricity <br> Stock  |         MRLF     | [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://doi.org/10.1145/3485447.3512056) | [Pytorch](https://github.com/CMLF-git-dev/MRLF) | WWW 2022
 | Multivariable <br> Classification <br> Forecasting | MuJoCo  <br> Google Stock  |         EXIT     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512030) | None | WWW 2022
@@ -307,6 +308,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022
 |  Anomaly Detection |     |       AnomalyKiTS   | [AnomalyKiTS-Anomaly Detection Toolkit for Time Series](https://aaai-2022.virtualchair.net/poster_dm318) | None | AAAI 2022
 |  Anomaly Detection |  SWaT <br> WADI <br> MSL <br> SMAP <br> SMD  |       PA   | [Towards a Rigorous Evaluation of Time-Series Anomaly Detection](https://aaai-2022.virtualchair.net/poster_aaai2239) |  None  | AAAI 2022
+|  Anomaly Detection | YAHOO <br> SMAP <br> MSL <br> PSM  |      NCAD    | [Neural Contextual Anomaly Detection for Time Series](https://doi.org/10.24963/ijcai.2022/332) |   [Future](https://github.com/awslabs/gluon-ts/tree/dev/src/gluonts/nursery)   | IJCAI 2022
+|  Anomaly Detection | SWaT <br> WADI <br> SMD <br> PSM  |      GRELEN    | [GRELEN: Multivariate Time Series Anomaly Detection from the Perspective of Graph Relational Learning](https://doi.org/10.24963/ijcai.2022/394) | None| IJCAI 2022
 |  Anomaly Detection | Business|       SLA-VAE       | [A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems](https://doi.org/10.1145/3485447.3511984) | None| WWW 2022
 |  Anomaly Detection |  KDDCUP99 <br>  NSL   <br>  UNSW, etc |      MemStream       | [MemStream: Memory-Based Streaming Anomaly Detection](https://doi.org/10.1145/3485447.3511984) |  [Pytorch](https://github.com/Stream-AD/MemStream)| WWW 2022
 |  Anomaly Detection | NAB <br> UCR <br> MBA <br> SMAP <br>  MSL <br> SWaT <br> WADI <br> SMD <br> MSDS   |       TranAD     | [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](https://arxiv.org/abs/2201.07284) | [Pytorch](https://github.com/imperial-qore/TranAD) | VLDB 2022
@@ -387,7 +390,10 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 # [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:17 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+
+
+| TTE | Beijing <br> Porto |         MetaER-TTE        | [MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation](https://doi.org/10.24963/ijcai.2022/281) | None | IJCAI 2022
 | TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021
 | TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020
 | TTE | DiDi: <br> Beijing <br> Suzhou <br> Shenyang   |     CompactETA        | [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/10.1145/3394486.3403386) | None | KDD 2020
