@@ -91,6 +91,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Multivariable | Electricity <br> Traffic <br> PeMSD7(M) <br> METR-LA  |         CATN     | [CATN: Cross Attentive Tree-Aware Network for Multivariate Time Series Forecasting](https://aaai-2022.virtualchair.net/poster_aaai7403) | None | AAAI 2022
 | Multivariable | ETT <br> Electricity  |         TS2Vec     | [TS2Vec: Towards Universal Representation of Time Series](https://aaai-2022.virtualchair.net/poster_aaai8809) | [Pytorch](https://github.com/yuezhihan/ts2vec) | AAAI 2022
 | Multivariable | ETT <br> ECL <br>  Weather |        Triformer       | [Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting--Full Version](https://doi.org/10.24963/ijcai.2022/277) |  [Future](https://github.com/razvanc92/triformer)   | IJCAI 2022
+| Multivariable | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |        FOGS       | [FOGS: First-Order Gradient Supervision with Learning-based Graph for Traffic Flow Forecasting](https://doi.org/10.24963/ijcai.2022/545) |  [Pytorch](https://github.com/kevin-xuan/FOGS)   | IJCAI 2022
 | Multivariable | PeMSD4 <br> PeMSD8 <br>  RPCM  <br> PeMSD4 |        RGSL       | [Regularized Graph Structure Learning with Semantic Knowledge for Multi-variates Time-Series Forecasting](https://doi.org/10.24963/ijcai.2022/328) |  [Pytorch](https://github.com/alipay/RGSL)   | IJCAI 2022
 | Multivariable | Air Quality <br> Parking  |       DMGA      | [Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention](https://doi.org/10.24963/ijcai.2022/309) |   None  | IJCAI 2022
 | Multivariable | YellowCab <br> GreenCab <br> Solar  |        ST-KMRN       | [Physics-Informed Long-Sequence Forecasting From Multi-Resolution Spatiotemporal Data](https://doi.org/10.24963/ijcai.2022/304) |   [Author](https://github.com/mengcz13)   | IJCAI 2022
@@ -397,8 +398,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
-
-
 | TTE | Beijing <br> Porto |         MetaER-TTE        | [MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation](https://doi.org/10.24963/ijcai.2022/281) | None | IJCAI 2022
 | TTE | Baidu:<br> Taiyuan <br> Huizhou <br> Hefei|         SSML        | [SSML: Self-Supervised Meta-Learner for En Route Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/10.1145/3447548.3467060) | [Paddle](https://github.com/PaddlePaddle/Research/tree/master/ST_DM/KDD2021-SSML)  | KDD 2021
 | TTE | DiDi: <br> Shenyang     |     HetETA        | [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/10.1145/3394486.3403294) | [TF](https://github.com/didi/heteta)  | KDD 2020
@@ -544,6 +543,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Paper Nums:38 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Crop Yield  Prediction | American Crop |         GNN-RNN        | [A GNN-RNN Approach for Harnessing Geospatial and Temporal Information: Application to Crop Yield Prediction](https://aaai-2022.virtualchair.net/poster_aisi6416) | None  | AAAI 2022
 | Epidemic Prediction | Globe <br> US-State  <br> US-County |         CausalGNN     | [CausalGNN: Causal-based Graph Neural Networks for Spatio-Temporal](https://aaai-2022.virtualchair.net/poster_aisi6475) | Future | AAAI 2022
+| Soil Moisture <br> Forecasting | Spain <br> USA |         DGLR     | [Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture](https://doi.org/10.24963/ijcai.2022/720) | [Pytorch](https://github.com/AnoushkaVyas/DGLR)  | IJCAI 2022
 | Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022
 | FakeNews Detection | Snop <br> PolitiFact  |         GET     | [Evidence-aware Fake News Detection with Graph Neural Networks](https://doi.org/10.1145/3485447.3512122) | [Keras](https://github.com/CRIPAC-DIG/GET) | WWW 2022
 | Health Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022
