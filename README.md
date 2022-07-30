@@ -71,7 +71,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 - <a href = "#Stock-Prediction">Stock Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
-
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
