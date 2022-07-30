@@ -359,6 +359,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Paper Nums: 23 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022
+| Traffic Demand  | BJMetro <br> NYCTaxi  |       HMOD      | [Dynamic Graph Learning Based on Hierarchical Memory for Origin-Destination Demand Prediction](https://doi.org/10.24963/ijcai.2022/331) |   [Pytorch](https://github.com/Rising0321/HMOD)  | IJCAI 2022
 | Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2021
 | Traffic Demand | BaiduBJ  <br> BaiduSH  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2021
 | Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021
@@ -502,6 +503,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022
+| Stock Prediction | NASDAQ <br> NYSE  <br>  TSE |         ALSP-TF      | [Adaptive Long-Short Pattern Transformer for Stock Investment Selection](https://doi.org/10.24963/ijcai.2022/551) | None | IJCAI 2022
 | Stock Movement<br> Prediction | CSI800 |    TRA  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3447548.3467358) | [Pytorch](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA) | KDD 2021
 | Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100 |     DTML | [Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://doi.org/10.1145/3447548.3467297) | None| KDD 2021
 | Stock  <br> Prediction | Self-defined |     AD-GAT | [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | [Pytorch](https://github.com/RuichengFIC/ADGAT) | AAAI 2021
