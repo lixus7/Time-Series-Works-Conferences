@@ -504,6 +504,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
 | Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022
 | Stock Prediction | NASDAQ <br> NYSE  <br>  TSE |         ALSP-TF      | [Adaptive Long-Short Pattern Transformer for Stock Investment Selection](https://doi.org/10.24963/ijcai.2022/551) | None | IJCAI 2022
+| Stock Prediction | S&P 500 <br> Ashare&HK |        HISN     | [Heterogeneous Interactive Snapshot Network for Review-Enhanced
+Stock Profiling and Recommendation](https://doi.org/10.24963/ijcai.2022/550) | None | IJCAI 2022
 | Stock Movement<br> Prediction | CSI800 |    TRA  |   [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://doi.org/10.1145/3447548.3467358) | [Pytorch](https://github.com/microsoft/qlib/tree/main/examples/benchmarks/TRA) | KDD 2021
 | Stock Movement <br> Prediction | ACL18  <br> KDD17 <br> NDX100  <br> CSI300  <br> NI225<br> FTSE100 |     DTML | [Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://doi.org/10.1145/3447548.3467297) | None| KDD 2021
 | Stock  <br> Prediction | Self-defined |     AD-GAT | [Modeling the Momentum Spillover Effect for Stock Prediction via Attribute-Driven Graph Attention Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16077) | [Pytorch](https://github.com/RuichengFIC/ADGAT) | AAAI 2021
@@ -721,7 +723,7 @@ Finding it on openreview:
 
 | Conference | Source                                                      | Deadline | Notification |
 | ---------- | ----------------------------------------------------------- | ---------- | ---------- |
-|IJCAI-22|| January 14, 2022 | April 20, 2022 |
+|IJCAI-22| [Link](https://www.ijcai.org/proceedings/2022/)   |  |
 |IJCAI-21|[Link](https://ijcai-21.org/program-main-track/)|  |  |
 | IJCAI-20   | [Link](http://static.ijcai.org/2020-accepted_papers.html)   |  |  |
 | IJCAI-19   | [Link](https://www.ijcai19.org/accepted-papers.html)        |  |  |
