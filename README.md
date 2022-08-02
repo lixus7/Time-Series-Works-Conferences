@@ -75,8 +75,10 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:100+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Multivariable | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08  |    DSTAGNN    | [DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting](https://proceedings.mlr.press/v162/lan22a.html) | [Pytorch](https://github.com/SYLan2019/DSTAGNN) | ICML 2022
 | Multivariable | ETT <br> Electricity  <br> Exchange  <br> Traffic <br> Weather <br> ILI |        FEDformer <br> (EncDec,<br> EnhancedFeature)      | [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/abs/2201.12740) | [Pytorch](https://github.com/MAZiqing/FEDformer) | ICML 2022
-| Multivariable | Electricity  <br> Solar  <br> Fred MD <br> KDD Cup  |        TACTiS <br> (Copulas,<br> Trans)      | [TACTiS: Transformer-Attentional Copulas for Time Series](https://arxiv.org/abs/2202.03528) | Future? | ICML 2022
+| Multivariable | Traffic <br> Electricity  <br> Wiki  <br> Sales  |       DAF     | [DAF-Domain Adaptation for Time Series Forecasting via Attention Sharing](https://proceedings.mlr.press/v162/jin22d.html) | None| ICML 2022
+| Multivariable | Electricity  <br> Solar  <br> Fred MD <br> KDD Cup  |        TACTiS <br> (Copulas,<br> Trans)      | [TACTiS: Transformer-Attentional Copulas for Time Series](https://proceedings.mlr.press/v162/drouin22a.html) | Future? | ICML 2022
 | Multivariable | French <br> Electricity    |        AgACI      | [Adaptive Conformal Predictions for Time Series](https://arxiv.org/abs/2202.07282) | [Python,R](https://github.com/mzaffran/AdaptiveConformalPredictionsTimeSeries) | ICML 2022
 | Traffic Speed | NAVER-Seoul <br> METR-LA |         PM-MemNet <br> (Mem,KNN)         | [Learning to Remember Patterns: Pattern Matching Memory Networks for Traffic Forecasting](https://openreview.net/forum?id=wwDg3bbYBIq) | [Pytorch](https://github.com/HyunWookL/PM-MemNet) | ICLR 2022
 | Multivariable | PeMSD3 <br> PeMSD4 <br> PeMSD8 <br> COVID-19,etc |         TAMP-S2GCNets <br> (GCN,AR, <br> Topological Features)        | [TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting](https://openreview.net/forum?id=wv6g8fWLX2q) | [Pytorch](https://www.dropbox.com/sh/n0ajd5l0tdeyb80/AABGn-ejfV1YtRwjf_L0AOsNa?dl=0) | ICLR 2022
@@ -309,6 +311,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 30  | <img width=90/> |      |     |     |  <img width=320/> |
+|  Anomaly Detection | DND <br> SMD <br> MSL <br> SMAP |        DVGCRN        | [Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection](https://proceedings.mlr.press/v162/chen22x.html) | [Future](https://github.com/BoChenGroup) | ICML 2022
 |  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022
 |  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022
