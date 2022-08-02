@@ -597,8 +597,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 # [Conferences](#content)
 
 
-❗ 建议使用 [dblp](https://dblp.uni-trier.de/) 和 [Aminer](https://www.aminer.cn/conf)查询
-
 ❗ It is highly recommended to utilize [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf) (in Chinese) to search.
 
 Some more useful websites:
