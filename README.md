@@ -221,6 +221,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| probability & |   Stock Price  <br>  Wind Speed|         Volat        | [Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes](https://proceedings.mlr.press/v162/benton22a.html) |   [Pytorch,GPyTorch](https://github.com/g-benton/Volt)     | ICML 2022
 | probability & <br> Point & <br> Others |   electricity  <br>  Yacht <br> Boston, etc |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022
 | probability  | IRIS <br> Digits <br> EightSchools    |         EMF        | [Embedded-model flows: Combining the inductive biases of model-free deep learning and explicit probabilistic modeling](https://openreview.net/forum?id=9pEJSVfDbba) | [Pytorch](https://github.com/gisilvs/EmbeddedModelFlows) | ICLR 2022
 | probability  | Bike Sharing <br> UCI <br> NYU Depth v2  |         NatPN        | [Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://www.in.tum.de/daml/natpn/) | [Pytorch](https://github.com/borchero/natural-posterior-network) | ICLR 2022
