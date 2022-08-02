@@ -606,7 +606,7 @@ Some more useful websites:
 - Conference eye (会议之眼): https://www.conferenceeye.cn/#/layout/home
 - Call4Papers: http://123.57.137.208/ccf/ccf-8.jsp
 - Conference list: http://www.conferencelist.info/upcoming.html
-
+- PMLR: https://proceedings.mlr.press/    （contains ICML, AISTATS, ACML, UAI, etc）
 ## Table of Conferences
 
 |Conference | Approximate submission time |
@@ -663,6 +663,7 @@ Note that: AISTAT is CCF C but is top in computational mathematics (such as for 
 
 ## ICML
 
+>  Proceeding Page https://proceedings.mlr.press/
 >  Homepage https://icml.cc
 
 | Conference | Source                                                     | Deadline | Notification |
