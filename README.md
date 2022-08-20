@@ -1,6 +1,6 @@
 # Time-Series Works and Conferences
 
-# Backlog (To do): [KDD 2022](https://dl.acm.org/doi/proceedings/10.1145/3534678), [ICDE 2022](https://ieeexplore.ieee.org/xpl/conhome/9835153/proceeding)
+# Backlog (To do): [ICDE 2022](https://ieeexplore.ieee.org/xpl/conhome/9835153/proceeding)
 
 **Visit our [GitHub Page](https://tatsuyad7.github.io/Time-Series-Work-Conference/) for a better view.**
 
