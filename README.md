@@ -9,8 +9,11 @@
 Some other nice time-series repositories:
 
 [xiyuanzh/time-series-papers](https://github.com/xiyuanzh/time-series-papers)
+
 [qingsongedu/awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers)
+
 [xuehaouwa/Awesome-Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)
+
 [My Time-series Repo-Star List](https://github.com/stars/lixus7/lists/time-series-list)
 
 <div align="center">
