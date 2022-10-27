@@ -2,7 +2,7 @@
 
 # Backlog (To do): [ICDE 2022](https://ieeexplore.ieee.org/xpl/conhome/9835153/proceeding), NeurIPS 2022, CIKM 2022
 
-**Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Work-Conference/) for a better view.**
+**Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
 <a href="#Conferences">Click here to jump to the Conferences page with more information about the conferences.</a>
 
