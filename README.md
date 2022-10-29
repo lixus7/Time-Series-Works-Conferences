@@ -1,6 +1,6 @@
 # Time-Series Works and Conferences
 
-# Backlog (To do): [ICDE 2022](https://ieeexplore.ieee.org/xpl/conhome/9835153/proceeding), NeurIPS 2022, CIKM 2022
+# Backlog (To do): [ICDE 2022](https://ieeexplore.ieee.org/xpl/conhome/9835153/proceeding), NeurIPS 2022, CIKM 2022, WSDM2023
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
