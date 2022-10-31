@@ -1,6 +1,6 @@
 # Time-Series Works and Conferences
 
-# Backlog (To do): [ICDE 2022](https://ieeexplore.ieee.org/xpl/conhome/9835153/proceeding), NeurIPS 2022, CIKM 2022, WSDM2023
+# Backlog (To do): NeurIPS 2022, CIKM 2022, WSDM2023
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
@@ -120,17 +120,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Multivariable | GoogleSymptoms  <br> Covid19  <br> Power <br> Tweet |         CAMul     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512037) |  [Pytorch](https://github.com/AdityaLab/CAMul)  | WWW 2022
 | Multivariable | Electricity <br> Stock  |         MRLF     | [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://doi.org/10.1145/3485447.3512056) | [Pytorch](https://github.com/CMLF-git-dev/MRLF) | WWW 2022
 | Multivariable <br> Classification <br> Forecasting | MuJoCo  <br> Google Stock  |         EXIT     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512030) | None | WWW 2022
-
-
-
 | Traffic Flow | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |   ST-WA    | [Towards Spatio- Temporal Aware Traffic Time Series Forecasting](https://ieeexplore.ieee.org/document/9835586) | [Pytorch](https://github.com/razvanc92/ST-WA) | ICDE 2022
 | Traffic Flow | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |   ST-WA    | [Prediction Intervals for Learned Cardinality Estimation: An Experimental Evaluation](https://ieeexplore.ieee.org/abstract/document/9835501) | [Pytorch](https://github.com/razvanc92/ST-WA) | ICDE 2022
-
-
-
-
-
-
 | Mobility <br> Prediction  | NYC <br> Dallas  <br>  Miami  |       SHIFT   | [Translating Human Mobility Forecasting through Natural Language Generation](https://doi.org/10.1145/3488560.3498387) | [Hao Xue](https://github.com/xuehaouwa) | WSDM 2022
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022
 | Multivariable | M4 <br> Electricity <br> car-parts  |         TopAttn     | [Topological Attention for Time Series Forecasting](https://NeurIPS.cc/Conferences/2021/ScheduleMultitrack?event=26763) | [Pytorch](https://github.com/plus-rkwitt/TAN)<br> Future | NeurIPS 2021
@@ -262,14 +253,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022
 | probability | ETT <br> Solar <br> Electricity  |        KLST       | [Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts](https://doi.org/10.24963/ijcai.2022/404) |  [Pytorch](https://github.com/pratham16cse/AggForecaster)  | IJCAI 2022
 | probability | Exchange <br> Solar <br>  Electricity <br> Traffic <br> Wiki |        EMSSM       | [Memory Augmented State Space Model for Time Series Forecasting](https://doi.org/10.24963/ijcai.2022/479) |  None  | IJCAI 2022
-
-
-
 | Prediction <br> Intervals | DMV <br>  Census <br>  Forest <br>  Power |        Evaluation       | [Prediction Intervals for Learned Cardinality Estimation: An Experimental Evaluation](https://doi.org/10.24963/ijcai.2022/404) |  None | ICDE 2022
-
-
-
-
 | probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Function without Quantile Crossing for Distribution-free Time Series Forecasting](https://proceedings.mlr.press/v151/park22a.html) | [GluonTS](https://github.com/awslabs/gluonts/blob/4fef7e26470d15096b11b005be846dedf87fb736/src/gluonts/torch/distributions/isqf.py) | AISTAT 2022
 | probability  |  M4 <br> Traffic <br>  Electricity    |     Robust     | [Robust Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.11910) | [GluonTS](https://github.com/tetrzim/robust-probabilistic-forecasting)  | AISTAT 2022
 | probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [GluonTS](https://github.com/awslabs/gluon-ts/tree/master/src/GluonTS/torch/model/mqf2)  | AISTAT 2022
