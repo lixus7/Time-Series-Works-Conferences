@@ -120,6 +120,17 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Multivariable | GoogleSymptoms  <br> Covid19  <br> Power <br> Tweet |         CAMul     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512037) |  [Pytorch](https://github.com/AdityaLab/CAMul)  | WWW 2022
 | Multivariable | Electricity <br> Stock  |         MRLF     | [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://doi.org/10.1145/3485447.3512056) | [Pytorch](https://github.com/CMLF-git-dev/MRLF) | WWW 2022
 | Multivariable <br> Classification <br> Forecasting | MuJoCo  <br> Google Stock  |         EXIT     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512030) | None | WWW 2022
+
+
+
+| Traffic Flow | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |   ST-WA    | [Towards Spatio- Temporal Aware Traffic Time Series Forecasting](https://ieeexplore.ieee.org/document/9835586) | [Pytorch](https://github.com/razvanc92/ST-WA) | ICDE 2022
+| Traffic Flow | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |   ST-WA    | [Prediction Intervals for Learned Cardinality Estimation: An Experimental Evaluation](https://ieeexplore.ieee.org/abstract/document/9835501) | [Pytorch](https://github.com/razvanc92/ST-WA) | ICDE 2022
+
+
+
+
+
+
 | Mobility <br> Prediction  | NYC <br> Dallas  <br>  Miami  |       SHIFT   | [Translating Human Mobility Forecasting through Natural Language Generation](https://doi.org/10.1145/3488560.3498387) | [Hao Xue](https://github.com/xuehaouwa) | WSDM 2022
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022
 | Multivariable | M4 <br> Electricity <br> car-parts  |         TopAttn     | [Topological Attention for Time Series Forecasting](https://NeurIPS.cc/Conferences/2021/ScheduleMultitrack?event=26763) | [Pytorch](https://github.com/plus-rkwitt/TAN)<br> Future | NeurIPS 2021
@@ -236,6 +247,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 
 
 
+
+
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
@@ -249,6 +262,14 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | probability & Point | Sichuan <br> Panama |         PrEF        | [PrEF: Probabilistic Electricity Forecasting via Copula-Augmented State Space Model](https://aaai-2022.virtualchair.net/poster_aisi7128) | None | AAAI 2022
 | probability | ETT <br> Solar <br> Electricity  |        KLST       | [Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts](https://doi.org/10.24963/ijcai.2022/404) |  [Pytorch](https://github.com/pratham16cse/AggForecaster)  | IJCAI 2022
 | probability | Exchange <br> Solar <br>  Electricity <br> Traffic <br> Wiki |        EMSSM       | [Memory Augmented State Space Model for Time Series Forecasting](https://doi.org/10.24963/ijcai.2022/479) |  None  | IJCAI 2022
+
+
+
+| Prediction <br> Intervals | DMV <br>  Census <br>  Forest <br>  Power |        Evaluation       | [Prediction Intervals for Learned Cardinality Estimation: An Experimental Evaluation](https://doi.org/10.24963/ijcai.2022/404) |  None | ICDE 2022
+
+
+
+
 | probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Function without Quantile Crossing for Distribution-free Time Series Forecasting](https://proceedings.mlr.press/v151/park22a.html) | [GluonTS](https://github.com/awslabs/gluonts/blob/4fef7e26470d15096b11b005be846dedf87fb736/src/gluonts/torch/distributions/isqf.py) | AISTAT 2022
 | probability  |  M4 <br> Traffic <br>  Electricity    |     Robust     | [Robust Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.11910) | [GluonTS](https://github.com/tetrzim/robust-probabilistic-forecasting)  | AISTAT 2022
 | probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [GluonTS](https://github.com/awslabs/gluon-ts/tree/master/src/GluonTS/torch/model/mqf2)  | AISTAT 2022
@@ -348,14 +369,18 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Anomaly Detection | ECG <br> HAR <br> MNIST  |          | [Understanding and Mitigating Data Contamination in Deep Anomaly Detection: A Kernel-based Approach](https://doi.org/10.24963/ijcai.2022/322) | None | IJCAI 2022
 |  Anomaly Detection | Business|       SLA-VAE       | [A Semi-Supervised VAE Based Active Anomaly Detection Framework in Multivariate Time Series for Online Systems](https://doi.org/10.1145/3485447.3511984) | None| WWW 2022
 |  Anomaly Detection |  KDDCUP99 <br>  NSL   <br>  UNSW, etc |      MemStream       | [MemStream: Memory-Based Streaming Anomaly Detection](https://doi.org/10.1145/3485447.3511984) |  [Pytorch](https://github.com/Stream-AD/MemStream)| WWW 2022
+|  Anomaly Detection | GD <br> HSS <br> ECG <br> NAB <br> Yahoo S5 <br>  2D <br>  SYN |        RDAE        | [Robust and Explainable Autoencoders for Unsupervised Time Series Outlier Detection](https://ieeexplore.ieee.org/document/9835554) | [Author](https://github.com/tungk) | ICDE 2022
+|  Anomaly Detection | GD <br> HSS <br> ECG <br> TD <br> Yahoo S5   |        BiVQRAEs        | [Anomaly Detection in Time Series with Robust Variational Quasi-Recurrent Autoencoders](https://ieeexplore.ieee.org/document/9835268) | [Pytorch](https://github.com/tungk/Bi-VQRAE) | ICDE 2022
+|  Anomaly Detection | SWaT <br> WADI <br> BATADAL  |        MAD-SGCN        | [MAD-SGCN: Multivariate Anomaly Detection with Self-learning Graph Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9835470) | None  | ICDE 2022
 |  Anomaly Detection | NAB <br> UCR <br> MBA <br> SMAP <br>  MSL <br> SWaT <br> WADI <br> SMD <br> MSDS   |       TranAD     | [TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data](https://arxiv.org/abs/2201.07284) | [Pytorch](https://github.com/imperial-qore/TranAD) | VLDB 2022
-|  Anomaly Detection |  SMD  |       FDRC   | [Online false discovery rate control for anomaly detection in time series](https://dl.acm.org/doi/10.1145/3447548.3467075) | None  | NeurIPS 2021
+|  Anomaly Detection |  SMD  |       FDRC   | [Online false discovery rate control for anomaly detection in time series](https://dl.acm.org/doi/10.1145/3447548.3467075) | Nçone  | NeurIPS 2021
 |  Anomaly Detection |  SWaT <br> WADI <br> SMD <br> ASD  |       InterFusion   | [Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding](https://papers.NeurIPS.cc/paper/2021/hash/def130d0b67eb38b7a8f4e7121ed432c-Abstract.html) |  [TF](https://github.com/zhhlee/InterFusion)  | KDD 2021
 |  Anomaly Detection |  SMD <br> SWaT <br> PSM <br> BKPI  |       RANSynCoders   | [Practical Approach to Asynchronous Multivariate Time Series Anomaly Detection and Localization](https://doi.org/10.1145/3447548.3467174) |  [TF](https://github.com/eBay/RANSynCoders)  | KDD 2021
 |  Anomaly Detection |  PUMP <br> WADI <br> SWaT  |       NSIBF   | [Time Series Anomaly Detection for Cyber-physical Systems via Neural System Identification and Bayesian Filtering](https://doi.org/10.1145/3447548.3467137) |  [TF](https://github.com/NSIBF/NSIBF)  | KDD 2021
 |  Anomaly Detection |  SWaT <br> WADI   |       GDN   | [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) |  [Pytorch](https://github.com/d-ailin/GDN)  | AAAI 2021
 |  Anomaly Detection | SMD <br> SMAP <br> MSL <br> SWaT  |       DAEMON   | [DAEMON: Unsupervised Anomaly Detection and Interpretation for Multivariate Time Series](https://ieeexplore.ieee.org/abstract/document/9458835) |  [Future](https://github.com/Azerrroth/DAEMON)  | ICDE 2021
 |  Anomaly Detection |  KPI <br> Yahoo   |      FluxEV   | [FluxEV: A Fast and Effective Unsupervised Framework for Time-Series Anomaly Detection](https://doi.org/10.1145/3437963.3441823) |  None   | WSDM 2021
+|  Anomaly Detection | [DataLink](https://compete.hexagon-ml.com/practice/competition/39/)|        Benchmark        | [Current Time Series Anomaly Detection Benchmarks are Flawed and are Creating the Illusion of Progress](https://ieeexplore.ieee.org/abstract/document/9537291) | None | TKDE 2021
 |  Earthquakes Detection |  NIED   |       CrowdQuake   | [A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning](https://doi.org/10.1145/3394486.3403378) |  [TF](https://github.com/xhuang2016/Seismic-Detection)    | KDD 2020
 |  Anomaly Detection |  SWaT  <br> WADI <br> SMD  <br>  SMAP <br> MSL <br>  Orange |       USAD   | [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://doi.org/10.1145/3394486.3403392) |   [Pytorch](https://github.com/manigalati/usad)   | KDD 2020
 |  Anomaly Detection |  NYC  |       CHAT   | [Cross-interaction hierarchical attention networks for urban anomaly prediction](https://dl.acm.org/doi/abs/10.5555/3491440.3492041) |  None  | IJCAI 2020
@@ -391,6 +416,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Supply & <br> Demand | JONAS-NYC <br> JONAS-DC  <br>  COVID-CHI <br>  COVID-US |         EAST-Net | [Event-Aware Multimodal Mobility Nowcasting](https://aaai-2022.virtualchair.net/poster_aaai10914) | [Pytorch](https://github.com/underdoc-wang/EAST-Net) | AAAI 2022
 | Health Demand | Family Van  |         framework        | [Using Public Data to Predict Demand for Mobile Health Clinics](https://aaai-2022.virtualchair.net/poster_emer91) | None | AAAI 2022
 | Traffic Demand  | BJMetro <br> NYCTaxi  |       HMOD      | [Dynamic Graph Learning Based on Hierarchical Memory for Origin-Destination Demand Prediction](https://doi.org/10.24963/ijcai.2022/331) |   [Pytorch](https://github.com/Rising0321/HMOD)  | IJCAI 2022
+| Traffic Demand  | Chicago  <br> LosAngeles  |       STGNN-DJD      | [A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction](https://ieeexplore.ieee.org/abstract/document/9835338) |   [Pytorch](https://github.com/GuanyaoLI/STGNN)  | ICDE 2022
 | Traffic Demand | NYC Bike <br> NYC Taxi  |         CCRNN        | [Coupled Layer-wise Graph Convolution for Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16591) | [Pytorch](https://github.com/Essaim/CGCDemandPrediction) | AAAI 2021
 | Traffic Demand | BaiduBJ  <br> BaiduSH  |         Ada-MSTNet        | [Community-Aware Multi-Task Transportation Demand Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/16107) | None | AAAI 2021
 | Job Demand | Online |         TDAN       | [Talent Demand Forecasting with Attentive Neural Sequential Model](https://dl.acm.org/doi/abs/10.1145/3447548.3467131) | None | KDD 2021
@@ -588,6 +614,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Soil Moisture <br> Forecasting | Spain <br> USA |         DGLR     | [Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture](https://doi.org/10.24963/ijcai.2022/720) | [Pytorch](https://github.com/AnoushkaVyas/DGLR)  | IJCAI 2022
 | Disease Prediction | Disease <br> Tumors   |         PopNet     | [PopNet: Real-Time Population-Level Disease Prediction with Data Latency](https://doi.org/10.1145/3485447.3512127) | [Pytorch](https://github.com/v1xerunt/PopNet) | WWW 2022
 | FakeNews Detection | Snop <br> PolitiFact  |         GET     | [Evidence-aware Fake News Detection with Graph Neural Networks](https://doi.org/10.1145/3485447.3512122) | [Keras](https://github.com/CRIPAC-DIG/GET) | WWW 2022
+| Crime Prediction | NYC <br> Chicago |         ST-HSL     | [Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction](https://ieeexplore.ieee.org/document/9835423) | [Pytorch](https://github.com/LZH-YS1998/STHSL) | ICDE 2022
 | Churn Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022
 | Streaming <br> Traffic Flow  | PEMSD3    |         TrafficStream     | [TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning](https://www.ijcai.org/proceedings/2021/498/) | [Pytorch](https://github.com/AprLie/TrafficStream) | IJCAI 2021
 | Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [TF](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021
