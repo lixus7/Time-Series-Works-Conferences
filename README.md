@@ -127,9 +127,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Multivariable | Rainfall <br> Traffic  <br> ETT <br> Stock <br> Climate   |      DXtreMM   | [Deep Extreme Mixture Model for Time Series Forecasting](https://doi.org/10.1145/3511808.3557282) |  [Pytorch](https://github.com/DXtreMM/DXtreMM_TSF) | CIKM 2022
 |  MTS Analysis <br> MTS Forecasting <br> Anormaly Detection | ETT <br> Electricity  <br> SMD <br> SMAP <br> MSL <br> SWaT  |      MARINA   | [MARINA: An MLP-Attention Model for Multivariate Time-Series](https://doi.org/10.1145/3511808.3557386) |  None| CIKM 2022
 | Traffic Speed | METR-LA <br>  PeMS-BAY   |      ResCAL   | [Residual Correction in Real-Time Traffic Forecasting](3511808.3557432) |  None | CIKM 2022
-
-
-
 | Model Selection |     |      AutoForecast   | [AutoForecast: Automatic Time-Series Forecasting Model Selection](https://doi.org/10.1145/3511808.3557241) | None | CIKM 2022
 | Multivariable | M4 <br> Electricity <br> car-parts  |         TopAttn     | [Topological Attention for Time Series Forecasting](https://NeurIPS.cc/Conferences/2021/ScheduleMultitrack?event=26763) | [Pytorch](https://github.com/plus-rkwitt/TAN)<br> Future | NeurIPS 2021
 | Multivariable | Rossmann <br> M5 <br> Wiki  |         MisSeq     | [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://proceedings.neurips.cc/paper/2021/hash/6b5754d737784b51ec5075c0dc437bf0-Abstract.html) | None | NeurIPS 2021
