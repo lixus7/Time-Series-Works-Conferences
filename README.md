@@ -121,13 +121,21 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Multivariable | Electricity <br> Stock  |         MRLF     | [Multi-Granularity Residual Learning with Confidence Estimation for Time Series Prediction](https://doi.org/10.1145/3485447.3512056) | [Pytorch](https://github.com/CMLF-git-dev/MRLF) | WWW 2022
 | Multivariable <br> Classification <br> Forecasting | MuJoCo  <br> Google Stock  |         EXIT     | [EXIT: Extrapolation and Interpolation-based Neural Controlled Differential Equations for Time-series Classification and Forecasting](https://doi.org/10.1145/3485447.3512030) | None | WWW 2022
 | Traffic Flow | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |   ST-WA    | [Towards Spatio- Temporal Aware Traffic Time Series Forecasting](https://ieeexplore.ieee.org/document/9835586) | [Pytorch](https://github.com/razvanc92/ST-WA) | ICDE 2022
-| Traffic Flow | PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08 |   ST-WA    | [Prediction Intervals for Learned Cardinality Estimation: An Experimental Evaluation](https://ieeexplore.ieee.org/abstract/document/9835501) | [Pytorch](https://github.com/razvanc92/ST-WA) | ICDE 2022
 | Mobility <br> Prediction  | NYC <br> Dallas  <br>  Miami  |       SHIFT   | [Translating Human Mobility Forecasting through Natural Language Generation](https://doi.org/10.1145/3488560.3498387) | [Hao Xue](https://github.com/xuehaouwa) | WSDM 2022
 | Traffic Flow | TaxiBJ <br> BikeNYC |         ST-GSP     | [ST-GSP: Spatial-Temporal Global Semantic Representation Learning for Urban Flow Prediction](https://dl.acm.org/doi/abs/10.1145/3488560.3498444) | [Pytorch](https://github.com/k51/STGSP) | WSDM 2022
 |  Multivariable | Rainfall <br> Traffic  <br> ETT <br> Stock <br> Climate   |      DXtreMM   | [Deep Extreme Mixture Model for Time Series Forecasting](https://doi.org/10.1145/3511808.3557282) |  [Pytorch](https://github.com/DXtreMM/DXtreMM_TSF) | CIKM 2022
 |  MTS Analysis <br> MTS Forecasting <br> Anormaly Detection | ETT <br> Electricity  <br> SMD <br> SMAP <br> MSL <br> SWaT  |      MARINA   | [MARINA: An MLP-Attention Model for Multivariate Time-Series](https://doi.org/10.1145/3511808.3557386) |  None| CIKM 2022
 | Traffic Speed | METR-LA <br>  PeMS-BAY   |      ResCAL   | [Residual Correction in Real-Time Traffic Forecasting](3511808.3557432) |  None | CIKM 2022
 | Model Selection |     |      AutoForecast   | [AutoForecast: Automatic Time-Series Forecasting Model Selection](https://doi.org/10.1145/3511808.3557241) | None | CIKM 2022
+|   Traffic Flow |  PEMS04 <br>  PEMS07  <br> PEMS08    |      DastNet   | [Domain Adversarial Spatial-Temporal Network: A Transferable Framework for Short-term Traffic Forecasting across Cities](https://doi.org/10.1145/3511808.3557294) |  [Pytorch](https://github.com/YihongT/DASTNet) | CIKM 2022
+
+
+
+
+
+
+
+
 | Multivariable | M4 <br> Electricity <br> car-parts  |         TopAttn     | [Topological Attention for Time Series Forecasting](https://NeurIPS.cc/Conferences/2021/ScheduleMultitrack?event=26763) | [Pytorch](https://github.com/plus-rkwitt/TAN)<br> Future | NeurIPS 2021
 | Multivariable | Rossmann <br> M5 <br> Wiki  |         MisSeq     | [MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data](https://proceedings.neurips.cc/paper/2021/hash/6b5754d737784b51ec5075c0dc437bf0-Abstract.html) | None | NeurIPS 2021
 | Multivariable | ETT <br> Electricity <br> Exchange <br> Traffic <br> Weather <br> ILI |         Autoformer     | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://openreview.net/forum?id=J4gRj6d5Qm) | [Pytorch](https://github.com/thuml/Autoformer) | NeurIPS 2021
@@ -609,6 +617,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | FakeNews Detection | Snop <br> PolitiFact  |         GET     | [Evidence-aware Fake News Detection with Graph Neural Networks](https://doi.org/10.1145/3485447.3512122) | [Keras](https://github.com/CRIPAC-DIG/GET) | WWW 2022
 | Crime Prediction | NYC <br> Chicago |         ST-HSL     | [Spatial-Temporal Hypergraph Self-Supervised Learning for Crime Prediction](https://ieeexplore.ieee.org/document/9835423) | [Pytorch](https://github.com/LZH-YS1998/STHSL) | ICDE 2022
 | Popularity <br> Prediction | WbTopic <br> WbRepost  <br> Twitter |      HERI-GCN    | [Deep Popularity Prediction in Multi-Source Cascade with HERI-GCN](https://ieeexplore.ieee.org/document/9835455) | [Pytorch](https://github.com/Les1ie/HERI-GCN) | ICDE 2022
+|   Pandemic  Forecasting  |  Large-MG    |      HiSTGNN   | [Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting](https://doi.org/10.1145/3511808.3557350) | None| CIKM 2022
 | Churn Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022
 | Streaming <br> Traffic Flow  | PEMSD3    |         TrafficStream     | [TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning](https://www.ijcai.org/proceedings/2021/498/) | [Pytorch](https://github.com/AprLie/TrafficStream) | IJCAI 2021
 | Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [TF](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021
