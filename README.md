@@ -1,6 +1,6 @@
 # Time-Series Works and Conferences
 
-# Backlog (To do): NeurIPS 2022, CIKM 2022, WSDM2023
+# Backlog (To do): NeurIPS 2022, WSDM2023
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
