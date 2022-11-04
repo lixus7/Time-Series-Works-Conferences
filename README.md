@@ -637,8 +637,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |   Pandemic  Forecasting  |  Large-MG    |      HiSTGNN   | [Hierarchical Spatio-Temporal Graph Neural Networks for Pandemic Forecasting](https://doi.org/10.1145/3511808.3557350) | None| CIKM 2022
 |   Search Traffic <br> Forecasting  |  M5 <br> FGSF <br>  SQTE |      STARDOM   | [STARDOM: Semantic Aware Deep Hierarchical Forecasting Model for Search Traffic Prediction](https://doi.org/10.1145/3511808.3557102) | None| CIKM 2022
 |  Crime Prediction  |   NYC <br> Chicago |      LTFMs   | [Locality Aware Temporal FMs for Crime Prediction](https://doi.org/10.1145/3511808.3557657) | None| CIKM 2022
-| Energy Markets |  Nordpool |      None   | [A Graph-based Spatiotemporal Model for Energy Markets
-](https://doi.org/10.1145/3511808.3557530) | None| CIKM 2022
+| Energy Markets |  Nordpool |      None   | [A Graph-based Spatiotemporal Model for Energy Markets](https://doi.org/10.1145/3511808.3557530) | None| CIKM 2022
 | Churn Prediction | Beidian <br> Epinions  |        CFChurn    | [A Counterfactual Modeling Framework for Churn Prediction](https://doi.org/10.1145/3488560.3498468) |     [Pytorch](https://github.com/tsinghua-fib-lab/CFChurn)   | WSDM 2022
 | Streaming <br> Traffic Flow  | PEMSD3    |         TrafficStream     | [TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning](https://www.ijcai.org/proceedings/2021/498/) | [Pytorch](https://github.com/AprLie/TrafficStream) | IJCAI 2021
 | Crime Prediction | NYC <br> Chicago  |         ST-SHN     | [Spatial-Temporal Sequential Hypergraph Network for Crime Prediction with Dynamic Multiplex Relation Learning](https://www.ijcai.org/proceedings/2021/0225.pdf) |     [TF](https://github.com/akaxlh/ST-SHN)   | IJCAI 2021
