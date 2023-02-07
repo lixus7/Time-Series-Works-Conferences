@@ -26,15 +26,15 @@ Some other nice time-series repositories:
 <a href="https://github.com/lixus7/Time-Series-Works-Conferences/blob/main/docs/img/WeChat.jpeg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
-> I have a strong interest in time-series research, if you are interested too, welcome to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me to discuss problems and keep moving together.
-<br> I'm a stupid and foolish continuer. In the future, i will pursue a doctoral degree under the supervision of Prof. [Flora Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ&view_op=list_works&sortby=pubdate) and Prof. [Hao Xue](https://scholar.google.com/citations?user=KwhLl7IAAAAJ&hl=zh-CN&oi=ao) in UNSW Sydney. I received my B.S. degree in EE from Wuhan University, Wuhan, China. I was then awarded an M.S. degree in Dept. Computer Science and Engineering, Southern University of Science and Technology, Shenzhen, China, supervised by [Professor Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao) during the master career. 
+> I have a strong interest in time-series research and I welcome those who share the same interest to ⬆️⬆️⬆️⬆️⬆️⬆️ contact me for discussions and collaborative efforts.
+<br> I am currently pursuing a doctoral degree under the supervision of Prof. [Flora Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ&view_op=list_works&sortby=pubdate) and [Hao Xue](https://scholar.google.com/citations?user=KwhLl7IAAAAJ&hl=zh-CN&oi=ao) in UNSW Sydney. I received my Bachelor of Science degree in Electrical Engineering from Wuhan University, China and my Master of Science degree in Computer Science and Engineering from Southern University of Science and Technology in Shenzhen, China, where I was supervised by Prof. [Xuan Song](https://scholar.google.com/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao) and guided by Dr. [Quanjun Chen](https://scholar.google.com/citations?user=_PKwzTwAAAAJ&hl=zh-CN&oi=ao), Dr. [Renhe Jiang](https://www.renhejiang.com/) and [Jinliang Deng](https://scholar.google.com/citations?user=oaoJ2AYAAAAJ&hl=zh-CN&oi=ao). 
 
-The task part has been completed, and we will continue to update the methodology part. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. Welcome to contact me for collaboration with this work!
+The task section has been completed and we will continue to update the methodology section. If you encounter any missing resources (papers/code) or errors, please don't hesitate to open an issue or make a pull request. Additionally, if you're interested in collaborating on this work, please feel free to reach out to me.
 
-All papers grouped by task and methodology (including the papers that have not been included in this github) will be placed on the **OneDrive and GoogleDrive** (VPN is required) for everyone to use (the rest nearly 10% of the methodology part is going on):
+All papers are organized by task and methodology, including those not included in this GitHub repository, and are available for everyone to use on OneDrive and Google Drive (VPN required). The methodology section is still in progress.
 
 [OneDrive](https://1drv.ms/u/s!Au2cJRs-_u93lDbLrSDkDy8htv2V?e=ftuaXd)
-
+ 
 [Google Drive](https://drive.google.com/drive/folders/17bILWdDxUrufRp3yilYfoU5VKywwS1g6?usp=sharing)
 
 
