@@ -582,6 +582,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:29 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Stock Movement <br> Prediction | S&P 500 |         ESTIMATE      | [Efficient Integration of Multi-Order Dynamics and Internal Dynamics in Stock Movement Prediction](https://doi.org/10.1145/3539597.3570427) | [Pytorch](https://github.com/thanhtrunghuynh93/estimate) | WSDM 2023
 | Stock Movement <br> Prediction | Calls |         NumHTML      | [NumHTML: Numeric-Oriented Hierarchical Transformer Model for Multi-task Financial Forecasting](https://aaai-2022.virtualchair.net/poster_aaai4799) | [Future,Author](https://github.com/YangLinyi) | AAAI 2022
 | Stock Prediction | NASDAQ <br> NYSE  <br>  TSE |         ALSP-TF      | [Adaptive Long-Short Pattern Transformer for Stock Investment Selection](https://doi.org/10.24963/ijcai.2022/551) | None | IJCAI 2022
 | Stock Prediction | S&P 500 <br> Ashare&HK |        HISN     | [Heterogeneous Interactive Snapshot Network for Review-Enhanced Stock Profiling and Recommendation](https://doi.org/10.24963/ijcai.2022/550) | None | IJCAI 2022
@@ -627,6 +628,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:38 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Telecommunication  <br> Traffic  <br> Forecasting  | Milan (MI) <br> Trentino (TN) |        TMLM    | [Telecommunication Traffic Forecasting via Multi-task Learning](https://doi.org/10.1145/3539597.3570440) |     [Author](https://github.com/gpxlcj)   | WSDM 2022
+| Bitcoin   <br> Volatility  <br> Forecasting  | Twitter |        TMLM    | [Ask "Who", Not "What": Bitcoin Volatility Forecasting with Twitter Data](https://doi.org/10.1145/3539597.3570387) |     [TF](https://github.com/meakbiyik/ask-who-not-what)   | WSDM 2022
 | Rating <br>  Migration  <br> Prediction |  Self |      META      | [Multi-task Envisioning Transformer-based Autoencoder for Corporate Credit Rating Migration Early Prediction](https://doi.org/10.1145/3534678.3539098) | None | KDD 2022
 | COVID-19 <br> Prediction | TokyoCOVID19  |        SAB-GNN       | [Multiwave COVID-19 Prediction from Social Awareness Using Web Search and Mobility Data](https://doi.org/10.1145/3534678.3539172) | [Pytorch](https://github.com/JiaweiXue/MultiwaveCovidPrediction) | KDD 2022
 | Service  <br> Time <br> Prediction | DowBJ  <br> SubBJ |        MetaSTP       | [Service Time Prediction for Delivery Tasks via Spatial Meta-Learning](https://doi.org/10.1145/3534678.3539027) | None | KDD 2022
