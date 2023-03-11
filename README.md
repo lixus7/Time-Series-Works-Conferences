@@ -362,9 +362,10 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums: 32  | <img width=90/> |      |     |     |  <img width=320/> |
+|  Anomaly Detection |SMD <br> SMAP <br> MSL <br> SWaT  |        DAEMON        | [Adversarial Autoencoder for Unsupervised Time Series Anomaly Detection and Interpretation](https://doi.org/10.1145/3539597.3570371) | [Pytorch](https://github.com/Sherlock-C/DAEMON) | WSDM 2023
 |  Anomaly Detection | DND <br> SMD <br> MSL <br> SMAP |        DVGCRN        | [Deep Variational Graph Convolutional Recurrent Network for Multivariate Time Series Anomaly Detection](https://proceedings.mlr.press/v162/chen22x.html) | [Future](https://github.com/BoChenGroup) | ICML 2022
 |  Anomaly Detection | YelpChi <br> Amazon <br> T-Finance <br> T-Social  |        BWGNN        | [Rethinking Graph Neural Networks for Anomaly Detection](https://proceedings.mlr.press/v162/tang22b.html) | [Pytorch](https://github.com/squareRoot3/Rethinking-Anomaly-Detection) | ICML 2022
-|  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT NeurIPS-TS <br> |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022
+|  Anomaly Detection | SMD <br> PSM <br> MSL&SMAP <br> SWaT  <br> NeurIPS-TS |         Anomaly Transformer        | [Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy](https://openreview.net/forum?id=LzQQ89U1qm_) | [Pytorch](https://github.com/spencerbraun/anomaly_transformer_pytorch) | ICLR 2022
 | Density Estimation & Anomaly Detection | PMU-B <br> PMU-C <br> SWaT <br> METR-LA |         GANF        | [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://openreview.net/forum?id=45L_dgP48Vd) | [Pytorch](https://github.com/EnyanDai/GANF) | ICLR 2022
 |  Anomaly Detection |    |          | [Anomaly Detection for Tabular Data with Internal Contrastive Learning](https://openreview.net/forum?id=_hszZbt46bT) | None | ICLR 2022
 |  Anomaly Detection |  Machine-Temp <br> NYCTaxi  <br> Twitter <br> SWaT |       algorithmic   | [Local Evaluation of Time Series Anomaly Detection Algorithms](https://doi.org/10.1145/3534678.3539339) | [Python](https://github.com/ahstat/affiliation-metrics-py) | KDD 2022
@@ -472,6 +473,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
 | Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Delivery <br> Time Estimation | Weihai <br> Hangzhou |        IGT       | [Inductive Graph Transformer for Delivery Time Estimation](https://doi.org/10.1145/3539597.3570409) | [Pytorch](https://github.com/enoche/IGT-WSDM23) | WSDM 2023
 | TTE | Beijing <br> Guangzhou |        HierETA       | [Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival](https://doi.org/10.1145/3534678.3539051) | [Pytorch](https://github.com/YuejiaoGong/HierETA) | KDD 2022
 | TTE | Beijing <br> Porto |         MetaER-TTE        | [MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation](https://doi.org/10.24963/ijcai.2022/281) | None | IJCAI 2022
 | TTE | Beijing <br> Shanghai <br> Tianjin |        DuETA       | [DuETA: Traffic Congestion Propagation Pattern Modeling via Efficient Graph Learning for ETA Prediction at Baidu Maps](https://doi.org/10.1145/3511808.3557091) | None | CIKM 2022
