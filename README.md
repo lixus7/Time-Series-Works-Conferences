@@ -68,7 +68,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Temporal Graph Network             |  TGN    |   
 | Transformer                        |  Trans  |  
 | Transfer Learning                  |  TransL |    
-| Variational Auto-Encoder           |  VAE   |
+| Variational Auto-Encoder           |  VAE    |
 
 # Recent Time Series Works Grouped by Task
 
@@ -93,6 +93,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Multivariable |  ETT <br> Electricity  <br> Traffic  <br> Weather  |   FSNet   | [Learning Fast and Slow for Time Series Forecasting](https://openreview.net/forum?id=q-PbpHD3EOk) | [Pytorch](https://github.com/salesforce/fsnet) | ICLR 2023
 | Robust <br> Multivariable |  Traffic <br> Taxi  <br> Wiki  <br> Electricity  |        | [Robust Multivariate Time-Series Forecasting: Adversarial Attacks and Defense Mechanisms](https://openreview.net/forum?id=ctmLBs8lITa) | [Amazon](https://github.com/awslabs/gluonts/tree/dev/src/gluonts/nursery) | ICLR 2023
 | Multivariable |  Electricity <br> Crypto  <br> M4  <br> Traffic <br> Exchange |   KNF     | [Koopman Neural Operator Forecaster for Time-series with Temporal Distributional Shifts](https://openreview.net/forum?id=kUmdmHxK5N) | [Pytorch](https://github.com/google-research/google-research/tree/master/KNF) | ICLR 2023
+| Multivariable |  ETT <br> Weather  <br> Electricity  <br> Traffic <br> Exchange |   SpaceTime     | [Effectively Modeling Time Series with Simple Discrete State Spaces](https://openreview.net/forum?id=2EpjkjzdCAa) | [Pytorch](https://github.com/google-research/google-research/tree/master/KNF) | ICLR 2023
 | Multivariable | ETT <br> Traffic  <br> Solar  <br> Electricity <br> Exchange  <br>    PEMS03 <br> PEMS04 <br>  PEMS07  <br> PEMS08  |    SCINet    | [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://openreview.net/forum?id=AyajSjTAzmg) | [Pytorch](https://github.com/cure-lab/SCINet) | NeurIPS 2022
 | Multivariable | ETT <br> Electricity  <br> Exchange   <br> Traffic <br> Weather <br>  ILI |    FiLM    | [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://openreview.net/forum?id=zTQdHSQUQWc) | [Pytorch](https://github.com/tianzhou2011/FiLM) | NeurIPS 2022
 | Multivariable | ETT <br> Electricity  <br> Exchange  <br> Weather |    LaST    | [Learning Latent Seasonal-Trend Representations for Time Series Forecasting](https://openreview.net/forum?id=C9yUwd72yy) | [Pytorch](https://github.com/zhycs/LaST) | NeurIPS 2022
