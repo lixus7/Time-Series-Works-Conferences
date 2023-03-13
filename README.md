@@ -26,8 +26,12 @@ Some other nice time-series repositories:
 <a href="https://github.com/lixus7/Time-Series-Works-Conferences/blob/main/docs/img/WeChat.jpeg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
 
+
+<!-- 
 > I have a strong interest in time-series research. Welcome to contact me for discussions and collaborative efforts.
-<br> I am currently pursuing a doctoral degree under the supervision of Prof. [Flora Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ&view_op=list_works&sortby=pubdate) and [Hao Xue](https://scholar.google.com/citations?user=KwhLl7IAAAAJ&hl=zh-CN&oi=ao).
+<br> I am currently pursuing a doctoral degree under the supervision of Prof. [Flora Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ&view_op=list_works&sortby=pubdate) and [Hao Xue](https://scholar.google.com/citations?user=KwhLl7IAAAAJ&hl=zh-CN&oi=ao). -->
+
+
 
 The task section has been completed and we will continue to update the methodology section. If you encounter any missing resources (papers/code) or errors, please don't hesitate to open an issue or make a pull request. Additionally, if you're interested in collaborating on this work, please feel free to reach out to me.
 
