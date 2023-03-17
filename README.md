@@ -722,6 +722,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 ❗ It is highly recommended to utilize [dblp](https://dblp.uni-trier.de/) and [Aminer](https://www.aminer.cn/conf) (in Chinese) to search.
 
 Some more useful websites:
+- AI Conference Deadlines: https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR
 - CCF conference deadlines: https://ccfddl.github.io/
 - Conference eye (会议之眼): https://www.conferenceeye.cn/#/layout/home
 - Call4Papers: http://123.57.137.208/ccf/ccf-8.jsp
