@@ -732,18 +732,18 @@ Some more useful websites:
 
 |Conference | Approximate submission time |
 |:--|:--|
-| [IJCAI](#IJCAI) (to 2022)     | 1.14\~2.15 |
-| [ICML](#ICML) (to 2022)       | 1.23\~2.24 |
-| [KDD](#KDD) (to 2022)         | 2.3\~2.17  |
-| [CIKM](#CIKM) (to 2021)       | 5.15\~5.26 |
-| [NeurIPS](#NeurIPS) (to 2021) | 5.18\~6.5  |
-| [ICDM](#ICDM) (to 2021)       | 6.5\~6.17  |
-| [WSDM](#WSDM) (to 2022)       | 7.17\~8.16 |
-| [AAAI](#AAAI) (to 2022)       | 9.5\~9.15  |
-| [ICLR](#ICLR) (to 2022)       | 9.25\~10.27|
-| [WWW](#WWW) (to 2022)         | 10.14\~11.5|
-| [ICDE-1](#ICDE) (to 2022)     | 6.1\~7.21  |
-| [ICDE-2](#ICDE) (to 2022)     | 10.1\~11.17|
+| [IJCAI](#IJCAI)    | 1.14\~2.15 |
+| [ICML](#ICML)      | 1.23\~2.24 |
+| [KDD](#KDD)        | 2.3\~2.17  |
+| [CIKM](#CIKM)      | 5.15\~5.26 |
+| [NeurIPS](#NeurIPS)| 5.18\~6.5  |
+| [ICDM](#ICDM)      | 6.5\~6.17  |
+| [WSDM](#WSDM)      | 7.17\~8.16 |
+| [AAAI](#AAAI)      | 9.5\~9.15  |
+| [ICLR](#ICLR)      | 9.25\~10.27|
+| [WWW](#WWW)        | 10.14\~11.5|
+| [ICDE-1](#ICDE)    | 6.1\~7.21  |
+| [ICDE-2](#ICDE)    | 10.1\~11.17|
 Approximate conference submission times from the most recent 7 years.
 
 
