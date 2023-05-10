@@ -293,9 +293,9 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | probability | Exchange <br> Solar <br>  Electricity <br> Traffic <br> Wiki |        EMSSM       | [Memory Augmented State Space Model for Time Series Forecasting](https://doi.org/10.24963/ijcai.2022/479) |  None  | IJCAI 2022
 | Prediction <br> Intervals | DMV <br>  Census <br>  Forest <br>  Power |        Evaluation       | [Prediction Intervals for Learned Cardinality Estimation: An Experimental Evaluation](https://doi.org/10.24963/ijcai.2022/404) |  None | ICDE 2022
 | Periodic Forecasting |  ETT <br> Weather   |      DeepFS   | [Bridging Self-Attention and Time Series Decomposition for Periodic Forecasting](https://doi.org/10.1145/3511808.3557077) | None | CIKM 2022
-| probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting](https://proceedings.mlr.press/v151/park22a.html) | [GluonTS](https://github.com/awslabs/gluonts/blob/4fef7e26470d15096b11b005be846dedf87fb736/src/gluonts/torch/distributions/isqf.py) | AISTAT 2022
-| probability  |  M4 <br> Traffic <br>  Electricity    |     Robust     | [Robust Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.11910) | [GluonTS](https://github.com/tetrzim/robust-probabilistic-forecasting)  | AISTAT 2022
-| probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [GluonTS](https://github.com/awslabs/gluon-ts/tree/master/src/GluonTS/torch/model/mqf2)  | AISTAT 2022
+| probability  | Electricity <br> Traffic <br> Wiki  <br> M4   |     ISQF     | [Learning Quantile Functions without Quantile Crossing for Distribution-free Time Series Forecasting](https://proceedings.mlr.press/v151/park22a.html) | [GluonTS](https://github.com/awslabs/gluonts/blob/4fef7e26470d15096b11b005be846dedf87fb736/src/gluonts/torch/distributions/isqf.py) | AISTATS 2022
+| probability  |  M4 <br> Traffic <br>  Electricity    |     Robust     | [Robust Probabilistic Time Series Forecasting](https://arxiv.org/abs/2202.11910) | [GluonTS](https://github.com/tetrzim/robust-probabilistic-forecasting)  | AISTATS 2022
+| probability  | Electricity  <br> Traffic <br> M4     |     MQF     | [Multivariate Quantile Function Forecaster](https://arxiv.org/pdf/2202.11316.pdf) | [GluonTS](https://github.com/awslabs/gluon-ts/tree/master/src/GluonTS/torch/model/mqf2)  | AISTATS 2022
 | Imputation & <br> Probabilistic | PhysioNet  <br> Air Quality  |         CSDI       | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://proceedings.neurips.cc/paper/2021/hash/cfe8504bda37b575c70ee1a8276f3486-Abstract.html) | [Pytorch](https://github.com/ermongroup/CSDI) | NeurIPS 2021
 | probability | MIMIC-III <br> EEG <br> COVID-19  |        CF-RNN      | [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) |  [Pytorch](https://github.com/kamilest/conformal-rnn) | NeurIPS 2021
 | probability | CDC Flu  |       EPIFNP     | [When in Doubt: Neural Non-Parametric Uncertainty Quantification for Epidemic Forecasting](https://proceedings.neurips.cc/paper/2021/hash/a4a1108bbcc329a70efa93d7bf060914-Abstract.html) |  [Pytorch](https://github.com/AdityaLab/EpiFNP) | NeurIPS 2021
@@ -329,13 +329,13 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | probability  |  Weather   |    DUQ    | [Deep Uncertainty Quantification: A Machine Learning Approach for Weather Forecasting](https://doi.org/10.1145/3292500.3330704) | [Keras](https://github.com/BruceBinBoxing/Deep_Learning_Weather_Forecasting)  | KDD 2019
 | probability  |  JD50K   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | None  | KDD 2019
 | probability  |  MIMIC-III   |    TPF    | [Temporal Probabilistic Profiles for Sepsis Prediction in the ICU](https://doi.org/10.1145/3292500.3330747) | None  | KDD 2019
-| probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTAT 2019
+| probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTATS 2019
 | probability  | More |         More        | [https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Prediction) |  More |  
 
 
 
 <!--
-| probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTAT 2019 
+| probability  | Electricity <br> Traffic <br>  Wiki  <br>  Dom    |    SQF    | [Probabilistic Forecasting with Spline Quantile Function RNNs](https://proceedings.mlr.press/v89/gasthaus19a.html) | None  | AISTATS 2019 
 
 | probability  |  Electricity <br> Traffic <br>  NYCTaxi  <br>  Uber   |    framework    | [Multi-Horizon Time Series Forecasting with Temporal Attention Learning](https://doi.org/10.1145/3292500.3330662) | [Pytorch](https://github.com/mbohlkeschneider/gluon-ts/tree/mv_release)  | KDD 2019 -->
 
@@ -776,11 +776,11 @@ NeurIPS>ICML>ICLR>KDD>AAAI>IJCAI>WWW>CIKM>ICDM>WSDM
 | COLING       | B            |
 | TNNLS        | B            |
 | TITS         | B            |
-| AISTAT       | C but top    |
+| AISTATS      | C but top    |
 | ICPR         | C            |
 | Transportation Research Part C | SCI 1 Top |
 
-Note that: AISTAT is CCF C but is top in computational mathematics (such as for probabilistic problems).
+Note that: AISTATS is CCF C but is top in computational mathematics (such as for probabilistic problems).
 
 ## ICML
 
