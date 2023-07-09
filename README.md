@@ -88,8 +88,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 - <a href = "#Other-Forecasting">Other Forecasting</a>
 
 
-# https://img.shields.io/github/stars/wanghq21/MICN?color=brightgreen&style=for-the-badge
-# https://badgen.net/github/stars/wanghq21/MICN?color=brightgreen&style=for-the-badge
 
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
