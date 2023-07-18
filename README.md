@@ -4,7 +4,7 @@
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
-<a href="#Conferences">Click here to jump to the Conferences page with more information about the conferences.</a>
+<a href="#Conferences">Click here to jump to the Conferences page with more conference information.</a>
 
 Some other nice time-series repositories:
 
@@ -33,7 +33,7 @@ Some other nice time-series repositories:
 
 
 
-The task section has been completed and we will continue to update the methodology section. If you encounter any missing resources (papers/code) or errors, please don't hesitate to open an issue or make a pull request. Additionally, if you're interested in collaborating on this work, please feel free to reach out to me.
+The task section has been completed and we will continue to update the methodology section. If you encounter any missing resources (papers/code) or errors, please don't hesitate to open an issue or make a pull request. Additionally, if you're interested in collaborating on this work, please feel free to contact me.
 
 All papers are organized by task and methodology, including those not included in this GitHub repository, and are available for everyone to use on OneDrive and Google Drive (VPN required). The methodology section is still in progress.
 
@@ -44,7 +44,7 @@ All papers are organized by task and methodology, including those not included i
 
 
 
-To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and applies only to this repository.
+To reduce repetition, some data are in abbreviated form. Some terms may not represent general interpretations and apply only to this repository.
 
 |Full Name | Abbreviation|
 |:--|:--|
@@ -86,7 +86,6 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 - <a href = "#Event-Prediction">Event Prediction</a>
 - <a href = "#Stock-Prediction">Stock Prediction</a>
 - <a href = "#Other-Forecasting">Other Forecasting</a>
-
 
 
 # [Multivariable Time Series Forecasting](#content)
