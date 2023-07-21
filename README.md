@@ -89,7 +89,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 
 
 
-[Multivariable Probabilistic Time Series Forecasting](#Multivariable Probabilistic Time Series Forecasting)   
+[Multivariable Probabilistic Time Series Forecasting](#Multivariable-Probabilistic-Time-Series-Forecasting)   
 
 # [Multivariable Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
@@ -279,7 +279,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 
 
 
-#Multivariable Probabilistic Time Series Forecasting
+#Multivariable-Probabilistic-Time-Series-Forecasting
 
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
