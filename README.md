@@ -4,9 +4,10 @@
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
-or [AI ML Summary Github](https://github.com/Lionelsy/Conference-Accepted-Paper-List)
 
 <a href="#Conferences">Click here to jump to the Conferences page with more conference information.</a>
+
+or [AI ML Summary Github](https://github.com/Lionelsy/Conference-Accepted-Paper-List)
 
 Some other nice time-series repositories:
 
