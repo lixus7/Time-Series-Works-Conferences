@@ -308,7 +308,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 # [Multivariable Probabilistic Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:39 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Paper Nums:40+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Quantile  |  Boston <br> Concrete <br>  kin8nm <br>  Power <br> Protein  <br> Wine  <br> M5   |         BVAE        | [Neural Spline Search for Quantile Probabilistic Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/26184) | None | AAAI 2023
 | probability  |  Traffic <br> Electricity <br>  Weather <br>  ETT <br> Wind   |         BVAE        | [Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement](https://openreview.net/forum?id=rG0jm74xtx) | [Paddle](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE) | NeurIPS 2022
 | probability & |   Stock Price  <br>  Wind Speed|         Volat        | [Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes](https://proceedings.mlr.press/v162/benton22a.html) |   [Pytorch,GPyTorch](https://github.com/g-benton/Volt)     <br>![Stars](https://img.shields.io/github/stars/g-benton/Volt?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/g-benton/Volt?color=critical&style=social) | ICML 2022
 | probability & <br> Point & <br> Others |   electricity  <br>  Yacht <br> Boston, etc |         AQF        | [Autoregressive Quantile Flows for Predictive Uncertainty Estimation](https://openreview.net/forum?id=z1-I6rOKv1S) | None | ICLR 2022
@@ -519,7 +520,8 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 # [Travel Time Estimation](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| Paper Nums:18 | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Paper Nums:20+ | <img width=150/> | <img width=220/>  |   |   |   <img width=300/> |
+| Package Delivery <br> TTE | Cainiao |        GMDNet       | [GMDNet: A Graph-Based Mixture Density Network for Estimating Packages’ Multimodal Travel Time Distribution](https://ojs.aaai.org/index.php/AAAI/article/view/25578) | [Pytorch](https://github.com/maoxiaowei97/GMDNet) <br>![Stars](https://img.shields.io/github/stars/maoxiaowei97/GMDNet?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/maoxiaowei97/GMDNet?color=critical&style=social) | AAAI 2023
 | Delivery <br> Time Estimation | Weihai <br> Hangzhou |        IGT       | [Inductive Graph Transformer for Delivery Time Estimation](https://doi.org/10.1145/3539597.3570409) | [Pytorch](https://github.com/enoche/IGT-WSDM23) <br>![Stars](https://img.shields.io/github/stars/enoche/IGT-WSDM23?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/enoche/IGT-WSDM23?color=critical&style=social) | WSDM 2023
 | TTE | Beijing <br> Guangzhou |        HierETA       | [Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival](https://doi.org/10.1145/3534678.3539051) | [Pytorch](https://github.com/YuejiaoGong/HierETA) <br>![Stars](https://img.shields.io/github/stars/YuejiaoGong/HierETA?color=critical&style=social) <br>![Forks](https://img.shields.io/github/forks/YuejiaoGong/HierETA?color=critical&style=social) | KDD 2022
 | TTE | Beijing <br> Porto |         MetaER-TTE        | [MetaER-TTE: An Adaptive Meta-learning Model for En Route Travel Time Estimation](https://doi.org/10.24963/ijcai.2022/281) | None | IJCAI 2022
