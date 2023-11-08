@@ -1,6 +1,6 @@
 # Time-Series Works and Conferences
 
-# Backlog (To do): NIPS 2023(Only list)
+# Backlog (To do): NIPS 2023
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
