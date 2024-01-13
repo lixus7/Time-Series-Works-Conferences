@@ -28,7 +28,7 @@ Some other nice time-series repositories:
 <a href="https://github.com/lixus7/Time-Series-Works-Conferences/stargazers">     <img border="0" src="https://img.shields.io/github/stars/lixus7/Time-Series-Works-Conferences" /> </a>
 <a href="https://github.com/lixus7/Time-Series-Works-Conferences/blob/main/docs/img/WeChat.jpeg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a>
 </div>
-[![Visits Badge](https://badges.pufler.dev/visits/lixus7/Time-Series-Works-Conferences)](https://badges.pufler.dev/visits/lixus7/Time-Series-Works-Conferences)
+
 
 
 
