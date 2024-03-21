@@ -85,6 +85,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 - <a href = "#Time-Series-Imputation">Time Series Imputation</a>
 - <a href = "#Time-Series-Anomaly-Detection">Time Series Anomaly Detection</a>
 - <a href = "#Demand-Prediction">Demand Prediction</a>
+- <a href = "#Time Series Generation">Demand Prediction</a>
 - <a href = "#Travel-Time-Estimation">Travel Time Estimation</a>
 - <a href = "#Traffic-Location-Prediction">Traffic Location Prediction</a>
 - <a href = "#Event-Prediction">Event Prediction</a>
