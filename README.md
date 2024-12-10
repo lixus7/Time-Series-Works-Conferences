@@ -39,7 +39,7 @@ Some other nice time-series repositories:
 
 The task section has been completed and we will continue to update the methodology section. If you encounter any missing resources (papers/code) or errors, please don't hesitate to open an issue or make a pull request. Additionally, if you're interested in collaborating on this work, please feel free to contact me.
 
-All papers are organized by task and methodology, including those not included in this GitHub repository, and are available for everyone to use on OneDrive and Google Drive (VPN required). The methodology section is still in progress.
+All papers are organized by task and methodology, including those not included in this GitHub repository, and are available for everyone to use on OneDrive and Google Drive (VPN required). 
 
 [OneDrive](https://1drv.ms/u/s!Au2cJRs-_u93lDbLrSDkDy8htv2V?e=ftuaXd)
  
