@@ -1,6 +1,6 @@
 # Time-Series Works and Conferences
 
-# Backlog (To do): ICML 2024, KDD 2025, ...
+# Backlog (To do): KDD 2025, ...
 
 **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
