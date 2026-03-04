@@ -2,7 +2,7 @@
 
 # Backlog (To do): AAAI2025, ICML2025, AAAI2026, ICLR2026...
 
-**Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
+<!-- **Visit our [GitHub Page](https://lixus7.github.io/Time-Series-Works-Conferences/) for a better view.**
 
 
 <a href="#Conferences">Click here to jump to the Conferences page with more conference information.</a>
@@ -76,7 +76,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 | Temporal Graph Network             |  TGN    |   
 | Transformer                        |  Trans  |  
 | Transfer Learning                  |  TransL |    
-| Variational Auto-Encoder           |  VAE    |
+| Variational Auto-Encoder           |  VAE    | -->
 
 # Recent Time Series Works Grouped by Task
 
