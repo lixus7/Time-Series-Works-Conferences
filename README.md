@@ -17,7 +17,7 @@ Some other nice time-series repositories:
 
 [xuehaouwa/Awesome-Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction)
 
-[My Time-series Repo-Star List](https://github.com/stars/lixus7/lists/time-series-list)
+[My Time-series Repo-Star List](https://github.com/stars/lixus7/lists/time-series-list) -->
 
 <div align="center">
 <!-- <img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
@@ -29,7 +29,7 @@ Some other nice time-series repositories:
 <!-- <a href="https://github.com/lixus7/Time-Series-Works-Conferences/blob/main/docs/img/WeChat.jpeg">     <img border="0" src="https://camo.githubusercontent.com/013c283843363c72b1463af208803bfbd5746292/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f7765636861742e737667" /> </a> -->
 </div>
 
-
+<!-- 
 
 
 > I have a strong interest in time-series research. Welcome to contact me for discussions and collaborative efforts.
