@@ -97,7 +97,7 @@ To reduce repetition, some data are in abbreviated form. Some terms may not repr
 # [Multivariat Time Series Forecasting](#content)
 |  Task  |    Data |   Model  | Paper   |    Code    |   Publication    |
 | :-: | :-: | :-: | :-: | :-: | - |
-| <img width=10>  | <img width=10/> | <img width=10/>  | <img width=100/>  |   |   <img width=500/> |
+| <img width=10>  | <img width=10/> | <img width=10/>  | <img width=80/>  |   |   <img width=30/> |
 | Foundation <br> Multivariat | [TimesNet](https://github.com/thuml/Time-Series-Library) | Olivia | [Olivia: Harmonizing Time Series Foundation Models with Power Spectral Density](https://icml.cc/virtual/2026/papers.html) | None | ICML<br>2026
 | Foundation <br> Multivariat | [TimesNet](https://github.com/thuml/Time-Series-Library) | Time-PEFT | [Time-PEFT: Temporal and Multichannel Complexity-Based Fine-Tuning for Time-Series Foundation Models](https://icml.cc/virtual/2026/papers.html) | None | ICML<br>2026
 | Foundation <br> Multivariat | [TimesNet](https://github.com/thuml/Time-Series-Library) |  | [Universal Redundancies in Time Series Foundation Models](https://arxiv.org/abs/2602.01605) | None | ICML<br>2026
