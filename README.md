@@ -1,6 +1,13 @@
 # Time-Series Works and Conferences
 
-I have a strong interest in time-series research and I am currently pursuing a doctoral degree in CSE of UNSW, Sydney, under the supervision of Prof. [Flora Salim](https://scholar.google.com.hk/citations?user=Yz35RSYAAAAJ&hl=zh-CN&oi=ao) and [Hao Xue](https://scholar.google.com.hk/citations?user=KwhLl7IAAAAJ&hl=zh-CN&oi=ao). I got the master degree under the supervision of Prof. [Xuan Song](https://scholar.google.com.hk/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), [Quanjun Chen](https://scholar.google.com.hk/citations?user=_PKwzTwAAAAJ&hl=zh-CN) and [Renhe Jiang](https://scholar.google.com.hk/citations?user=Yo2lwasAAAAJ&hl=zh-CN&oi=ao).
+
+## About Me
+
+I am a Ph.D. student in the School of Computer Science and Engineering (CSE) at **UNSW Sydney**, Australia, where I am fortunate to be co-supervised by [Prof. Flora Salim](https://scholar.google.com.hk/citations?user=Yz35RSYAAAAJ&hl=zh-CN&oi=ao) and [Dr. Hao Xue](https://scholar.google.com.hk/citations?user=KwhLl7IAAAAJ&hl=zh-CN&oi=ao). 
+
+My research is driven by a strong passion for **Time-Series Research and Deep Learning**. Currently, my work focuses on developing next-generation **Time-Series Foundation Models (TSFMs)**, generative modeling, and scalable frameworks for complex temporal and spatio-temporal data mining.
+
+Prior to joining UNSW, I received my Master's degree, during which I had the privilege of being advised by [Prof. Xuan Song](https://scholar.google.com.hk/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), [Prof. Quanjun Chen](https://scholar.google.com.hk/citations?user=_PKwzTwAAAAJ&hl=zh-CN), and [Prof. Renhe Jiang](https://scholar.google.com.hk/citations?user=Yo2lwasAAAAJ&hl=zh-CN&oi=ao).
 
 # Backlog (To do):  
 
