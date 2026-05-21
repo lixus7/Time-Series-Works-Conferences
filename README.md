@@ -7,7 +7,7 @@ I am a Ph.D. student in the School of Computer Science and Engineering (CSE) at 
 
 My research is driven by a strong passion for **Time-Series Research and Deep Learning**. Currently, my work focuses on developing next-generation **Time-Series Foundation Models (TSFMs)**, generative modeling, and scalable frameworks for complex temporal and spatio-temporal data mining.
 
-Prior to joining UNSW, I received my Master's degree, during which I had the privilege of being advised by [Prof. Xuan Song](https://scholar.google.com.hk/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), [Prof. Quanjun Chen](https://scholar.google.com.hk/citations?user=_PKwzTwAAAAJ&hl=zh-CN), and [Prof. Renhe Jiang](https://scholar.google.com.hk/citations?user=Yo2lwasAAAAJ&hl=zh-CN&oi=ao).
+Prior to joining UNSW, I received my Master's degree, during which I had the privilege of being advised by [Prof. Xuan Song](https://scholar.google.com.hk/citations?user=_qCSLpMAAAAJ&hl=zh-CN&oi=ao), [Dr. Quanjun Chen](https://scholar.google.com.hk/citations?user=_PKwzTwAAAAJ&hl=zh-CN), and [Prof. Renhe Jiang](https://scholar.google.com.hk/citations?user=Yo2lwasAAAAJ&hl=zh-CN&oi=ao).
 
 # Backlog (To do):  
 
